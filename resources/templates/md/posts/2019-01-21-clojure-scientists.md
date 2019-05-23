@@ -3,16 +3,14 @@
  :toc true
  :tags  ["data science"]}
 
-The Clojure community is moving a lot lately on the data science front, but we were feeling we needed some organization and more open discussion about these themes. [This is the Clojureverse thread](https://clojureverse.org/t/online-meeting-clojure-data-science/3503/65) that started it all. Here we try to collect and record the current state of things, and I would like to stress the fact that this is owned by the community!
-
-I really like how the Nim community is [dealing with the same sorts of problems](https://github.com/nim-lang/needed-libraries/issues/77) we're facing, so I'll try the same thing here to foster discussion. We might want to move these things in their own topic in the future or on other platforms, but that's not the point right now.
+The Clojure community is moving a lot lately on the data science front, but we were feeling we needed some organization and more open discussion about these themes. [This is the Clojureverse thread](https://clojureverse.org/t/online-meeting-clojure-data-science/3503) that started it all. Here we try to collect and record the current state of things, and I would like to stress the fact that this is owned by the community!
 
 The structure of this:
 
 - **Name of the problem** - data science is a stack of problems and one **must** have solutions to all of them to really be productive
 - **Notable examples** - what's considered standard nowadays in other languages
 - **Status** - the current status of the matter
-- **Forward** - what is needed moving forward
+- **Next** - the next best actions
 
 # Multidimensional arrays, Linear-algebra
 
@@ -29,13 +27,18 @@ There are many libraries popping out at various levels of maturity, **some** of 
 
 - [Neanderthal](https://neanderthal.uncomplicate.org/)
 - [tvm-clj](https://github.com/techascent/tvm-clj)
+- [tech.datatype](https://github.com/techascent/tech.datatype)
 - [jutsu.matrix](https://github.com/hswick/jutsu.matrix)
 - [core.matrix](https://github.com/mikera/core.matrix)
 - [denisovan](https://github.com/cailuno/denisovan)
 
-## Forward
+## Next
 
-I think we can all agree that this degree of spread is not good, all these libraries represent wasted time and resources that might be spent on moving further other parts of the stack. We should settle on one-two of them and move on.
+We probably don't need more libraries in this realm. What would be great next is:
+
+- **Extended docs** - Something like https://docs.scipy.org/doc/numpy/index.html
+- **Tutorials** - Common use cases, advanced stuff, etc
+- **Bridges & extensions** - Libraries and packages connecting these frameworks to ther libraries or extending their functionality
 
 # Plotting
 
@@ -49,22 +52,19 @@ Plotting is important for both analysis and presentation of results. Thanks to C
 
 ## Status
 
-Here there are many libraries as well, **some* of them are:
+Here there are many libraries as well, **some** of them are:
 
 - [Saite](https://github.com/jsa-aerial/saite)/[Hanami](https://github.com/jsa-aerial/hanami)
 - [Oz](https://github.com/metasoarous/oz)
 - [gorilla-plot](https://github.com/JonyEpsilon/gorilla-plot)
 - [Quil](https://github.com/quil/quil)
+- [cljplot](https://github.com/generateme/cljplot)
 
-## Forward
+## Next
 
-In this area taste is really important so it's more normal to have more spread over different libraries. What we should do is to work on what is already available and make the plotting experience seamless: 
+There's a lot of active development in this realm, what would be helpful:
 
-```clojure
-(bar my-data)
-;=> nil
-```
-The result would be a bar chart with reasonable defaults.
+- **Tutorials** - Common use cases, advanced stuff, etc
 
 # Geospatial library
 
@@ -81,9 +81,12 @@ Not much that I'm aware of:
 
 - [geo](https://github.com/Factual/geo)
 
-## Forward
+## Next
 
 This is another area where Clojure could shine thanks to its concurrency model. The fact it would be easy to deal with [Spark](https://spark.apache.org/) or [Onyx](https://github.com/onyx-platform/onyx) it's certainly a plus.
+
+- **Libraries** - This is an area where we are still lacking
+- **Pluggability** - It would be very interesting to see libraries built on top of Spark or similar
 
 # Dataframe or similar
 
@@ -97,15 +100,18 @@ Today's data scientists are used to work with tabular data, we have to deal with
 
 ## Status
 
-Not good: there are lots of stumps here and there but nothing has ever caught on. Some examples:
+The picture has improved lately, but there still isn't consensus.
 
 - [huri](https://github.com/sbelak/huri)
 - [koala](https://github.com/aria42/koala)
-- [tech.ml-base](https://github.com/techascent/tech.ml-base)
+- [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset)
+- [spork](https://github.com/joinr/spork)
 
-## Forward
+## Next
 
-Here I would move on wrapping [Arrow](https://arrow.apache.org/) which have to potential to become the standard in the recent future, but anything that works is very welcome!
+- **Extended docs** - Something like https://pandas.pydata.org/pandas-docs/stable/
+- **Tutorials** - Common use cases, advanced stuff, etc
+- **Bridges & extensions** - Libraries and packages connecting these frameworks to ther libraries or extending their functionality
 
 # Statistics & probprog
 
@@ -127,12 +133,17 @@ There are already many examples:
 - [bayadera](https://github.com/uncomplicate/bayadera)
 - [sampling](https://github.com/bigmlcom/sampling)
 - [anglican](http://probprog.ml/anglican/index.html)
+- [distributions](https://github.com/michaellindon/distributions)
+- [metaprob](https://github.com/probcomp/metaprob)
 
-## Forward
+## Next
 
-What is missing here is the tooling: we need more abstractions over basic functionality. For instance a function to get the ROC-AUC score for model validation.
+The main building blocks are all here, what we are missing are:
 
-Also better docs and examples of what is achievable with these libraries.
+- **Bridges** - At least some of these libraries should be able to seamlessly communicate among them and with [dataset abstractions](#dataframe-or-similar) and with [arrays](#multidimensional-arrays,linear-algebra). Ideally we would have one of these able to run on GPU either directly (like bayadera) or through [MxNet](#deep-learning)
+- **Extensions** - Better and easier abstractions. For instance a function to easily calculate ROC-AUC
+- **Extended docs** - Something like https://pandas.pydata.org/pandas-docs/stable/
+- **Tutorials** - Common use cases, advanced stuff, etc
 
 # Machine learning
 
@@ -150,12 +161,17 @@ Something is moving lately in this area:
 - [fastmath](https://github.com/generateme/fastmath)
 - [clj-ml](https://github.com/joshuaeckroth/clj-ml/)
 - [clj-boost](https://gitlab.com/alanmarazzi/clj-boost)
-- [tech.ml-base](https://github.com/techascent/tech.ml-base)
+- [tech.ml](https://github.com/techascent/tech.ml)
 - [tech.xgboost](https://github.com/techascent/tech.xgboost)
 
-## Forward
+## Next
 
-As stated earlier either we pursue an [R](https://www.r-project.org/) model (with many small libraries) or the [scikit-learn](https://scikit-learn.org/) way (one big framework with batteries included), the important thing should be to have a common interface to algorithms and utilities. This would be the opposite of what happens in the R world.
+We can still decide wheter we want to pursue an [R](https://www.r-project.org/) model (with many small libraries) or the [scikit-learn](https://scikit-learn.org/) way (one big framework with batteries included), the important thing should be to have a common interface to algorithms and utilities. This would be the opposite of what happens in the R world.
+
+- **Bridges** - At least some of these libraries should be able to seamlessly communicate among them and with [dataset abstractions](#dataframe-or-similar) and with [arrays](#multidimensional-arrays,linear-algebra)
+- **Extensions** - More models, faster or more memory efficient training and so on
+- **Extended docs** - Something like https://scikit-learn.org/stable/index.html
+- **Tutorials** - Common use cases, advanced stuff, etc
 
 # Deep learning
 
@@ -171,16 +187,14 @@ Important for computer vision, NLP and other problems.
 
 We're pretty much covered especially thanks to Carin Meier's work, what can be really improved are docs, examples and tutorials.
 
-- [MXNet](https://mxnet.apache.org/api/clojure/index.html)
+- [MxNet](https://mxnet.apache.org/api/clojure/index.html)
 - [Cortex](https://github.com/originrose/cortex)
 - [jutsu.ai](https://github.com/hswick/jutsu.ai)
 - [Flare](https://github.com/aria42/flare)
 
-## Forward
+## Next
 
-Just build on what's already there
-
+- **Gluon** - Having access to the [Gluon API](https://github.com/gluon-api/gluon-api) in MxNet would be very useful
 
 > # Disclaimer
-> None of the lists are to be considered complete, they are just *some* examples. Of course these are my opinions, but everything is amendable by the community and I would really love to get a productive discussion about these topics. If you think something is missing, wrong, misplaced or anything else just let the community know!
-> Yeah, I know about [Incanter](https://github.com/incanter/incanter), I didn't mention it on purpose, but if someone thinks that it is current and useful we can surely discuss it :smile:
+> None of the lists are to be considered complete, they are just *some* examples. Everything is amendable by the community, if you think something is missing, wrong, misplaced or anything else just let the community know!
