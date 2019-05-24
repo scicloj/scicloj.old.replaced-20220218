@@ -9,6 +9,8 @@ It is written using [Cryogen](http://cryogenweb.org/) in [this repo](https://git
 
 To develop this locally, try `lein ring server`, and open the browser at http://localhost:3000/.
 
+To publish an update to Github Pages, you can use the convenience script `./publish`.
+
 ## License
 
 Copyright © 2019 Scicloj
