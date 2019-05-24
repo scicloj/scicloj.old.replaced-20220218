@@ -1,0 +1,5 @@
+
+## R interop
+- [rincanter][https://github.com/jolby/rincanter] - Use embedded R from Clojure and Incanter through JNI using [JRI](https://www.rforge.net/JRI/) 
+- [rincanter fork](https://github.com/skm-ice/rincanter) - rather than JNI, communicates with a separate R process through [RServe](https://www.rforge.net/Rserve/)
+- [rojure](https://github.com/behrica/rojure) - yet another fork, using core.matrix dataset

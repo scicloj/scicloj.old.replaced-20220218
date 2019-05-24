@@ -1,0 +1,9 @@
+#! /bin/bash
+
+# following https://tangrammer.github.io/posts/02-12-2014-cryogen-and-github.html
+
+git add . && git commit -am "WIP" && git push origin master
+
+cd resources/public && git add . && git commit -am "WIP" && git push && cd ../../
+
+
