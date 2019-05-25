@@ -20,7 +20,7 @@
 - [TBD] - joint datavis discussion
 
 ### Bayesian computing and probabilistic programming - gatherings series
-- [TBD] - Metaprob
+- [TBD] - Zane Shelby - Metaprob & related projects
 - [TBD] - Anglican
 - [TBD] - Dragan Djuric - Bayadera
 - [TBD] - David Tolpin - Probabilistic programming overview
