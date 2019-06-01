@@ -8,7 +8,7 @@
 
 ## What
 
-**Scicloj** is an open, free and dynamic hub aimed at advancing doing **data science**, **machine learning** and **numerical computing** in Clojure. There are various places where activities move forward (for more info check the [Links](#Links) section) and everyone of them is open to discussion and contribution.
+**Scicloj** is an open, free and dynamic hub aimed at advancing doing **data science**, **machine learning** and **numerical computing** in Clojure. There are various places where activities move forward (for more info check the [Where](#where) section) and everyone of them is open to discussion and contribution.
 
 ## Who
 
@@ -37,13 +37,14 @@ If you are a fellow data scientist you surely agree with the fact that predictin
 - Build a website for the community
 - Write tutorials about data science with Clojure
 - Contribute to the development of a few libraries
-- Organize and host [web meetings](https://zoom.us/meeting/register/92f7c2a1357c7ad2c5b9141539e44ee6) about the state of the art
+- Organize and host [web meetings](../gatherings) about the state of the art
 - Spread the word as much as possible about Clojure and **Scicloj** itself
 
-> This section will be updated periodically.
+This section will be updated periodically.
 
-## Links
+## Where
 
 - [GitHub](https://github.com/scicloj)
 - [Zulip](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science)
 - [Twitter](https://twitter.com/scicloj)
+- <a href="mailto:scicloj@gmail.com">scicloj@gmail.com</a>

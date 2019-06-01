@@ -3,6 +3,11 @@
  :page-index 3
  :navbar? true}
 
+To supplement our opinionated blog posts analysing the ecosystem, here is a less-opinionated, plain list of relevant libraries written by Clojurians.
+
+Do you know about anything relevant that is missing here? - [Let us talk](../about/#where)!
+
+
 ## Multidimensional arrays, Linear-algebra
 - [Neanderthal](https://neanderthal.uncomplicate.org/)
 - [tvm-clj](https://github.com/techascent/tvm-clj)
