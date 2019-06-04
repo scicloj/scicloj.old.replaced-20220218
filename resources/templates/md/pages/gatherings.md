@@ -19,7 +19,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ### data visualization - gatherigs series
 - August 9th, 5pm UTC - Christopher Small - Oz
-- August 15th Jon Anthony - Hanami+Saite
+- August 29th, 5pm Jon Anthony - Hanami+Saite
 - [TBD] - Tomasz Sulez - Fastmath+Clojure2d+Cljplot
 - [TBD] - joint datavis discussion
 
