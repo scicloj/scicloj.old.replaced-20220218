@@ -151,7 +151,7 @@ Graphs are mostly a solved problem, but only lately they are starting to be used
 
 # Statistics & probprog
 
-Very important as the base for ML systems MCMC simulations and data analytics.
+Very important as the base for ML systems, simulations and data analytics.
 
 ## Notable examples
 
@@ -181,7 +181,7 @@ The main building blocks are all here, what we are missing are:
 - **Extensions** - Better and easier abstractions. For instance a function to easily calculate ROC-AUC
 - **Extended docs** - Something like https://pandas.pydata.org/pandas-docs/stable/
 - **Tutorials** - Common use cases, advanced stuff, etc
-- **Gradients** - There's still nothing around based on gradient descent, it would be really cool to get something like [TensorFlow probability](https://github.com/tensorflow/probability) in the [MxNet](https://mxnet.apache.org/api/clojure/index.html) realm
+- **Bayesian extensions** - There's still nothing with gradient-based algorithms such as Hamiltonian Monte Carlo, it would be really cool to get something like [TensorFlow probability](https://github.com/tensorflow/probability) in the [MxNet](https://mxnet.apache.org/api/clojure/index.html) realm
 
 # Machine learning
 
@@ -207,7 +207,7 @@ Something is moving lately in this area:
 
 We can still decide wether we want to pursue an [R](https://www.r-project.org/) model (with many small libraries) or the [scikit-learn](https://scikit-learn.org/) way (one big framework with batteries included), the important thing should be to have a common interface to algorithms and utilities. 
 
-This would be the opposite of what happens in the R world, where developers and researchers are more free to deliver their ideas (R is usually the first language to get implementations of new algorithms), but at the same time the cognitive overhead for users is pretty high.
+Such interface would be the opposite of what happens in the R world, where developers and researchers are more free to deliver their ideas (R is usually the first language to get implementations of new algorithms), but at the same time the cognitive overhead for users is pretty high.
 
 - **Bridges** - At least some of these libraries should be able to seamlessly communicate among them and with [dataset abstractions](#dataframe-or-similar) and with [arrays](#multidimensional-arrays-linear-algebra)
 - **Extensions** - More models, faster or more memory efficient training and so on
@@ -230,6 +230,8 @@ There are mainly 2 libraries dealing with these things at the moment, and one is
 
 - [clojure-opennlp](https://github.com/dakrone/clojure-opennlp)
 - [clojurenlp](https://github.com/clojurenlp/core)
+- [postagga](https://github.com/fekr/postagga)
+- [vision](https://nakkaya.com/vision.html)
 
 ## Next
 
