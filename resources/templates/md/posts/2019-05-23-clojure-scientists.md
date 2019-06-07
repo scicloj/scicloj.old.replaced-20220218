@@ -78,16 +78,20 @@ Deal with coordinates on a map.
 
 ## Status
 
-Not much that I'm aware of:
+There's something in this realm, mostly dated:
 
 - [geo](https://github.com/Factual/geo)
+- [clj-jts](https://github.com/jsofra/clj-jts)
+- [cljts](https://github.com/sunng87/cljts)
+- [mapnik-jni](https://clojars.org/forma/mapnik-jni)
 
 ## Next
 
-This is another area where Clojure could shine thanks to its concurrency model. The fact it would be easy to deal with [Spark](https://spark.apache.org/) or [Onyx](https://github.com/onyx-platform/onyx) it's certainly a plus.
+This is another area where Clojure could shine thanks to its concurrency model. The fact it would be easy to deal with [Spark](https://spark.apache.org/) or [Onyx](https://github.com/onyx-platform/onyx) it's certainly a plus in case you have big data, while for smaller things parallel Clojure might be enough and speed up pipelines considerably.
 
 - **Libraries** - This is an area where we are still lacking
 - **Pluggability** - It would be very interesting to see libraries built on top of Spark or similar
+- **New things** - Tooling in this space is very primitive even for more mainstream languages, people most of the time end up with bash scripts doing most of the work and gluing stuff together. This realm is a possible win for Clojure if we're able to come up with better solutions than other languages
 
 # Dataframe or similar
 
@@ -117,15 +121,44 @@ The picture has improved lately, but there still isn't consensus.
 - **Tutorials** - Common use cases, advanced stuff, etc
 - **Bridges & extensions** - Libraries and packages connecting these frameworks to ther libraries or extending their functionality
 
+# Graphs
+
+Graphs can smartly and efficiently solve many problems, most of the time a well thought and built graph can substitute much more complex solutions
+
+## Notable examples
+
+- [GraphEngine](https://github.com/Microsoft/GraphEngine)
+- [neo4j](https://neo4j.com/)
+- [grph](http://www.i3s.unice.fr/~hogie/software/index.php?name=grph)
+- [orientdb](https://github.com/orientechnologies/orientdb)
+
+## Status
+
+The state of things is pretty good and it makes sense considering the native Clojure data structures and the nature of graphs
+
+- [neo4j-clj](https://github.com/gorillalabs/neo4j-clj)
+- [clj-odbp](https://github.com/7bridges-eu/clj-odbp)
+- [loom](https://github.com/aysylu/loom)
+- [ubergraph](https://github.com/Engelberg/ubergraph)
+- [corallo](https://github.com/7bridges-eu/corallo)
+
+## Next
+
+Graphs are mostly a solved problem, but only lately they are starting to be used extensively and there are many improvements that can be achieved in distributing graphs
+
+- **Extend** - Considering that [GraphEngine](https://github.com/Microsoft/GraphEngine) runs on the CLR it should be possible (and very interesting) to get a Clojure API
+- **Tutorials** - Let's show people the power of weilding graphs and Clojure together!
+
 # Statistics & probprog
 
-Very important as the base for ML systems and evaluation of models.
+Very important as the base for ML systems MCMC simulations and data analytics.
 
 ## Notable examples
 
 - [scipy](https://www.scipy.org/)
 - [scikit-learn](https://scikit-learn.org/)
 - [R](https://www.r-project.org/)
+- [TensorFlow probability](https://github.com/tensorflow/probability)
 
 ## Status
 
@@ -148,6 +181,7 @@ The main building blocks are all here, what we are missing are:
 - **Extensions** - Better and easier abstractions. For instance a function to easily calculate ROC-AUC
 - **Extended docs** - Something like https://pandas.pydata.org/pandas-docs/stable/
 - **Tutorials** - Common use cases, advanced stuff, etc
+- **Gradients** - There's still nothing around based on gradient descent, it would be really cool to get something like [TensorFlow probability](https://github.com/tensorflow/probability) in the [MxNet](https://mxnet.apache.org/api/clojure/index.html) realm
 
 # Machine learning
 
@@ -171,12 +205,56 @@ Something is moving lately in this area:
 
 ## Next
 
-We can still decide wheter we want to pursue an [R](https://www.r-project.org/) model (with many small libraries) or the [scikit-learn](https://scikit-learn.org/) way (one big framework with batteries included), the important thing should be to have a common interface to algorithms and utilities. This would be the opposite of what happens in the R world.
+We can still decide wether we want to pursue an [R](https://www.r-project.org/) model (with many small libraries) or the [scikit-learn](https://scikit-learn.org/) way (one big framework with batteries included), the important thing should be to have a common interface to algorithms and utilities. 
 
-- **Bridges** - At least some of these libraries should be able to seamlessly communicate among them and with [dataset abstractions](#dataframe-or-similar) and with [arrays](#multidimensional-arrays,linear-algebra)
+This would be the opposite of what happens in the R world, where developers and researchers are more free to deliver their ideas (R is usually the first language to get implementations of new algorithms), but at the same time the cognitive overhead for users is pretty high.
+
+- **Bridges** - At least some of these libraries should be able to seamlessly communicate among them and with [dataset abstractions](#dataframe-or-similar) and with [arrays](#multidimensional-arrays-linear-algebra)
 - **Extensions** - More models, faster or more memory efficient training and so on
 - **Extended docs** - Something like https://scikit-learn.org/stable/index.html
 - **Tutorials** - Common use cases, advanced stuff, etc
+
+# NLP
+
+Natural Language Processing is at the bleeding edge at the moment, but Clojure is lagging behind at the moment.
+
+## Notable examples
+
+- [gensim](https://radimrehurek.com/gensim/)
+- [spacy](https://spacy.io/)
+- [nltk](https://www.nltk.org/)
+
+## Status
+
+There are mainly 2 libraries dealing with these things at the moment, and one is currently looking for maintainers:
+
+- [clojure-opennlp](https://github.com/dakrone/clojure-opennlp)
+- [clojurenlp](https://github.com/clojurenlp/core)
+
+## Next
+
+It might very well be that all we need is a couple of very thorough and dedicated libraries, but we're not there yet
+
+- **Maintain** - `clojurenlp` is currently looking for maintainers, get in touch with them if you're interested
+- **Extend** - increase the functionality and the performance
+
+# Image processing
+
+Before doing anything with CNNs you have to read, process and transform images. The state of things here is much better than for many of the other sections!
+
+## Notable examples
+
+- [scikit-image](https://scikit-image.org/)
+- [opencv](https://opencv.org/)
+
+## Status
+
+We're basically ready to do anything we want with images!
+
+- [MxNet](https://github.com/apache/incubator-mxnet/tree/master/contrib/clojure-package)
+- [tech.opencv](https://github.com/techascent/tech.opencv)
+- [eye-boof](https://github.com/boechat107/eye-boof)
+- [imagez](https://github.com/mikera/imagez)
 
 # Deep learning
 
@@ -186,7 +264,7 @@ Important for computer vision, NLP and other problems.
 
 - [TensorFlow](https://www.tensorflow.org/)
 - [PyTorch](https://pytorch.org/)
-- [MXNet](https://mxnet.apache.org/)
+- [MxNet](https://mxnet.apache.org/)
 
 ## Status
 
@@ -201,5 +279,6 @@ We're pretty much covered especially thanks to Carin Meier's work, what can be r
 
 - **Gluon** - Having access to the [Gluon API](https://github.com/gluon-api/gluon-api) in MxNet would be very useful
 
-> # Disclaimer
+
+> **Disclaimer**
 > None of the lists are to be considered complete, they are just *some* examples. Everything is amendable by the community, if you think something is missing, wrong, misplaced or anything else just let the community know!
