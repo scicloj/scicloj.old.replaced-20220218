@@ -47,4 +47,5 @@ This section will be updated periodically.
 - [GitHub](https://github.com/scicloj)
 - [Zulip](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science)
 - [Twitter](https://twitter.com/scicloj)
+- [Youtube](http://yt.vu/+scicloj)
 - <a href="mailto:scicloj@gmail.com">scicloj@gmail.com</a>

@@ -11,11 +11,11 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - April 15th 2019, 3pm UTC - Chris Nuernberger - Tech.ml - [video](https://www.youtube.com/watch?v=NyMABoUEj20&t=6m50s) - [transcript](https://github.com/joinr/sciclojminutes/blob/master/meeting.org)
 - May 15th 2019, 10pm UTC - Carin Meier - Clojure MXNet - [video](https://www.youtube.com/watch?v=niCq-pvDyZc)
+- June 20th, 2pm UTC - Martin Kavalar - Nextjournal - [video](https://www.youtube.com/watch?v=MI9tl-3kNS0)
 
 ## Future
 
-- June 20th, 2pm UTC - Martin Kavalar - Nextjournal
-- July [TBD] - Dragan Djuric - Deep Learning writings
+- Jul 18th, 5pm UTC - Chris Nuernberger - Libpython-clj - Alan Marazzi - Panthera
 
 ### data visualization - gatherigs series
 - August 9th, 5pm UTC - Christopher Small - Oz
