@@ -9,7 +9,7 @@ Of course, they allow us to share and learn existing methods and practices. No l
 
 Do you wish to add your tutorial to this list? - [Let us talk](../about/#where)!
 
-We follow a certain workflow for reviewing and refining tutorials and articles. More details [here](../tutorials_workflow.md).
+We follow a certain workflow for reviewing and refining tutorials and articles. More details [here](../tutorials_workflow/).
 
 
  ## Transducers
