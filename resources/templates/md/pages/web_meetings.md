@@ -23,13 +23,13 @@ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/w
 
 ## Future
 
-### data visualization - gatherigs series
+### data visualization and literate programming series
 - August 9th, 5pm UTC - Christopher Small - Oz
 - August 29th, 5pm Jon Anthony - Hanami+Saite
 - [TBD] - Tomasz Sulez - Fastmath+Clojure2d+Cljplot
 - [TBD] - joint datavis discussion
 
-### Bayesian computing and probabilistic programming - gatherings series
+### Bayesian computing and probabilistic programming series
 - [TBD] - Zane Shelby - Metaprob & related projects
 - [TBD] - Dragan Djuric - Bayadera
 - [TBD] - David Tolpin - Probabilistic programming overview
