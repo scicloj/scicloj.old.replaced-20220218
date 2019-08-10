@@ -1,6 +1,6 @@
 {:title "Libraries"
  :layout :page
- :page-index 3
+ :page-index 4
  :navbar? true}
 
 To supplement our opinionated blog posts analysing the ecosystem, here is a less-opinionated, plain list of relevant libraries written by Clojurians.
