@@ -19,6 +19,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 - June 30th, 5pm UTC - Alan Marazzi, Ethan Zane Miller and Vijay Kiran
 interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/watch?v=ld5du3L-emM)
 - Jul 18th, 5pm UTC - Chris Nuernberger - Libpython-clj - Alan Marazzi - Panthera - [video](https://www.youtube.com/watch?v=ajDiGS73i2o)
+
 ### data visualization and literate programming series
 - August 9th, 5pm UTC - Christopher Small - Oz - [video](https://youtu.be/CRLvHgQzhmI)
 
