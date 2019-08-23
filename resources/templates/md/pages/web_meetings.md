@@ -31,6 +31,7 @@ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/w
 - [TBD] - joint datavis discussion
 
 ### Bayesian computing and probabilistic programming series
-- [TBD] - Zane Shelby - Metaprob & related projects
+- [TBD] - Chrstian Weilbach - Anglican
+- [TBD] - Zane Shelby - Metaprob, InferenceQL & related projects
 - [TBD] - Dragan Djuric - Bayadera
 - [TBD] - David Tolpin - Probabilistic programming overview
