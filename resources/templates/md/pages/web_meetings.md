@@ -26,7 +26,7 @@ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/w
 
 ## Future
 
-- [TBD] - Daniel Slutsky - R-interop
+- September 12th, 5pm UTC - Daniel Slutsky - R-interop
 
 ### data visualization and literate programming series
 - [TBD] - Tomasz Sulez - Fastmath+Clojure2d+Cljplot
