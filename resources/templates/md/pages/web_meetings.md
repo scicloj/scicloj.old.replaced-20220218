@@ -24,9 +24,16 @@ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/w
 - August 9th, 5pm UTC - Christopher Small - Oz - [video](https://youtu.be/CRLvHgQzhmI)
 - August 29th, 5pm Jon Anthony - Hanami+Saite - [video](https://youtu.be/3Hx7kbub9YE)
 
-## Future
 
 - September 12th, 5pm UTC - Daniel Slutsky - R-interop
+
+
+## Future
+
+- [TBD] - Joel Holdbrooks - Meander
+
+- [TBD] - Konrad Kühne - Datahike
+
 
 ### data visualization and literate programming series
 - [TBD] - Tomasz Sulez - Fastmath+Clojure2d+Cljplot
