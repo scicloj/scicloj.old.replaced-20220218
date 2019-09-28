@@ -25,7 +25,7 @@ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/w
 - August 29th, 5pm Jon Anthony - Hanami+Saite - [video](https://youtu.be/3Hx7kbub9YE)
 
 
-- September 12th, 5pm UTC - Daniel Slutsky - R-interop
+- September 12th, 5pm UTC - Daniel Slutsky - R-interop - [video](https://www.youtube.com/watch?v=XoVX2Ezi_YM)
 
 
 ## Future
