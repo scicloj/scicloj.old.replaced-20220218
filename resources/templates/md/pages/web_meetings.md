@@ -30,10 +30,12 @@ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/w
 
 ## Future
 
-- [TBD] - Joel Holdbrooks - Meander
+
+### Declarative data modelling series
 
 - [TBD] - Konrad Kühne - Datahike
-
+- [TBD] - Joel Holdbrooks - Meander
+- [TBD] - Tommi Reiman - Malli
 
 ### data visualization and literate programming series
 - [TBD] - Tomasz Sulez - Fastmath+Clojure2d+Cljplot
