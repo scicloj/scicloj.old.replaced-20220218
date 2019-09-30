@@ -38,6 +38,7 @@ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/w
 - [TBD] - Tommi Reiman - Malli
 
 ### data visualization and literate programming series
+- [TBD] - Klaus Harbo - Clojupyter
 - [TBD] - Tomasz Sulez - Fastmath+Clojure2d+Cljplot
 - [TBD] - joint datavis discussion
 
