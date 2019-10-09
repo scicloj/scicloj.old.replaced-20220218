@@ -34,8 +34,8 @@ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/w
 ### Declarative data modelling series
 
 - October 14th, 3pm UTC - Konrad Kühne - Datahike
-- [TBD] - Joel Holdbrooks - Meander
 - [TBD] - Tommi Reiman - Malli
+- [TBD] - Joel Holdbrooks - Meander
 
 ### data visualization and literate programming series
 - [TBD] - Klaus Harbo - Clojupyter
