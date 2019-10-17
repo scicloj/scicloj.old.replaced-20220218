@@ -2,6 +2,9 @@
 {%block subtitle %}: {{post.title}}{% endblock %}
 {% block content %}
 <div id="post">
+    <p>This is an opinionated blog post. Community members are invited to contribute their opinions as posts at this blog.</p>
+    <hr></hr>
+
     {% include "/html/post-content.html" %}
     <div id="prev-next">
         {% if post.prev %}
