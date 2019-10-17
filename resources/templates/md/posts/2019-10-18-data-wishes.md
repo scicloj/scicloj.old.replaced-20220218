@@ -2,7 +2,7 @@
  :layout :post
  :toc true
  :author "Sami Kallinen, Konrad Kühne, Daniel Slutsky"
- :tags  ["data science"]}
+ :tags  ["community"]}
 
 On Sunday afternoon, Sep. 29th 2019, we had a meeting at the 8-bit-sheep office of Sami at [Maria 01](https://maria.io/about/), Helsinki. One hour earlier, Konrad just finished participating in a 24h [opendata hackathon](https://www.meetup.com/Lamia-hackathons/events/264053121/). We were all tired and emotionally affected by [ClojuTRE](https://clojutre.org/2019/), that just ended on Friday.
 
