@@ -8,7 +8,11 @@
 
 ## What
 
-**Scicloj** is an open, free and dynamic hub aimed at advancing doing **data science**, **machine learning** and **numerical computing** in Clojure. There are various places where activities move forward (for more info check the [Where](#where) section) and everyone of them is open to discussion and contribution.
+**Scicloj** is an open, free and dynamic hub for building the Clojure ecosystem for **data science**, **scientific computing** and **data engineering**.
+
+In short, it is for anyone who is interested in using Clojure to work with data.
+
+There are various places where activities move forward (for more info check the [Where](#where) section), and they are all open to discussion and contribution.
 
 ## Who
 
