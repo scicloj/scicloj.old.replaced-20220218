@@ -43,7 +43,7 @@ body {
     font-family: "Arimo", Arial, Verdana, Helvetica, sans-serif;
     font-size: 18px;
     color: #111;
-    font-weight: 200;
+    font-weight: normal;
     line-height: 28px;
     background: #EEE;
     text-rendering: optimizeLegibility;
