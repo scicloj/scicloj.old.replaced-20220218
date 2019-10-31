@@ -29,13 +29,12 @@ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/w
 
 ### Declarative data modelling series
 - October 14th, 3pm UTC - Konrad Kühne - Datahike - [video](https://youtu.be/Hjo4TEV81sQ)
+- October 28th, 6pm UTC - Tommi Reiman - Malli - video will be here soon
 
 ## Future
 
-
 ### Declarative data modelling series
 
-- October 28th, 6pm UTC - Tommi Reiman - Malli
 - [TBD] - Joel Holdbrooks - Meander
 
 ### data visualization and literate programming series
