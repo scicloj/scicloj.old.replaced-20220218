@@ -29,7 +29,7 @@ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/w
 
 ### Declarative data modelling series
 - October 14th, 3pm UTC - Konrad Kühne - Datahike - [video](https://youtu.be/Hjo4TEV81sQ)
-- October 28th, 6pm UTC - Tommi Reiman - Malli - video will be here soon
+- October 28th, 6pm UTC - Tommi Reiman - Malli - [video](https://youtu.be/YhP6tI22uQ4)
 
 ## Future
 
