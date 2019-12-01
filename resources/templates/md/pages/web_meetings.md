@@ -33,6 +33,8 @@ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/w
 
 ## Future
 
+- [TBD] Joanne Cheng - Drawing maps
+
 ### Declarative data modelling series
 
 - [TBD] - Joel Holdbrooks - Meander
