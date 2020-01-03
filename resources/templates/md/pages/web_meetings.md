@@ -17,7 +17,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 - May 15th 2019, 10pm UTC - Carin Meier - Clojure MXNet - [video](https://www.youtube.com/watch?v=niCq-pvDyZc)
 - June 20th, 2pm UTC - Martin Kavalar - Nextjournal - [video](https://www.youtube.com/watch?v=MI9tl-3kNS0)
 - June 30th, 5pm UTC - Alan Marazzi, Ethan Zane Miller and Vijay Kiran
-interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/watch?v=ld5du3L-emM)
+ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/watch?v=ld5du3L-emM)
 - Jul 18th, 5pm UTC - Chris Nuernberger - Libpython-clj - Alan Marazzi - Panthera - [video](https://www.youtube.com/watch?v=ajDiGS73i2o)
 
 ### data visualization and literate programming series
