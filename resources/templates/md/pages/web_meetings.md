@@ -33,7 +33,7 @@ interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/w
 
 ## Future
 
-- January 9th 2020, 3pm-5pm UTC, Ludovic Courtès - Guix-Jupyter reproducible notebooks
+- January 9th 2020, 3pm-5pm UTC - Ludovic Courtès - Guix-Jupyter reproducible notebooks
 - [TBD] Joanne Cheng - Drawing maps
 
 ### Declarative data modelling series
