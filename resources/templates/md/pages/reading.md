@@ -15,7 +15,10 @@ Do you wish to add your tutorial to this list? Do you have any suggestions for t
 
 - [Dragan Djuric](https://dragan.rocks) - numerical computing, linear algebra, high performance computing and deep learning
 
-- [Dieter Komentera's Nextjournal collection](https://nextjournal.com/kommen) - various topics
+- [Christopher Small](http://metasoarous.com/blog) - discussing the development of Oz, among other things
+
+- [Clojure Goes Fast](http://clojure-goes-fast.com/blog/) - overviews tools and practices for profiling and improving performance in Clojure
+
 
 ## Tutorials 
 
@@ -23,6 +26,7 @@ Tutorials play an important role on our journey to make Clojure an accessible, f
 
 Of course, they allow us to share and learn existing methods and practices. No less importantly, working on tutorials helps us see the toolset meet its use cases, and thus realize what is still missing, and what could be improved.
 
+- [Dieter Komentera's Nextjournal collection](https://nextjournal.com/kommen) - various topics
 
 ### Transducers
 - [A general introduction](https://nbviewer.jupyter.org/github/amitramon/clojure-keynotes/blob/master/notebooks/transducers.ipynb) by Amit Ramon. 
@@ -35,4 +39,23 @@ Of course, they allow us to share and learn existing methods and practices. No l
 - See mainly the growing list of tutorials at [Squid's Blogs](https://gigasquidsoftware.com) mentioned above.
 #### Plotting
 - [Fun With Matplotlib](https://nextjournal.com/chrisn/fun-with-matplotlib) by Chris Nuernberger.
+- [Panthera tutorials](https://github.com/alanmarazzi/panthera#examples)
 
+### R interop
+- [Clojisr tutorials](https://github.com/scicloj/clojisr#tutorials)
+
+### Literate programming
+- [Clojupyter examples](https://github.com/clojupyter/clojupyter/tree/master/examples)
+- [Notespace tutorial](https://scicloj.github.io/notespace/resources/public/notespace/v2/tutorial-test/index.html) (experimental)
+
+
+## Books
+
+- [Books by Dragan Djuric](https://dragan.rocks/articles/19/Judge-a-clojure-programming-book-by-its-cover) about Deep Learning and about Linear Algebra in Clojure - books developed alongside Dragan's work on libraries in this fields
+
+- Clojure for Data Science by Henry Garner - a bit dated in terms of the stack it presents, but stll relevant in terms of the principles presented
+
+
+## Other collections of resources
+
+- [Resources for Clojure beginners](https://gist.github.com/yogthos/be323be0361c589570a6da4ccc85f58f) collected by Dmitri Sotnikov
