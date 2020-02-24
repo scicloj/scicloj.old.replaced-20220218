@@ -61,7 +61,7 @@ We tag libraries with the field they are relevant to.
 - [cljplot](https://github.com/generateme/cljplot) (`act`,`exp`): `vis` - a data visualization platform written in Clojure and inspired by R's ggplot2 and lattice libraries
 - [Clojupyter](https://github.com/clojupyter/clojupyter) (`act`): `lit` - a Clojure kernel for Jupyter
 - [IClojure](https://github.com/HCADatalab/IClojure): `lit` - a Clojure kernel for Jupyter
-- [Notespace](https://github.com/scicloj/notespace): `lit` - notebook experience with clojure namespaces edited at any editor
+- [Notespace](https://github.com/scicloj/notespace): `lit` - notebook experience with Clojure namespaces edited at any editor
 
 ## Data processing
 - [Specter](https://github.com/redplanetlabs/specter) (`act`): `data`,`cljs` - declarative navigation of nested data structures for selection and transformation in Clojure and Clojurescript
