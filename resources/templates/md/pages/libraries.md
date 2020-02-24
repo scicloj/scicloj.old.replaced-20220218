@@ -36,29 +36,29 @@ We tag libraries with the field they are relevant to.
 * `cljs` - supports not only Clojure but also Clojurescript
 
 ## Diverse toolsets
-- [spork](https://github.com/joinr/spork) (`act`): `opt`, `df`, `vis`, `rand`, `graph`, `ui` - a toolbox for data-science and operation research
-- [fastmath](https://github.com/generateme/fastmath) (`act`): `math`, `stat`, `rand`, `ml` - a collection of functions for mathematical and statistical computing, macine learning, etc., wrapping several JVM libraries
+- [spork](https://github.com/joinr/spork) (`act`): `opt`,`df`,`vis`,`rand`,`graph`,`ui` - a toolbox for data-science and operation research
+- [fastmath](https://github.com/generateme/fastmath) (`act`): `math`,`stat`,`rand`,`ml` - a collection of functions for mathematical and statistical computing, macine learning, etc., wrapping several JVM libraries
 - [Incanter](https://github.com/incanter/incanter): `df`,`stat`,`vis`,`rand`,`csv` - an R-like data-science platform built on top of the core.matrix abstractions
-- [huri](https://github.com/sbelak/huri): `df`, `stat`, `vis` - a toolbox for data-science using plain sequences of maps
+- [huri](https://github.com/sbelak/huri): `df`,`stat`,`vis` - a toolbox for data-science using plain sequences of maps
 
 ## Array programming, linear algebra
-- [tech.datatype](https://github.com/techascent/tech.datatype) (`act`): `array`, `native`, `stat` - abstractions and foundations for working with array-like structures and sequential structures
-- [tvm-clj](https://github.com/techascent/tvm-clj) (`act`, `exp`): `array`,`linalg`,`native`,`gpu` - bindings to [tvm](https://github.com/apache/incubator-tvm)
+- [tech.datatype](https://github.com/techascent/tech.datatype) (`act`): `array`,`native`,`stat` - abstractions and foundations for working with array-like structures and sequential structures
+- [tvm-clj](https://github.com/techascent/tvm-clj) (`act`,`exp`): `array`,`linalg`,`native`,`gpu` - bindings to [tvm](https://github.com/apache/incubator-tvm)
 - [Neanderthal](https://neanderthal.uncomplicate.org/) (`act`): `array`,`linalg`,`native`,`gpu` - matrix and linear algebra in Clojure
 - [jutsu.matrix](https://github.com/hswick/jutsu.matrix): `array`,`linalg`,`native`,`gpu` - bindigs to [ND4J](https://deeplearning4j.org/docs/latest/nd4j-overview)
 - [core.matrix](https://github.com/mikera/core.matrix): `array`,`linalg`,`native`,`cljs` - matrix abstractions, supporting diffent backends
 - [denisovan](https://github.com/cailuno/denisovan): `array`,`linalg`,`native`,`gpu` - Neanderthal backend for core.matrix 
 
 ## Literate programming and data visualization
-- [Hanami](https://github.com/jsa-aerial/hanami)(`act`): `vis`, `ui` - a template system for creating interactive data visualizations using Vega/Vega-lite, Reagent and Re-Com
-- [Saite](https://github.com/jsa-aerial/saite) (`act`): `vis`, `lit`, `ui` - a literate programming application written using Hanami
-- [Oz](https://github.com/metasoarous/oz) (`act`): `vis`, `lit` - data visuzliation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
+- [Hanami](https://github.com/jsa-aerial/hanami)(`act`): `vis`,`ui` - a template system for creating interactive data visualizations using Vega/Vega-lite, Reagent and Re-Com
+- [Saite](https://github.com/jsa-aerial/saite) (`act`): `vis`,`lit`,`ui` - a literate programming application written using Hanami
+- [Oz](https://github.com/metasoarous/oz) (`act`): `vis`,`lit` - data visuzliation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
 - [Gorilla-REPL](http://gorilla-repl.org/): `lit` - a notebook application written in Clojure and Javascript
 - [Gorilla-plot](https://github.com/JonyEpsilon/gorilla-plot): `vis` - plotting functions using Vega for Gorilla-REPL
-- [Pink-Gorilla](https://github.com/pink-gorilla) (`act`, `exp`, temporary name): `vis`, `lit`, `ui`, `cljs` - a port of the Gorilla REPL project using a Clojurescript (Reagent) frontend
-- [gg4clj](https://github.com/JonyEpsilon/gg4clj): `vis`, `r` - a clojure DSL for creating ggplot2 plots using R
+- [Pink-Gorilla](https://github.com/pink-gorilla) (`act`,`exp`, temporary name): `vis`,`lit`,`ui`,`cljs` - a port of the Gorilla REPL project using a Clojurescript (Reagent) frontend
+- [gg4clj](https://github.com/JonyEpsilon/gg4clj): `vis`,`r` - a clojure DSL for creating ggplot2 plots using R
 - [Quil](https://github.com/quil/quil): `vis` - a clojure/clojuresctit wrapper for Processing 
-- [cljplot](https://github.com/generateme/cljplot) (`act`, `exp`): `vis` - a data visualization platform written in Clojure and inspired by R's ggplot2 and lattice libraries
+- [cljplot](https://github.com/generateme/cljplot) (`act`,`exp`): `vis` - a data visualization platform written in Clojure and inspired by R's ggplot2 and lattice libraries
 - [Clojupyter](https://github.com/clojupyter/clojupyter) (`act`): `lit` - a Clojure kernel for Jupyter
 - [IClojure](https://github.com/HCADatalab/IClojure): `lit` - a Clojure kernel for Jupyter
 
@@ -76,10 +76,10 @@ We tag libraries with the field they are relevant to.
 
 ## Dataframe-like structures
 - [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) (`act`): `df`,`stat`,`vis`,`csv` - abstractions for dataframe-like structures in clojure, based on tech.datatype abstractions, with an implementation using the Tablesaw Java library
-- [Panthera](https://github.com/alanmarazzi/panthera): `df`, `py` - a Clojure API wrapping Python's Pandas library
+- [Panthera](https://github.com/alanmarazzi/panthera): `df`,`py` - a Clojure API wrapping Python's Pandas library
 - [koala](https://github.com/aria42/koala) (`exp`): `df`,`csv` - Pandas-like data-processing for clojure with some I/O functionality
 - [dataframe](https://github.com/ghl3/dataframe): `df` - Pandas-like data processing for clojure
-- [danzig](https://github.com/ribelo/wombat) (formerly wombat) (`act`, `exp`): `df`,`xform` - Pandas-like data processing using transducers
+- [danzig](https://github.com/ribelo/wombat) (formerly wombat) (`act`,`exp`): `df`,`xform` - Pandas-like data processing using transducers
 
 ## Statistics
 - [kixi.stats](https://github.com/MastodonC/kixi.stats): `stat`,`rand`,`xform` - statistics and random sampling using transducers
@@ -89,9 +89,9 @@ We tag libraries with the field they are relevant to.
 
 ## Bayesian computing, random sampling & probprog
 - [inferme](https://github.com/generateme/inferme): `prob`,`rand`,`vis` - extensible probabilistic programming in Clojure itself (rather than a language variation), with support for visualizations
-- [bayadera](https://github.com/uncomplicate/bayadera): `prob`, `gpu` - Bayesian computing using the GPU
+- [bayadera](https://github.com/uncomplicate/bayadera): `prob`,`gpu` - Bayesian computing using the GPU
 - [sampling](https://github.com/bigmlcom/sampling): `rand` - support srandom sampling of different kinds
-- [distributions](https://github.com/michaellindon/distributions): `rand`, `prob` - random sampling and some basic Bayesian computing for certain families of distributions
+- [distributions](https://github.com/michaellindon/distributions): `rand`,`prob` - random sampling and some basic Bayesian computing for certain families of distributions
 - [metaprob](https://github.com/probcomp/metaprob) (`exp`): `prob`,`rand`,`cljs` - an embedded languages for probabilistic programming and metaprogramming
 - [anglican](http://probprog.ml/anglican/index.html): `prob`,`rand`,`cljs` - a probabilistic programming language written in clojure, that supports a subset of clojure
 
