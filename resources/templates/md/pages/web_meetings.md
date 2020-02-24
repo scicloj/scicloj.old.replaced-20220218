@@ -20,33 +20,18 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
  interviewed Jon Anthony about Hanami & Saite - [video](https://www.youtube.com/watch?v=ld5du3L-emM)
 - Jul 18th, 5pm UTC - Chris Nuernberger - Libpython-clj - Alan Marazzi - Panthera - [video](https://www.youtube.com/watch?v=ajDiGS73i2o)
 
-### data visualization and literate programming series
 - August 9th, 5pm UTC - Christopher Small - Oz - [video](https://youtu.be/CRLvHgQzhmI)
 - August 29th, 5pm Jon Anthony - Hanami+Saite - [video](https://youtu.be/3Hx7kbub9YE)
 
-
 - September 12th, 5pm UTC - Daniel Slutsky - R-interop - [video](https://www.youtube.com/watch?v=XoVX2Ezi_YM)
 
-### Declarative data modelling series
 - October 14th, 3pm UTC - Konrad Kühne - Datahike - [video](https://youtu.be/Hjo4TEV81sQ)
+
 - October 28th, 6pm UTC - Tommi Reiman - Malli - [video](https://youtu.be/YhP6tI22uQ4)
+
+- January 9th 2020, 3pm-5pm UTC - Ludovic Courtès - Guix-Jupyter reproducible notebooks - video coming soon
 
 ## Future
 
-- January 9th 2020, 3pm-5pm UTC - Ludovic Courtès - Guix-Jupyter reproducible notebooks
 - [TBD] Joanne Cheng - Drawing maps
 
-### Declarative data modelling series
-
-- [TBD] - Joel Holdbrooks - Meander
-
-### data visualization and literate programming series
-- [TBD] - Klaus Harbo - Clojupyter
-- [TBD] - Tomasz Sulez - Fastmath+Clojure2d+Cljplot
-- [TBD] - joint datavis discussion
-
-### Bayesian computing and probabilistic programming series
-- [TBD] - Chrstian Weilbach - Anglican
-- [TBD] - Zane Shelby - Metaprob, InferenceQL & related projects
-- [TBD] - Dragan Djuric - Bayadera
-- [TBD] - David Tolpin - Probabilistic programming overview
