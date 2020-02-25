@@ -72,7 +72,8 @@ We tag libraries with the field they are relevant to.
 
 ## Geospatial processing 
 - [geo](https://github.com/Factual/geo) (`act`): `geo` - unifying several JVM libraries for geoprocessing with a Clojure API
-- [geo-clj](https://github.com/r0man/geo-clj) (`act`): `geo`,`cljs`
+- [geo-clj](https://github.com/r0man/geo-clj) (`act`): `geo`,`cljs` - encoding/decoding of geographic datatypes 
+- [aurelius](https://github.com/willcohen/aurelius) (`act`,`exp`): `geo`, `xform` - transducible analysis of geospatial features
 
 ## Dataframe-like structures
 - [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) (`act`): `df`,`stat`,`vis`,`csv` - abstractions for dataframe-like structures in clojure, based on tech.datatype abstractions, with an implementation using the Tablesaw Java library
