@@ -34,7 +34,7 @@ Of course, they allow us to share and learn existing methods and practices. No l
 
 - [Alan Marazzi](https://nextjournal.com/alan/) - various topics
 
-- [Carin Meier Nextjournl collection](https://nextjournal.com/gigasquid) - mainly Python interop
+- [Carin Meier](https://nextjournal.com/gigasquid) - mainly Python interop
 
 - [Chris Nuernberger](https://nextjournal.com/chrisn) - mainly Python interop
 
