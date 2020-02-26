@@ -1,7 +1,8 @@
 {:title "Reading"
  :layout :page
  :page-index 5
- :navbar? true}
+ :navbar? true
+ :toc true}
 
 Here are some suggested reading materials.
 
@@ -19,14 +20,24 @@ Do you wish to add your tutorial to this list? Do you have any suggestions for t
 
 - [Clojure Goes Fast](http://clojure-goes-fast.com/blog/) - overviews tools and practices for profiling and improving performance in Clojure
 
-
 ## Tutorials 
 
 Tutorials play an important role on our journey to make Clojure an accessible, friendly platform for data science.
 
 Of course, they allow us to share and learn existing methods and practices. No less importantly, working on tutorials helps us see the toolset meet its use cases, and thus realize what is still missing, and what could be improved.
 
-- [Dieter Komentera's Nextjournal collection](https://nextjournal.com/kommen) - various topics
+### Generals Nextjournal collections
+
+- [Dieter Komentera](https://nextjournal.com/kommen) - various topics
+
+- [Tomasz Sulej](https://nextjournal.com/generateme/) - various topics
+
+- [Alan Marazzi](https://nextjournal.com/alan/) - various topics
+
+- [Carin Meier Nextjournl collection](https://nextjournal.com/gigasquid) - mainly Python interop
+
+- [Chris Nuernberger](https://nextjournal.com/chrisn) - mainly Python interop
+
 
 ### Transducers
 - [A general introduction](https://nbviewer.jupyter.org/github/amitramon/clojure-keynotes/blob/master/notebooks/transducers.ipynb) by Amit Ramon. 
