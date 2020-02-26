@@ -26,7 +26,7 @@ Tutorials play an important role on our journey to make Clojure an accessible, f
 
 Of course, they allow us to share and learn existing methods and practices. No less importantly, working on tutorials helps us see the toolset meet its use cases, and thus realize what is still missing, and what could be improved.
 
-### Generals Nextjournal collections
+### General Nextjournal collections
 
 - [Dieter Komentera](https://nextjournal.com/kommen) - various topics
 
