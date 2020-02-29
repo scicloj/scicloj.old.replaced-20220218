@@ -59,6 +59,8 @@ We tag libraries with the field they are relevant to.
 - [gg4clj](https://github.com/JonyEpsilon/gg4clj): `vis`,`r` - a clojure DSL for creating ggplot2 plots using R
 - [Quil](https://github.com/quil/quil): `vis` - a clojure/clojuresctit wrapper for Processing 
 - [cljplot](https://github.com/generateme/cljplot) (`act`,`exp`): `vis` - a data visualization platform written in Clojure and inspired by R's ggplot2 and lattice libraries
+- [Devcards](https://github.com/bhauman/devcards): `lit`,`cljs`: visual repl exprience for Clojurescript
+- [Maria](https://github.com/mhuebert/maria): `lit`, `vis`, `cljs`: a Clojurescript coding environment for beginners
 - [Clojupyter](https://github.com/clojupyter/clojupyter) (`act`): `lit` - a Clojure kernel for Jupyter
 - [IClojure](https://github.com/HCADatalab/IClojure): `lit` - a Clojure kernel for Jupyter
 - [Notespace](https://github.com/scicloj/notespace) (`act`,`exp`): `lit` - notebook experience with Clojure namespaces edited at any editor
