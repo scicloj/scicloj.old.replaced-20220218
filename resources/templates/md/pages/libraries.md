@@ -58,8 +58,12 @@ We tag libraries with the field they are relevant to.
 - [Pink-Gorilla](https://github.com/pink-gorilla) (`act`,`exp`, temporary name): `vis`,`lit`,`ui`,`cljs` - a port of the Gorilla REPL project using a Clojurescript (Reagent) frontend
 - [gg4clj](https://github.com/JonyEpsilon/gg4clj): `vis`,`r` - a clojure DSL for creating ggplot2 plots using R
 - [Quil](https://github.com/quil/quil): `vis` - a clojure/clojuresctit wrapper for Processing 
+- [thi-ng/geom](https://github.com/thi-ng/geom): `vis`,`cljs` - 2d/3d geometry toolkit
+- [Org-babel-clojure](https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-clojure.html): `lt` - executing Clojure inside Emacs Org-mode documents
 - [cljplot](https://github.com/generateme/cljplot) (`act`,`exp`): `vis` - a data visualization platform written in Clojure and inspired by R's ggplot2 and lattice libraries
 - [Devcards](https://github.com/bhauman/devcards): `lit`,`cljs`: visual repl exprience for Clojurescript
+- [xvsy](https://github.com/dvdt/xvsy): `vis` - grammer of graphics over Vega
+- [proto-repl-charts](https://github.com/jasongilman/proto-repl-charts): `vis` - an Atom plugin for displaying tables and graphs
 - [Maria](https://github.com/mhuebert/maria): `lit`, `vis`, `cljs`: a Clojurescript coding environment for beginners
 - [Clojupyter](https://github.com/clojupyter/clojupyter) (`act`): `lit` - a Clojure kernel for Jupyter
 - [IClojure](https://github.com/HCADatalab/IClojure): `lit` - a Clojure kernel for Jupyter
