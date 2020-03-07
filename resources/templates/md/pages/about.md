@@ -46,10 +46,11 @@ If you are a fellow data scientist you surely agree with the fact that predictin
 
 This section will be updated periodically.
 
-## Where
+## Where 
 
 - [GitHub](https://github.com/scicloj)
-- [Zulip](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science)
+- [Chat streams](../chat_streams)
+  - [Main data science stream](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science)
 - [Twitter](https://twitter.com/scicloj)
 - [Youtube](http://yt.vu/+scicloj)
 - <a href="mailto:scicloj@gmail.com">scicloj@gmail.com</a>
