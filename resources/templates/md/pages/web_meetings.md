@@ -29,7 +29,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - October 28th, 6pm UTC - Tommi Reiman - Malli - [video](https://youtu.be/YhP6tI22uQ4)
 
-- January 9th 2020, 3pm-5pm UTC - Ludovic Courtès - Guix-Jupyter reproducible notebooks - [video](https://youtu.be/GFyv3qUXHpU)
+- January 9th 2020, 3pm-5pm UTC - Ludovic Courtès - Guix-Jupyter reproducible notebooks - [video](https://youtu.be/GFyv3qUXHpU) - [slides](http://bit.ly/scicloj-guix-jupyter) - [recap](../../posts/2020-03-07-guix-jupyter/)
 
 ## Future
 
