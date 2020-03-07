@@ -10,7 +10,7 @@ It was a special meeting, as we the topic was something out of the ususal Clojur
 
 Kindly, Ludovic Courtès of the Guix community agreed to give a talk at this scicloj web meeting, and have a discussion with us.
 
-Here are [the video](https://youtu.be/GFyv3qUXHpU) and [the slides](http://bit.ly/scicloj-guix-jupyter).
+Here are [the video](https://youtu.be/GFyv3qUXHpU) and [the slides](https://github.com/scicloj/scicloj/blob/master/resources/slides/scicloj-guix-jupyter.pdf).
 
 Now, let us discuss what it is about.
 
