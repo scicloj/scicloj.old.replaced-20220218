@@ -1,4 +1,4 @@
-{:title "Meeting Video: Guix Jupyter with Ludovic Courtes"
+{:title "Meeting Video: Guix-Jupyter with Ludovic Courtes"
  :layout :post
  :toc false
  :author "Daniel Slutsky"
