@@ -32,7 +32,7 @@ It was the first time for us to use an open-source video-conferencing tool, [Jit
 
 We began with a talk, where Ludovic gave a general introduction to Guix and reprocibility, as well as a demonstration of Guix-Jupyter.
 
-Then, we moved to an open discussion. A nice conversation emerged, with three of the participants: Martin Kavalar, the CEO of [Nextjournal](http://nextjournal.com/), a web notebook built on principles of immutability and reproducibility. Klaus Harbo, who is, among other things, the maintainer of [Clojupyter](https://github.com/clojupyter/clojupyter), a Clojure Jupyter kernel; and Daniel Szmulewicz, who has been studying various dialects of Scheme, and builds Clojure development tools on top of the Maven ecosystem.
+Then, we moved to an open discussion. A nice conversation emerged, with three of the participants: Martin Kavalar, the CEO of [Nextjournal](http://nextjournal.com/), a web notebook built on principles of immutability and reproducibility; Klaus Harbo, who is, among other things, the maintainer of [Clojupyter](https://github.com/clojupyter/clojupyter), a Clojure Jupyter kernel; and Daniel Szmulewicz, who has been studying various dialects of Scheme, and builds Clojure development tools on top of the Maven ecosystem.
 
 We discussed some technical aspects and usability aspects of Guix, as well as some conceptual questions. Interesting dilemmas arise when the Guix approach towards libre software, pure functions, reproducibility, security and transparency is used alongside other pieces of software. We also discussed some issues of possibly bringing Clojure ecosystem more fully into the Guix ecosystem. 
 
