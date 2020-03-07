@@ -20,6 +20,8 @@ Do you wish to add your tutorial to this list? Do you have any suggestions for t
 
 - [Clojure Goes Fast](http://clojure-goes-fast.com/blog/) - overviews tools and practices for profiling and improving performance in Clojure
 
+- [Applied Science blog](http://www.appliedscience.studio/articles/index.html) by Dave Liepmann, Matt Huebert and Jack Rusher - Deep learning, data visualization, data processing
+
 ## Tutorials 
 
 Tutorials play an important role on our journey to make Clojure an accessible, friendly platform for data science.
