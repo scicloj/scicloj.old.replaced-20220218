@@ -58,5 +58,6 @@ When reading the feed to cactch up, it is sometimes comfortable to browse throug
 
 When writing messages, it is recommended to be at the page of a specific topic, e.g. [#data-science / tech.ml.dataset](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/tech.2Eml.2Edataset). That would prevent some very common mistake, of writing under the wrong topic.
 
-You may wish to configure the [streams-notifications](https://zulipchat.com/help/stream-notifications) behaviours to your taste, and [browse and subscribe to streams](https://zulipchat.com/help/browse-and-subscribe-to-streams) to discover conversations relevant to you.
+You may wish to configure the [streams-notifications](https://zulipchat.com/help/stream-notifications) behaviours to your taste.
 
+To discover conversations relevant to you, you may [browse and subscribe to streams](https://zulipchat.com/help/browse-and-subscribe-to-streams). To see the feed of all public streams, including those you are not subscribed to, you can look at [this URL](https://clojurians.zulipchat.com/#narrow/streams/public/-stream/slack-archive) (note that we are filtering out the huge [#slack-archive](https://clojurians.zulipchat.com/#narrow/stream/180378-slack-archive) stream).
