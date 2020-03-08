@@ -16,7 +16,7 @@ This [original announcement](https://clojureverse.org/t/introducing-clojurians-z
 
 ## Relevant active streams
 
-Here are the main scicloj-related active streams, dedicated to certain subgroups, child communities or sister communities of scicloj.
+Here are the main scicloj-related active streams, dedicated to certain subgroups, child communities or sister communities of scicloj:
 
 - [#data-science](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science) - general data science topics
 
