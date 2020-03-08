@@ -36,7 +36,7 @@ Here are the main scicloj-related active streams, dedicated to certain subgroups
 
 Here are some geneal streams worth knowing about:
 
-- [#announce](https://clojurians.zulipchat.com/#narrow/stream/150792-announce) - aggregation of announcements of other Clojure communication platforms (Clojureverse, Reddit/r/Clojure, etc.)
+- [#announce](https://clojurians.zulipchat.com/#narrow/stream/150792-announce) - aggregation of announcements of other Clojure communication platforms (Clojureverse, Reddit /r/Clojure, etc.)
 
 - [#beginners](https://clojurians.zulipchat.com/#narrow/stream/151763-beginners)
 
