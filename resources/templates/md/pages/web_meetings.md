@@ -33,6 +33,6 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
-- [TBD] Simon Belak - Exploratory analysis: automation, augmentation, and building tools for thought - [poll](https://twitter.com/scicloj/status/1237338494357385217)
+- Mar 26th, 5pm-7pm UTC - Simon Belak - Exploratory analysis: automation, augmentation, and building tools for thought - [registration](https://twitter.com/scicloj/status/1237844104643395589)
 
 - [TBD] Joanne Cheng - Drawing maps
