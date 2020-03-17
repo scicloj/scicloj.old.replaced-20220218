@@ -35,6 +35,6 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - March 26th, 5pm-7pm UTC - Simon Belak - Exploratory analysis: automation, augmentation, and building tools for thought - [registration](https://twitter.com/scicloj/status/1237844104643395589)
 
-- [TBD] COVID-19 online Hackathon - see [../posts/http://localhost:3000/posts/2020-03-17-covid-19-hackathon-planning/]
+- [TBD] COVID-19 online Hackathon - details & survey [here](../posts/http://localhost:3000/posts/2020-03-17-covid-19-hackathon-planning/)
 
 - [TBD] Joanne Cheng - Drawing maps

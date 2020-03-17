@@ -15,7 +15,7 @@ We have several goals in mind:
 
 Towards the meeting we will discuss possible topics and data sources at the [#covid-19 stream](https://clojurians.zulipchat.com/#narrow/stream/227504-covid-19) of the Clojurians Zulip.
 
-Please mark your preferred dates for the hackathon [here](https://doodle.com/poll/8imu9dyqmftygihs).
+**Please mark your preferred dates for the hackathon [here](https://doodle.com/poll/8imu9dyqmftygihs).**
 
 See the Q&A below for some more details.
 
