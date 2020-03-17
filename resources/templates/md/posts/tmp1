@@ -1,0 +1,45 @@
+{:title "Planning a COVID-19 online hackathon"
+ :layout :post
+ :toc false
+ :author "Daniel Slutsky"
+ :tags  ["hackathon" "covid-19"]}
+
+The scicloj community is organizing an online hackathon for studying COVID-19 data.
+During one day, we will study together the COVID-19 story, using global and local data, in Clojure.
+
+Please mark your preferred dates [here](https://doodle.com/poll/8imu9dyqmftygihs).
+
+Our goal is multiple:
+
+- learn about the pandemic
+- try out the emerging Clojure data science stack
+- bring the community together
+
+
+
+## Q&A
+
+Q: What background is assumed?
+
+A: If you feel comfortable with reading and writing Clojure, you are invited.
+
+Q: I like Clojure, but I want to use other tools and languages.
+
+A: Sure. We like building bridges to other ecosystems.
+
+Q: Do you assume any additional scientific background?
+
+A: No. Some of us like probability and statistics, but it is just fine if your taste is different.
+
+Q: I can only attend for a few hours. Is it ok?
+
+A: Yes.
+
+Q: I have a friend who is curious about studying these data and does not know Clojure. Can I invite my friend?
+
+A: It would be great to invite your friend, as long as you find a way to collaborate (e.g., connect your Clojure code to their work; do some pair-coding; or just involve them in the thinking and theoretical analysis).
+
+
+
+Wishes for good health and better times!
+The scicloj organizing team

@@ -34,6 +34,8 @@ Here are the main scicloj-related active streams, dedicated to certain subgroups
 
 - [#scicloj-org](https://clojurians.zulipchat.com/#narrow/stream/203279-scicloj-org) - a **private** stream of the scicloj organizing team - for anybody interested in building the scicloj community and discssing its goals and priorities - [let us talk](../about/#where) if you wish to join.
 
+- [#covid-19](https://clojurians.zulipchat.com/#narrow/stream/227504-covid-19) - studying COVID-19 data
+
 Here are some geneal streams worth knowing about:
 
 - [#announce](https://clojurians.zulipchat.com/#narrow/stream/150792-announce) - aggregation of announcements of other Clojure communication platforms (Clojureverse, Reddit /r/Clojure, etc.)
@@ -47,6 +49,7 @@ Here are some geneal streams worth knowing about:
 - [#new-members](https://clojurians.zulipchat.com/#narrow/stream/150795-new-members) - introductions of new Clojurians Zulip members
 
 - [#zulip](https://clojurians.zulipchat.com/#narrow/stream/150796-zulip) - discussing the Zulip platform, asking for technical help
+
 
 ## Recommended practices
 
