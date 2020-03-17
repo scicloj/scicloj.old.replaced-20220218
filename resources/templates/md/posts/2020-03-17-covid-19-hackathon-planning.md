@@ -6,6 +6,8 @@
 
 The scicloj community is organizing an online hackathon for studying COVID-19 data.
 
+**Please mark your preferred dates for the hackathon [here](https://doodle.com/poll/8imu9dyqmftygihs) (yes/no/if-need-be).**
+
 During one day, we will study together the COVID-19 story, using global and local data, in Clojure.
 
 We have several goals in mind:
@@ -15,15 +17,10 @@ We have several goals in mind:
 
 Towards the meeting we will discuss possible topics and data sources at the [#covid-19 stream](https://clojurians.zulipchat.com/#narrow/stream/227504-covid-19) of the Clojurians Zulip.
 
-**Please mark your preferred dates for the hackathon [here](https://doodle.com/poll/8imu9dyqmftygihs).**
-
 See the Q&A below for some more details.
 
-Wishes for good health and better times!
 
-The scicloj organizing team
-
-
+Wishes for good health and better times! -- the scicloj organizing team
 
 
 ## Q&A
