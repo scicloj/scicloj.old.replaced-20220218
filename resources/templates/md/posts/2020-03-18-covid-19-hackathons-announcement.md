@@ -17,7 +17,7 @@ The hackathons are not intended to contain all our activity in this area. Before
 
 To attend the Hackathons, we ask you to present yourself under the [#covid-19 / hello](https://clojurians.zulipchat.com/#narrow/stream/227504-covid-19/topic/hello) topic, tell which hackathon(s) you wish to attend, and follow the announcements under the [#covid-19 / announcements](https://clojurians.zulipchat.com/#narrow/stream/227504-covid-19/topic/announcements) topic.
 
-If you wish to be involved in organizing, moderating or influencing the agenda, it would be great to mention that when presenting yourself.
+If you wish to be involved in organizing, moderating, assisting others or influencing the agenda, it would be great to mention that when presenting yourself.
 
 If you have any doubts regarding participaction, have a look at the Q&A on [yesterday's post](../2020-03-17-covid-19-hackathon-planning/), or please ask under the [#covid-19 / hackathon q&a](https://clojurians.zulipchat.com/#narrow/stream/227504-covid-19/topic/hackathon.20q.26a) topic.
  
