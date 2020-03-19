@@ -23,9 +23,11 @@ If you have any doubts regarding participaction, have a look at the Q&A on [yest
  
 ## Rough plan
 
-The Hackathons will begin in the European morning, and end in the American afternoon. 
+~~The Hackathons will begin in the European morning, and end in the American afternoon.~~ 
 
-At some points through the day, we will have video meetings of 30-60 minutes, but most of the activity will take place in text chat. 
+~~At some points through the day, we will have video meetings of 30-60 minutes, but most of the activity will take place in text chat.~~
+
+**Update: The 21.3 hackathon will begin in the European afternoon, and last 4 hours. Some parts of the meeting will be in video, and some other parts -- in text chat.**
 
 We will divide into teams, and each team will discuss things among itself, and sometimes with everybody, through the chat.
 
