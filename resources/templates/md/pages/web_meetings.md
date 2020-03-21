@@ -1,7 +1,8 @@
 {:title "Web Meetings"
  :layout :page
  :page-index 1
- :navbar? true}
+ :navbar? true
+ :toc true}
 
 Online gatherings are where we meet to have some thinking together. Usually, one main topic is presented, and then we have an open discussion afterwards.
 
@@ -33,8 +34,11 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
+- March 21st, 2pm-6pm UTC, March 29th, [hour TBD] - COVID-19 online Hackathons - details [here](../posts/2020-03-17-covid-19-hackathon-planning/) and [here](../posts/2020-03-18-covid-19-hackathons-announcement/)
+
 - March 26th, 5pm-7pm UTC - Simon Belak - Exploratory analysis: automation, augmentation, and building tools for thought - [registration](https://twitter.com/scicloj/status/1237844104643395589)
 
-- [TBD] COVID-19 online Hackathon - details & survey [here](../posts/http://localhost:3000/posts/2020-03-17-covid-19-hackathon-planning/)
+
+
 
 - [TBD] Joanne Cheng - Drawing maps
