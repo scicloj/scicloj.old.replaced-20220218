@@ -34,10 +34,11 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
-- March 21st, 2pm-6pm UTC, March 29th, [hour TBD] - COVID-19 online Hackathons - details [here](../posts/2020-03-17-covid-19-hackathon-planning/) and [here](../posts/2020-03-18-covid-19-hackathons-announcement/)
+- March 21st, 2pm-6pm UTC - COVID-19 online Hackathon - details [here](../posts/2020-03-17-covid-19-hackathon-planning/) and [here](../posts/2020-03-18-covid-19-hackathons-announcement/)
 
 - March 26th, 5pm-7pm UTC - Simon Belak - Exploratory analysis: automation, augmentation, and building tools for thought - [registration](https://twitter.com/scicloj/status/1237844104643395589)
 
+- March 29th, [hour TBD] - COVID-19 online Hackathon - details [here](../posts/2020-03-17-covid-19-hackathon-planning/) and [here](../posts/2020-03-18-covid-19-hackathons-announcement/)
 
 
 
