@@ -27,9 +27,9 @@ If you have any doubts regarding participaction, have a look at the Q&A on [yest
 
 ~~At some points through the day, we will have video meetings of 30-60 minutes, but most of the activity will take place in text chat.~~
 
-**Update: The 21.3 hackathon will begin at 2pm UTC, and last 4 hours. Some parts of the meeting will be in video, and some other parts -- in text chat.**
+**Update: Both hackathons will begin at 2pm UTC, and last 4 hours. Some parts of the meeting will be in video, and some other parts -- in text chat.**
 
-We will divide into teams, and each team will discuss things among itself, and sometimes with everybody, through the chat.
+We will split into teams, and each team will discuss things among itself, and sometimes with everybody, through the chat.
 
 For more details, please follow the [#covid-19 / announcements](https://clojurians.zulipchat.com/#narrow/stream/227504-covid-19/topic/announcements) topic.
 
