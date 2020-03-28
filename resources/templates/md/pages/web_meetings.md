@@ -32,9 +32,9 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - January 9th 2020, 3pm-5pm UTC - Ludovic Courtès - Guix-Jupyter reproducible notebooks - [video](https://youtu.be/GFyv3qUXHpU) - [slides](https://github.com/scicloj/scicloj/blob/master/resources/slides/scicloj-guix-jupyter.pdf) - [recap](../../posts/2020-03-07-guix-jupyter/)
 
-- March 21st, 2pm-6pm UTC - COVID-19 online Hackathon - details [here](../../posts/2020-03-17-covid-19-hackathon-planning/) and [here](../../posts/2020-03-18-covid-19-hackathons-announcement/) - video coming soon
+- March 21st, 2pm-6pm UTC - COVID-19 online Hackathon - details [here](../../posts/2020-03-17-covid-19-hackathon-planning/) and [here](../../posts/2020-03-18-covid-19-hackathons-announcement/) - [video](https://youtu.be/-441SPx8lTo)
 
-- March 26th, 5pm-7pm UTC - Simon Belak - Exploratory analysis: automation, augmentation, and building tools for thought - [registration](https://twitter.com/scicloj/status/1237844104643395589) - video coming soon
+- March 26th, 5pm-7pm UTC - Simon Belak - Exploratory analysis: automation, augmentation, and building tools for thought - video coming soon
 
 ## Future
 
