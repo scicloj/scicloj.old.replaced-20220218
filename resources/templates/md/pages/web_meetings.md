@@ -36,8 +36,8 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - March 26th, 5pm-7pm UTC - Simon Belak - Exploratory analysis: automation, augmentation, and building tools for thought - video coming soon
 
-## Future
+- March 29th, [2pm-6pm UTC](https://time.is/1400_29_Mar_2020_in_UTC) - COVID-19 online Hackathon - details [here](../../posts/2020-03-17-covid-19-hackathon-planning/) and [here](../../posts/2020-03-18-covid-19-hackathons-announcement/) - video coming soon
 
-- March 29th, [2pm-6pm UTC](https://time.is/1400_29_Mar_2020_in_UTC) - COVID-19 online Hackathon - details [here](../../posts/2020-03-17-covid-19-hackathon-planning/) and [here](../../posts/2020-03-18-covid-19-hackathons-announcement/)
+## Future
 
 - [TBD] Joanne Cheng - Drawing maps
