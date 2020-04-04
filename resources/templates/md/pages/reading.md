@@ -40,9 +40,12 @@ Of course, they allow us to share and learn existing methods and practices. No l
 
 - [Chris Nuernberger](https://nextjournal.com/chrisn) - mainly Python interop
 
+### Math
+
+- [Math for clojurists](https://alanmarazzi.gitlab.io/blog/posts/2020-3-23-math-for-clojurists/) by Alan Marazzi
 
 ### Transducers
-- [A general introduction](https://nbviewer.jupyter.org/github/amitramon/clojure-keynotes/blob/master/notebooks/transducers.ipynb) by Amit Ramon. 
+- [A general introduction](https://nbviewer.jupyter.org/github/amitramon/clojure-keynotes/blob/master/notebooks/transducers.ipynb) by Amit Ramon
  
 ### Machine Learning
 #### XGBoost
@@ -60,7 +63,6 @@ Of course, they allow us to share and learn existing methods and practices. No l
 ### Literate programming
 - [Clojupyter examples](https://github.com/clojupyter/clojupyter/tree/master/examples)
 - [Notespace tutorial](https://scicloj.github.io/notespace/resources/public/notespace/v2/tutorial-test/index.html) (experimental)
-
 
 ## Books
 

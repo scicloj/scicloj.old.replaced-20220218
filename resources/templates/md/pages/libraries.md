@@ -118,6 +118,7 @@ We tag libraries with the field they are relevant to.
 - [Libpython-clj](https://github.com/clj-python/libpython-clj) (`act`): `interop` - interop with Python
 - [Clojisr](https://github.com/scicloj/clojisr) (`act`): `interop` - interop with R and Renjin (R on the JVM)
 - [graalvm-interop](https://github.com/davidpham87/graalvm-rinterop): `interop` - interop with FastR (GraalVM's R)
+- [rdata](https://github.com/appliedsciencestudio/rdata/) - A Renjin (pure-JVM R) wrapper to allow Clojure programs to easily read R's RData file format
 - [other R interop libraries](https://github.com/scicloj/clojisr/blob/master/doc/existing_libraries.md)
 - [from-scala](https://github.com/t6/from-scala): `interop` - interop with Scala
 
