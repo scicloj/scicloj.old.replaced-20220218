@@ -72,7 +72,7 @@ We tag libraries with the field they are relevant to.
 - [Notespace](https://github.com/scicloj/notespace) (`act`,`exp`): `lit` - notebook experience with Clojure namespaces edited at any editor
 
 ### Vega rendering
-In addition to Oz and Hanami, here is a list of dedicated tools dedicated mainly to handling [vega](https://vega.github.io/vega/)/[vega-lite](https://vega.github.io/vega-lite/) specifications. See [this conversation](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/rendering.20charts.20in.20notespace) for some discussion of the differences and tradeoffs across these tools.
+In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of dedicated tools dedicated mainly to handling [vega](https://vega.github.io/vega/)/[vega-lite](https://vega.github.io/vega-lite/) specifications. See [this conversation](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/rendering.20charts.20in.20notespace) for some discussion of the differences and tradeoffs across these tools.
 - [xvsy](https://github.com/dvdt/xvsy): `vis`,`vega`,`cljs` - grammer of graphics over Vega
 - [vegan](https://github.com/cnuernber/vegan/) (`act`): `vis`,`vega` - a nodejs clojurescript library designed to validate and render vega and vega-lite files - supports docker-based setup.
 - [vega-clj](https://github.com/behrica/vg-cli) (`act`): `vis`,`vega` - a clojure wrapper for the (node-based) vega-cli and vega-lite standalone scrips
