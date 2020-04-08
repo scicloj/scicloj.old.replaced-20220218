@@ -24,6 +24,8 @@ Here are the main scicloj-related active streams, dedicated to certain subgroups
 
 - [#saite-dev](https://clojurians.zulipchat.com/#narrow/stream/210075-saite-dev) - development of [Saite](https://github.com/jsa-aerial/saite) and related projects such as [Hanami](https://github.com/jsa-aerial/hanami) 
 
+- [#pink-gorilla-dev](https://clojurians.zulipchat.com/#narrow/stream/212578-pink-gorilla-dev) - development of [Pink Gorilla](https://pink-gorilla.github.io)
+
 - [#notespace-dev](https://clojurians.zulipchat.com/#narrow/stream/224153-notespace-dev) - [notespace](https://github.com/scicloj/notespace) development
 
 - [#libpython-clj-dev](https://clojurians.zulipchat.com/#narrow/stream/215609-libpython-clj-dev) - [libpython-clj](https://github.com/clj-python/libpython-clj) development and usage
