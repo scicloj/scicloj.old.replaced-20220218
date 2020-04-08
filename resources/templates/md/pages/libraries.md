@@ -1,7 +1,8 @@
 {:title "Libraries"
  :layout :page
  :page-index 4
- :navbar? true}
+ :navbar? true
+ :toc true}
 
 To supplement our opinionated blog posts analysing the ecosystem, here is a less-opinionated, plain list of relevant libraries written by Clojurians. Not all libraries mentioned here are affiliated with Scicloj, but we seek to be in dialogue with library authors as much as possible.
 
@@ -16,6 +17,7 @@ We tag libraries with the field they are relevant to.
 * `native` - interop with native-optimized libraries
 * `gpu` - gpu support
 * `vis` - data visualization and visual art
+* `vega` - visualization using [vega](https://vega.github.io/vega/)/[vega-lite](https://vega.github.io/vega-lite/) specifications
 * `lit` - literate programming
 * `ui` - building UIs for data exploration
 * `geo` - geographical and geometrical data processing
@@ -50,24 +52,33 @@ We tag libraries with the field they are relevant to.
 - [denisovan](https://github.com/cailuno/denisovan): `array`,`linalg`,`native`,`gpu` - Neanderthal backend for core.matrix 
 
 ## Literate programming and data visualization
-- [Hanami](https://github.com/jsa-aerial/hanami)(`act`): `vis`,`ui` - a template system for creating interactive data visualizations using Vega/Vega-lite, Reagent and Re-Com
-- [Saite](https://github.com/jsa-aerial/saite) (`act`): `vis`,`lit`,`ui` - a literate programming application written using Hanami
-- [Oz](https://github.com/metasoarous/oz) (`act`): `vis`,`lit` - data visuzliation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
+- [Hanami](https://github.com/jsa-aerial/hanami)(`act`): `vis`,`vega`,`ui` - a template system for creating interactive data visualizations using Vega/Vega-lite, Reagent and Re-Com
+- [Saite](https://github.com/jsa-aerial/saite) (`act`): `vis`,`vega`,`lit`,`ui` - a literate programming application written using Hanami
+- [Oz](https://github.com/metasoarous/oz) (`act`): `vis`,`vega`,`lit` - data visuzliation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
 - [Gorilla-REPL](http://gorilla-repl.org/): `lit` - a notebook application written in Clojure and Javascript
-- [Gorilla-plot](https://github.com/JonyEpsilon/gorilla-plot): `vis` - plotting functions using Vega for Gorilla-REPL
+- [Gorilla-plot](https://github.com/JonyEpsilon/gorilla-plot): `vis`,`vega` - plotting functions using Vega for Gorilla-REPL
 - [Pink-Gorilla](https://github.com/pink-gorilla) (`act`,`exp`, temporary name): `vis`,`lit`,`ui`,`cljs` - a port of the Gorilla REPL project using a Clojurescript (Reagent) frontend
 - [gg4clj](https://github.com/JonyEpsilon/gg4clj): `vis`,`r` - a clojure DSL for creating ggplot2 plots using R
+- [gg4clj port](https://github.com/pink-gorilla/gg4clj) by the [Pink Gorilla](https://pink-gorilla.github.io) project
 - [Quil](https://github.com/quil/quil): `vis` - a clojure/clojuresctit wrapper for Processing 
 - [thi-ng/geom](https://github.com/thi-ng/geom): `vis`,`cljs` - 2d/3d geometry toolkit
 - [Org-babel-clojure](https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-clojure.html): `lt` - executing Clojure inside Emacs Org-mode documents
 - [cljplot](https://github.com/generateme/cljplot) (`act`,`exp`): `vis` - a data visualization platform written in Clojure and inspired by R's ggplot2 and lattice libraries
-- [Devcards](https://github.com/bhauman/devcards): `lit`,`cljs`: visual repl exprience for Clojurescript
-- [xvsy](https://github.com/dvdt/xvsy): `vis` - grammer of graphics over Vega
+- [Devcards](https://github.com/bhauman/devcards): `lit`,`cljs`- visual repl exprience for Clojurescript
 - [proto-repl-charts](https://github.com/jasongilman/proto-repl-charts): `vis` - an Atom plugin for displaying tables and graphs
 - [Maria](https://github.com/mhuebert/maria): `lit`, `vis`, `cljs`: a Clojurescript coding environment for beginners
 - [Clojupyter](https://github.com/clojupyter/clojupyter) (`act`): `lit` - a Clojure kernel for Jupyter
 - [IClojure](https://github.com/HCADatalab/IClojure): `lit` - a Clojure kernel for Jupyter
 - [Notespace](https://github.com/scicloj/notespace) (`act`,`exp`): `lit` - notebook experience with Clojure namespaces edited at any editor
+
+### Vega rendering
+In addition to Oz and Hanami, here is a list of dedicated tools dedicated mainly to handling [vega](https://vega.github.io/vega/)/[vega-lite](https://vega.github.io/vega-lite/) specifications. See [this conversation](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/rendering.20charts.20in.20notespace) for some discussion of the differences and tradeoffs across these tools.
+- [xvsy](https://github.com/dvdt/xvsy): `vis`,`vega`,`cljs` - grammer of graphics over Vega
+- [vegan](https://github.com/cnuernber/vegan/) (`act`): `vis`,`vega` - a nodejs clojurescript library designed to validate and render vega and vega-lite files - supports docker-based setup.
+- [vega-clj](https://github.com/behrica/vg-cli) (`act`): `vis`,`vega` - a clojure wrapper for the (node-based) vega-cli and vega-lite standalone scrips
+- [Optikon](https://github.com/stathissideris/optikon): `vis`,`vega` - a command line tool that wraps vega and vega-lite - using graalvm polyglot programming
+- [vegafx](https://github.com/joinr/vegafx): `vis`,`vega` - a static-site viewer using javafx that renders vega specs
+- [emacs-vega-view](https://github.com/appliedsciencestudio/emacs-vega-view) (`act`): `vis`, `vega` - an emacs mode to facilitate interactive data visualization using Vega from within emacs - supports elisp, json and clojure notations
 
 ## Data processing
 - [Specter](https://github.com/redplanetlabs/specter) (`act`): `data`,`cljs` - declarative navigation of nested data structures for selection and transformation in Clojure and Clojurescript
