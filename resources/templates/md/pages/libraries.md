@@ -52,8 +52,8 @@ We tag libraries with the field they are relevant to.
 - [denisovan](https://github.com/cailuno/denisovan): `array`,`linalg`,`native`,`gpu` - Neanderthal backend for core.matrix 
 
 ## Literate programming and data visualization
-- [Hanami](https://github.com/jsa-aerial/hanami)(`act`): `vis`,`vega`,`ui` - a template system for creating interactive data visualizations using Vega/Vega-lite, Reagent and Re-Com
-- [Saite](https://github.com/jsa-aerial/saite) (`act`): `vis`,`vega`,`lit`,`ui` - a literate programming application written using Hanami
+- [Hanami](https://github.com/jsa-aerial/hanami)(`act`): `vis`,`vega`,`ui`,`hiccup`,`cljs` - a template system for creating interactive data visualizations using Vega/Vega-lite, Reagent and Re-Com
+- [Saite](https://github.com/jsa-aerial/saite) (`act`): `vis`,`vega`,`lit`,`ui`,`hiccup`,`cljs` - a literate programming application written using Hanami
 - [Oz](https://github.com/metasoarous/oz) (`act`): `vis`,`vega`,`lit` - data visuzliation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
 - [Gorilla-REPL](http://gorilla-repl.org/): `lit` - a notebook application written in Clojure and Javascript
 - [Gorilla-plot](https://github.com/JonyEpsilon/gorilla-plot): `vis`,`vega` - plotting functions using Vega for Gorilla-REPL
