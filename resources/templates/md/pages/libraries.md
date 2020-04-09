@@ -17,7 +17,7 @@ We tag libraries with the field they are relevant to.
 * `native` - interop with native-optimized libraries
 * `gpu` - gpu support
 * `vis` - data visualization and visual art
-* `vega` - visualization using [vega](https://vega.github.io/vega/)/[vega-lite](https://vega.github.io/vega-lite/) specifications
+* `Vega` - visualization using [Vega](https://Vega.github.io/Vega/)/[Vega-lite](https://Vega.github.io/Vega-lite/) specifications
 * `lit` - literate programming
 * `ui` - building UIs for data exploration
 * `geo` - geographical and geometrical data processing
@@ -52,11 +52,11 @@ We tag libraries with the field they are relevant to.
 - [denisovan](https://github.com/cailuno/denisovan): `array`,`linalg`,`native`,`gpu` - Neanderthal backend for core.matrix 
 
 ## Literate programming and data visualization
-- [Hanami](https://github.com/jsa-aerial/hanami)(`act`): `vis`,`vega`,`ui`,`hiccup`,`cljs` - a template system for creating interactive data visualizations using Vega/Vega-lite, Reagent and Re-Com
-- [Saite](https://github.com/jsa-aerial/saite) (`act`): `vis`,`vega`,`lit`,`ui`,`hiccup`,`cljs` - a literate programming application written using Hanami
-- [Oz](https://github.com/metasoarous/oz) (`act`): `vis`,`vega`,`lit` - data visuzliation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
+- [Hanami](https://github.com/jsa-aerial/hanami)(`act`): `vis`,`Vega`,`ui`,`hiccup`,`cljs` - a template system for creating interactive data visualizations using Vega/Vega-lite, Reagent and Re-Com
+- [Saite](https://github.com/jsa-aerial/saite) (`act`): `vis`,`Vega`,`lit`,`ui`,`hiccup`,`cljs` - a literate programming application written using Hanami
+- [Oz](https://github.com/metasoarous/oz) (`act`): `vis`,`Vega`,`lit` - data visuzliation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
 - [Gorilla-REPL](http://gorilla-repl.org/): `lit` - a notebook application written in Clojure and Javascript
-- [Gorilla-plot](https://github.com/JonyEpsilon/gorilla-plot): `vis`,`vega` - plotting functions using Vega for Gorilla-REPL
+- [Gorilla-plot](https://github.com/JonyEpsilon/gorilla-plot): `vis`,`Vega` - plotting functions using Vega for Gorilla-REPL
 - [Pink-Gorilla](https://github.com/pink-gorilla) (`act`,`exp`, temporary name): `vis`,`lit`,`ui`,`cljs` - a port of the Gorilla REPL project using a Clojurescript (Reagent) frontend
 - [gg4clj](https://github.com/JonyEpsilon/gg4clj): `vis`,`r` - a clojure DSL for creating ggplot2 plots using R
 - [gg4clj port](https://github.com/pink-gorilla/gg4clj) by the [Pink Gorilla](https://pink-gorilla.github.io) project
@@ -72,13 +72,15 @@ We tag libraries with the field they are relevant to.
 - [Notespace](https://github.com/scicloj/notespace) (`act`,`exp`): `lit` - notebook experience with Clojure namespaces edited at any editor
 
 ### Vega rendering
-In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of dedicated tools dedicated mainly to handling [vega](https://vega.github.io/vega/)/[vega-lite](https://vega.github.io/vega-lite/) specifications. See [this conversation](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/rendering.20charts.20in.20notespace) for some discussion of the differences and tradeoffs across these tools.
-- [xvsy](https://github.com/dvdt/xvsy): `vis`,`vega`,`cljs` - grammer of graphics over Vega
-- [vegan](https://github.com/cnuernber/vegan/) (`act`): `vis`,`vega` - a nodejs clojurescript library designed to validate and render vega and vega-lite files - supports docker-based setup.
-- [vega-clj](https://github.com/behrica/vg-cli) (`act`): `vis`,`vega` - a clojure wrapper for the (node-based) vega-cli and vega-lite standalone scrips
-- [Optikon](https://github.com/stathissideris/optikon): `vis`,`vega` - a command line tool that wraps vega and vega-lite - using graalvm polyglot programming
-- [vegafx](https://github.com/joinr/vegafx): `vis`,`vega` - a static-site viewer using javafx that renders vega specs
-- [emacs-vega-view](https://github.com/appliedsciencestudio/emacs-vega-view) (`act`): `vis`, `vega` - an emacs mode to facilitate interactive data visualization using Vega from within emacs - supports elisp, json and clojure notations
+In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of dedicated tools dedicated mainly to handling [Vega](https://Vega.github.io/Vega/)/[Vega-lite](https://Vega.github.io/Vega-lite/) specifications. See [this conversation](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/rendering.20charts.20in.20notespace) for some discussion of the differences and tradeoffs across these tools.
+- [xvsy](https://github.com/dvdt/xvsy): `vis`,`Vega`,`cljs` - grammer of graphics over Vega
+- [Vegan](https://github.com/cnuernber/Vegan/) (`act`): `vis`,`Vega` - a nodejs clojurescript library designed to validate and render Vega and Vega-lite files - supports docker-based setup.
+- [Vega-clj](https://github.com/behrica/vg-cli) (`act`): `vis`,`Vega` - a clojure wrapper for the (node-based) Vega-cli and Vega-lite standalone scrips
+- [Optikon](https://github.com/stathissideris/optikon): `vis`,`Vega` - a command line tool that wraps Vega and Vega-lite - using GraalVM polyglot programming
+- [Vegafx](https://github.com/joinr/Vegafx): `vis`,`Vega` - a static-site viewer using javafx that renders Vega specs
+- [darkstar](https://github.com/appliedsciencestudio/darkstar): `vis`,`Vega` - a minimal wrapper over Vega/Vega-lite as a single JVM-only Clojure library, using the GraalJS javascript runtime, which [does not require GraalVM runtime](https://github.com/graalvm/graaljs/blob/master/docs/user/RunOnJDK.md) to run.
+ 
+- [emacs-Vega-view](https://github.com/appliedsciencestudio/emacs-Vega-view) (`act`): `vis`, `Vega` - an emacs mode to facilitate interactive data visualization using Vega from within emacs - supports elisp, json and clojure notations
 
 ## Data processing
 - [Specter](https://github.com/redplanetlabs/specter) (`act`): `data`,`cljs` - declarative navigation of nested data structures for selection and transformation in Clojure and Clojurescript
