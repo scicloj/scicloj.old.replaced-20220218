@@ -65,7 +65,7 @@ We tag libraries with the field they are relevant to.
 - [thi-ng/geom](https://github.com/thi-ng/geom): `vis`,`cljs` - 2d/3d geometry toolkit
 - [Org-babel-clojure](https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-clojure.html): `lt` - executing Clojure inside Emacs Org-mode documents
 - [cljplot](https://github.com/generateme/cljplot) (`act`,`exp`): `vis` - a data visualization platform written in Clojure and inspired by R's ggplot2 and lattice libraries
-- [Analemma](https://liebke.github.io/analemma/): `vis`,`cljs` - generating charts and SVG with a syntax similar to Incanter's and a visual theme similar to ggplot2.
+- [Analemma](https://liebke.github.io/analemma/) (`exp`): `vis`,`cljs` - generating charts and SVG with a syntax similar to Incanter's and a visual theme similar to ggplot2.
 - [Devcards](https://github.com/bhauman/devcards): `lit`,`cljs`- visual repl exprience for Clojurescript
 - [proto-repl-charts](https://github.com/jasongilman/proto-repl-charts): `vis` - an Atom plugin for displaying tables and graphs
 - [Maria](https://github.com/mhuebert/maria): `lit`, `vis`, `cljs`: a Clojurescript coding environment for beginners
