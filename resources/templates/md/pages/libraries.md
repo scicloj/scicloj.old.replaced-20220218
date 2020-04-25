@@ -56,7 +56,7 @@ We tag libraries with the field they are relevant to.
 - [Saite](https://github.com/jsa-aerial/saite) (`act`): `vis`,`vega`,`lit`,`ui`,`hiccup`,`cljs` - a literate programming application written using Hanami
 - [Oz](https://github.com/metasoarous/oz) (`act`): `vis`,`vega`,`lit` - data visuzliation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
 - [tech.viz](https://github.com/techascent/tech.viz) (`act`): `vis`,`vega`,`cljs` - simple data visualization for Clojure/Clojurescript that using vega and [darkstar](https://github.com/appliedsciencestudio/darkstar) for rendering
-- [Analemma](https://liebke.github.io/analemma/) (`act`): `vis`,`cljs` - generating charts and SVG with a syntax similar to Incanter's and a visual theme similar to ggplot2.
+- [Analemma](https://liebke.github.io/analemma/): `vis`,`cljs` - generating charts and SVG with a syntax similar to Incanter's and a visual theme similar to ggplot2.
 - [Gorilla-REPL](http://gorilla-repl.org/): `lit` - a notebook application written in Clojure and Javascript
 - [Gorilla-plot](https://github.com/JonyEpsilon/gorilla-plot): `vis`,`vega` - plotting functions using Vega for Gorilla-REPL
 - [Pink-Gorilla](https://github.com/pink-gorilla) (`act`,`exp`, temporary name): `vis`,`lit`,`ui`,`cljs` - a port of the Gorilla REPL project using a Clojurescript (Reagent) frontend
