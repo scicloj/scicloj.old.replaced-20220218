@@ -44,6 +44,10 @@ Of course, they allow us to share and learn existing methods and practices. No l
 
 - [Math for clojurists](https://alanmarazzi.gitlab.io/blog/posts/2020-3-23-math-for-clojurists/) by Alan Marazzi
 
+### Data processing
+
+- [techtest](https://github.com/genmeblog/techtest) - comparing [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) with the analogous R packages - by Tomsaz Sulej
+
 ### Transducers
 - [A general introduction](https://nbviewer.jupyter.org/github/amitramon/clojure-keynotes/blob/master/notebooks/transducers.ipynb) by Amit Ramon
  
@@ -59,10 +63,14 @@ Of course, they allow us to share and learn existing methods and practices. No l
 
 ### R interop
 - [Clojisr tutorials](https://github.com/scicloj/clojisr#tutorials)
+- [Clojisr examples](https://github.com/scicloj/clojisr-examples) with lots of vizualiations, by Tomsaz Sulej and others
 
 ### Literate programming
 - [Clojupyter examples](https://github.com/clojupyter/clojupyter/tree/master/examples)
 - [Notespace tutorial](https://scicloj.github.io/notespace/resources/public/notespace/v2/tutorial-test/index.html) (experimental)
+
+### Data Visualization
+- [vdquil](https://github.com/daveliepmann/vdquil) - Examples from Ben Fry's "Visualizing Data" in [quil](https://github.com/quil/quil) - by Dave Liepmann
 
 ## Books
 
