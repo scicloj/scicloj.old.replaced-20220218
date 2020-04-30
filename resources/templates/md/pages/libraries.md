@@ -17,7 +17,7 @@ We tag libraries with the field they are relevant to.
 * `native` - interop with native-optimized libraries
 * `gpu` - gpu support
 * `vis` - data visualization and visual art
-* `vega` - visualization using [Vega](https://Vega.github.io/Vega/)/[Vega-lite](https://Vega.github.io/Vega-lite/) specifications
+* `vega` - visualization using [Vega](https://vega.github.io/vega/)/[Vega-lite](https://vega.github.io/vega-lite/) specifications
 * `lit` - literate programming
 * `ui` - building UIs for data exploration
 * `geo` - geographical and geometrical data processing
