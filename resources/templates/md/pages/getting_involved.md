@@ -7,9 +7,6 @@ Would you like to join our journey in making Clojure a great platform for data s
 
 Below are some suggested ways to get involved. If you are interested in any of these, or maybe have some other idea - then [let us talk](../about/#where)! We may possibly help in finding a nice way to begin.
 
-## Join as a student or a coache at our RGSoC 2020 project
-More details [here](../../posts/2020-03-05-rgsoc2020).
-
 ## Share your experience
 Hearing about your personal workflow, data stories, problems and ideas can be valuable to others. Just open a new topic at one of the other relevant [chat streams](../chat_streams), and share your thoughts.
 
