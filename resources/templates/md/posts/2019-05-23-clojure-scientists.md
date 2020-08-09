@@ -4,6 +4,8 @@
  :author "Alan Marazzi"
  :tags  ["data science"]}
 
+> [Previous version of this post](https://scicloj.github.io/posts/2019-01-21-clojure-scientists/)
+
 The Clojure community is moving a lot lately on the data science front, but we were feeling we needed some organization and more open discussion about these themes. [This is the Clojureverse thread](https://clojureverse.org/t/online-meeting-clojure-data-science/3503) that started it all. Here we try to collect and record the current state of things, and I would like to stress the fact that this is owned by the community!
 
 The structure of this:

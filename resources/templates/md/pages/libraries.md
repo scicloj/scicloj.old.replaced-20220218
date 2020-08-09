@@ -3,7 +3,7 @@
  :page-index 4
  :navbar? true
  :toc true}
-
+ 
 To supplement our opinionated blog posts analysing the ecosystem, here is a less-opinionated, plain list of relevant libraries written by Clojurians. Not all libraries mentioned here are affiliated with Scicloj, but we seek to be in dialogue with library authors as much as possible.
 
 Do you know about anything relevant that is missing here? - [Let us talk](../about/#where)!
@@ -51,6 +51,9 @@ We tag libraries with the field they are relevant to.
 - [core.matrix](https://github.com/mikera/core.matrix): `array`,`linalg`,`native`,`cljs` - matrix abstractions, supporting diffent backends
 - [denisovan](https://github.com/cailuno/denisovan): `array`,`linalg`,`native`,`gpu` - Neanderthal backend for core.matrix 
 
+## Optimization
+- [matlib](https://github.com/atisharma/matlib) (`act`): `opt` - optimisation and control theory tools and convenience functions based on Neanderthal.
+
 ## Literate programming and data visualization
 - [Hanami](https://github.com/jsa-aerial/hanami)(`act`): `vis`,`vega`,`ui`,`hiccup`,`cljs` - a template system for creating interactive data visualizations using Vega/Vega-lite, Reagent and Re-Com
 - [Saite](https://github.com/jsa-aerial/saite) (`act`): `vis`,`vega`,`lit`,`ui`,`hiccup`,`cljs` - a literate programming application written using Hanami
@@ -63,6 +66,7 @@ We tag libraries with the field they are relevant to.
 - [gg4clj port](https://github.com/pink-gorilla/gg4clj) by the [Pink Gorilla](https://pink-gorilla.github.io) project
 - [Quil](https://github.com/quil/quil): `vis` - a clojure/clojuresctit wrapper for Processing 
 - [thi-ng/geom](https://github.com/thi-ng/geom): `vis`,`cljs` - 2d/3d geometry toolkit
+- [rmarkdown-clojue](https://github.com/genmeblog/rmarkdown-clojure): `vis`, `lit` - rendering Clojure code in various format using [Rmarkdown](https://rmarkdown.rstudio.com/)
 - [Org-babel-clojure](https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-clojure.html): `lt` - executing Clojure inside Emacs Org-mode documents
 - [cljplot](https://github.com/generateme/cljplot) (`act`,`exp`): `vis` - a data visualization platform written in Clojure and inspired by R's ggplot2 and lattice libraries
 - [Analemma](https://liebke.github.io/analemma/) (`exp`): `vis`,`cljs` - generating charts and SVG with a syntax similar to Incanter's and a visual theme similar to ggplot2.
@@ -72,6 +76,8 @@ We tag libraries with the field they are relevant to.
 - [Clojupyter](https://github.com/clojupyter/clojupyter) (`act`): `lit` - a Clojure kernel for Jupyter
 - [IClojure](https://github.com/HCADatalab/IClojure): `lit` - a Clojure kernel for Jupyter
 - [Notespace](https://github.com/scicloj/notespace) (`act`,`exp`): `lit` - notebook experience with Clojure namespaces edited at any editor
+- [Reveal](https://github.com/vlaaad/reveal) (`act`): data navigation GUI
+- [Portal](https://github.com/djblue/portal) (`act`): data navigation GUI
 
 ### Vega rendering
 In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of dedicated tools dedicated mainly to handling [Vega](https://Vega.github.io/Vega/)/[Vega-lite](https://Vega.github.io/Vega-lite/) specifications. See [this conversation](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/rendering.20charts.20in.20notespace) for some discussion of the differences and tradeoffs across these tools.
@@ -98,6 +104,7 @@ In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of de
 
 ## Dataframe-like structures
 - [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) (`act`): `df`,`stat`,`vis`,`csv` - abstractions for dataframe-like structures in clojure, based on tech.datatype abstractions, with an implementation using the Tablesaw Java library
+- [tablecloth](https://github.com/techascent/tech.ml.dataset) (`act`): `df`,`csv` - a dataframe grammar wrapping tech.ml.dataset, inspired by serveral R libraries
 - [Panthera](https://github.com/alanmarazzi/panthera): `df`,`py` - a Clojure API wrapping Python's Pandas library
 - [koala](https://github.com/aria42/koala) (`exp`): `df`,`csv` - Pandas-like data-processing for clojure with some I/O functionality
 - [dataframe](https://github.com/ghl3/dataframe): `df` - Pandas-like data processing for clojure
@@ -105,6 +112,7 @@ In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of de
 
 ## Statistics
 - [kixi.stats](https://github.com/MastodonC/kixi.stats): `stat`,`rand`,`xform` - statistics and random sampling using transducers
+- [fitdistr](https://github.com/generateme/fitdistr): `stat` - fitting distributions
 
 ## Time series analysis
 - [tide](https://github.com/sbelak/tide) - `ts`: STL and FastDTW algorithms
@@ -116,13 +124,16 @@ In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of de
 - [distributions](https://github.com/michaellindon/distributions): `rand`,`prob` - random sampling and some basic Bayesian computing for certain families of distributions
 - [metaprob](https://github.com/probcomp/metaprob) (`exp`): `prob`,`rand`,`cljs` - an embedded languages for probabilistic programming and metaprogramming
 - [anglican](http://probprog.ml/anglican/index.html): `prob`,`rand`,`cljs` - a probabilistic programming language written in clojure, that supports a subset of clojure
+- [dsim.cljc](https://github.com/dvlopt/dsim.cljc) (`act`): `rand`,`cljs` - an event-driven engine for Clojure(script) heavily borrowing ideas from discrete-event simulation and hybrid dynamical systems
 
 ## Machine learning
 - [tech.ml-base](https://github.com/techascent/tech.ml-base) (`act`): `ml` - a machine learning platform based on tech.ml.dataset, supporting not just ml algorithms, but also relevant ETL processing; wraps multiple machine learning libraries
 - [clj-ml](https://github.com/joshuaeckroth/clj-ml/): `ml` - machine learning based on wrapping libraries such as the Weka Java library
 - [clj-boost](https://gitlab.com/alanmarazzi/clj-boost): `ml` - a wrapper for XGBoost
+- [Clojush](https://github.com/lspector/Clojush) (`act`): `ml` - an implementation of the Push programming language for genetic programming
+- [propaganda](https://github.com/tgk/propaganda): `ml` - an implementation of the propagator computational model
 
-## Deep Learning
+### Deep Learning
 - [MXNet](https://github.com/apache/incubator-mxnet/tree/master/contrib/clojure-package): `dl` - bindings to Apache MXNet - part of the MXNet project
 - [Deep Diamond](https://github.com/uncomplicate/deep-diamond) (`act`): `dl`,`native`,`gpu` - infrastructure for tensor computation and deep learning
 - [jutsu.ai](https://github.com/hswick/jutsu.ai): `dl` - a wrapper for deeplearning4j
@@ -131,12 +142,32 @@ In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of de
 
 ## Interop
 - [Libpython-clj](https://github.com/clj-python/libpython-clj) (`act`): `interop` - interop with Python
+- [clj-python-trampoline](https://github.com/tristanstraub/clj-python-trampoline) (`act`): `interop` - using libpython-clj from an already running python process, without needing any special python builds
 - [Clojisr](https://github.com/scicloj/clojisr) (`act`): `interop` - interop with R and Renjin (R on the JVM)
 - [graalvm-interop](https://github.com/davidpham87/graalvm-rinterop): `interop` - interop with FastR (GraalVM's R)
 - [rdata](https://github.com/appliedsciencestudio/rdata/) - A Renjin (pure-JVM R) wrapper to allow Clojure programs to easily read R's RData file format
 - [other R interop libraries](https://github.com/scicloj/clojisr/blob/master/doc/existing_libraries.md)
 - [from-scala](https://github.com/t6/from-scala): `interop` - interop with Scala
 
-## Big data & distributed processing
-coming soon ..
+## Parralel computing 
+- [claypoole](https://github.com/TheClimateCorporation/claypoole) - threadpool-based parallel versions of Clojure functions such as `pmap`, `future`, and `for`
+- [parallel](https://github.com/reborg/parallel) - parallel-enabled functions, addditional transducers and supporting utilities
+- [tesser](https://github.com/aphyr/tesser) - a library for concurrent & commutative folds, including some statistical tasks and Hadoop support
+- [tech.parallel](https://github.com/techascent/tech.parallel) (`act`) - parallelization and threading primitives
 
+## Distributed computing 
+- [overseer](https://github.com/framed-data/overseer) - a library for building and running data pipelines
+- [titanoboa](https://www.titanoboa.io) - a fully distributed, highly scalable and fault tolerant workflow orchestration platform
+### Hadoop
+- [Parkour](https://github.com/damballa/parkour) - Hadoop MapReduce in idiomatic Clojure
+### Spark
+- [sparkling](https://github.com/gorillalabs/sparkling) - a Spark wrapper
+- [flambo](https://github.com/sorenmacbeth/flambo) - a Spark wrapper
+- [geni](https://github.com/zero-one-group/geni) (`act`, `exp`) - a Spark wrapper
+
+## Stream processing
+### Kafka
+- [jackdaw](https://github.com/FundingCircle/jackdaw) (`act`) - a wrapper for Kafka and Kafka Streams
+- [rp-jackdaw-clj](https://github.com/rentpath/rp-jackdaw-clj) (`act`) - various components for interacting with Kafka using Jackdaw
+- [kafka.clj](https://github.com/dvlopt/kafka.clj) (`act`) - a wrapper for Kafka and Kafka Streams
+- [ksml](https://github.com/cddr/ksml) - representing kafka streams topologies as data
