@@ -130,10 +130,12 @@ In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of de
 - [tech.ml-base](https://github.com/techascent/tech.ml-base) (`act`): `ml` - a machine learning platform based on tech.ml.dataset, supporting not just ml algorithms, but also relevant ETL processing; wraps multiple machine learning libraries
 - [clj-ml](https://github.com/joshuaeckroth/clj-ml/): `ml` - machine learning based on wrapping libraries such as the Weka Java library
 - [clj-boost](https://gitlab.com/alanmarazzi/clj-boost): `ml` - a wrapper for XGBoost
-- [Clojush](https://github.com/lspector/Clojush) (`act`): `ml` - an implementation of the Push programming language for genetic programming
 - [propaganda](https://github.com/tgk/propaganda): `ml` - an implementation of the propagator computational model
+### Genetic programming
+- [Clojush](https://github.com/lspector/Clojush) (`act`): `ml` - an implementation of the Push programming language for genetic programming
+- [Propeller](https://github.com/lspector/propeller) (`act`): `ml` - "Yet another Push-based genetic programming system in Clojure"
 
-### Deep Learning
+### Deep learning
 - [MXNet](https://github.com/apache/incubator-mxnet/tree/master/contrib/clojure-package): `dl` - bindings to Apache MXNet - part of the MXNet project
 - [Deep Diamond](https://github.com/uncomplicate/deep-diamond) (`act`): `dl`,`native`,`gpu` - infrastructure for tensor computation and deep learning
 - [jutsu.ai](https://github.com/hswick/jutsu.ai): `dl` - a wrapper for deeplearning4j
