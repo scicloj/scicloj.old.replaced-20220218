@@ -41,6 +41,6 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
-- August 30th, 5pm-6:30pm UTC - public meeting with lightning talks and chat - [registration & details](https://twitter.com/scicloj/status/1291845872884625408)
+- August 30th, 5pm-6:30pm UTC - public meeting with lightning talks and chat - [video](https://youtu.be/SXmJ6HdLJGA)
 
-- [TBD] Joanne Cheng - Drawing maps
+- September - [please mark your preferences](https://twitter.com/scicloj/status/1301964840139980801)
