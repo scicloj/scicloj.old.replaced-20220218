@@ -39,8 +39,11 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - April 26th - Chris Nuernberger interviewed by Teodor Heggelund, Tomasz Sulej and Daniel Slutsky - [video](https://www.youtube.com/watch?v=zYNlZXTV14E)
 
-## Future
-
 - August 30th, 5pm-6:30pm UTC - public meeting with lightning talks and chat - [video](https://youtu.be/SXmJ6HdLJGA)
 
-- September - [please mark your preferences](https://twitter.com/scicloj/status/1301964840139980801)
+## Future
+
+- September - [please register](https://twitter.com/scicloj/status/1302968502198956032)
+
+- October - Will Cohen - Clojure in Geography #1 - [please mark your preferences](https://twitter.com/scicloj/status/1304443223834849290)
+
