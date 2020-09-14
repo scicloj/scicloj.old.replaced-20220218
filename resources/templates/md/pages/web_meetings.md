@@ -43,7 +43,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
-- September - [please register](https://twitter.com/scicloj/status/1302968502198956032)
+- September 26th, [1pm-2:30pm UTC](https://time.is/compare/1300_26_Sep_2020_in_UTC) - talks and discussion of machine learning libraries - [please register](https://twitter.com/scicloj/status/1302968502198956032)
 
-- October - Will Cohen - Clojure in Geography #1 - [please mark your preferences](https://twitter.com/scicloj/status/1304443223834849290)
+- October 3rd, [1pm-3pm UTC](https://time.is/compare/1300_3_Oct_2020_in_UTC) - Will Cohen - Clojure in Geography #1 - [please register](https://twitter.com/scicloj/status/1305227676731543555)
 
