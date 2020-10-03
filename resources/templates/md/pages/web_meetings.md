@@ -12,6 +12,10 @@ You can find the meeting videos [here](http://yt.vu/+scicloj).
 
 Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
+## Future
+
+ - October 3rd, [1pm-3pm UTC](https://time.is/compare/1300_3_Oct_2020_in_UTC) - Will Cohen - Clojure in Geography #1 - [please register](https://twitter.com/scicloj/status/1305227676731543555)
+
 ## Past
 
 - April 15th 2019, 3pm UTC - Chris Nuernberger - Tech.ml - [video](https://www.youtube.com/watch?v=NyMABoUEj20&t=6m50s) - [transcript](https://github.com/joinr/sciclojminutes/blob/master/meeting.org)
@@ -41,9 +45,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - August 30th, 5pm-6:30pm UTC - public meeting with lightning talks and chat - [video](https://youtu.be/SXmJ6HdLJGA)
 
-## Future
+- September 26th, [1pm-2:30pm UTC](https://time.is/compare/1300_26_Sep_2020_in_UTC) - talks and discussion of machine learning libraries - [video](https://youtu.be/qsC7aNDRRrs)
 
-- September 26th, [1pm-2:30pm UTC](https://time.is/compare/1300_26_Sep_2020_in_UTC) - talks and discussion of machine learning libraries - [please register](https://twitter.com/scicloj/status/1302968502198956032)
-
-- October 3rd, [1pm-3pm UTC](https://time.is/compare/1300_3_Oct_2020_in_UTC) - Will Cohen - Clojure in Geography #1 - [please register](https://twitter.com/scicloj/status/1305227676731543555)
+- September 27th - Anthony Khong interviewed by Vijay Kiran, Teodor Heggelund and Daniel Slutsky about Geni - [video](https://youtu.be/3R2FJQdtLf8)
 

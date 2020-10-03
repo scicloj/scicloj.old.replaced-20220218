@@ -76,7 +76,7 @@ We tag libraries with the field they are relevant to.
 - [Clojupyter](https://github.com/clojupyter/clojupyter) (`act`): `lit` - a Clojure kernel for Jupyter
 - [IClojure](https://github.com/HCADatalab/IClojure): `lit` - a Clojure kernel for Jupyter
 - [Notespace](https://github.com/scicloj/notespace) (`act`,`exp`): `lit` - notebook experience with Clojure namespaces edited at any editor
-- [Reveal](https://github.com/vlaaad/reveal) (`act`): data navigation GUI
+- [Reveal](https://vlaaad.github.io/reveal/) (`act`): data navigation GUI
 - [Portal](https://github.com/djblue/portal) (`act`): data navigation GUI
 
 ### Vega rendering
@@ -109,6 +109,7 @@ In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of de
 - [koala](https://github.com/aria42/koala) (`exp`): `df`,`csv` - Pandas-like data-processing for clojure with some I/O functionality
 - [dataframe](https://github.com/ghl3/dataframe): `df` - Pandas-like data processing for clojure
 - [danzig](https://github.com/ribelo/wombat) (formerly wombat) (`act`,`exp`): `df`,`xform` - Pandas-like data processing using transducers
+- [bamboo](https://github.com/kjothen/bamboo): `df` - a minimal data processing library for Clojure, with some of the capabilities of pandas and numpy
 
 ## Statistics
 - [kixi.stats](https://github.com/MastodonC/kixi.stats): `stat`,`rand`,`xform` - statistics and random sampling using transducers
@@ -125,6 +126,9 @@ In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of de
 - [metaprob](https://github.com/probcomp/metaprob) (`exp`): `prob`,`rand`,`cljs` - an embedded languages for probabilistic programming and metaprogramming
 - [anglican](http://probprog.ml/anglican/index.html): `prob`,`rand`,`cljs` - a probabilistic programming language written in clojure, that supports a subset of clojure
 - [dsim.cljc](https://github.com/dvlopt/dsim.cljc) (`act`): `rand`,`cljs` - an event-driven engine for Clojure(script) heavily borrowing ideas from discrete-event simulation and hybrid dynamical systems
+- [date-gen](https://github.com/conjunctive/date-gen) (`act`): `rand` - randomized date generation supporting CSV output
+- [drand](https://github.com/jimpil/drand-clj): `rand` - a client to the [Drand](https://drand.love) randomness servifdce
+
 
 ## Machine learning
 - [tech.ml-base](https://github.com/techascent/tech.ml-base) (`act`): `ml` - a machine learning platform based on tech.ml.dataset, supporting not just ml algorithms, but also relevant ETL processing; wraps multiple machine learning libraries
@@ -165,7 +169,7 @@ In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of de
 ### Spark
 - [sparkling](https://github.com/gorillalabs/sparkling) - a Spark wrapper
 - [flambo](https://github.com/sorenmacbeth/flambo) - a Spark wrapper
-- [geni](https://github.com/zero-one-group/geni) (`act`, `exp`) - a Spark wrapper
+- [geni](https://github.com/zero-one-group/geni) (`act`, `exp`) - `df`: a Spark wrapper
 
 ## Stream processing
 ### Kafka
