@@ -53,5 +53,5 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - September 27th - Anthony Khong interviewed by Vijay Kiran, Teodor Heggelund and Daniel Slutsky about Geni - [video](https://youtu.be/3R2FJQdtLf8)
 
- - October 3rd, [1pm-3pm UTC](https://time.is/compare/1300_3_Oct_2020_in_UTC) - Will Cohen - Clojure in Geography #1 - [video](https://www.youtube.com/watch?v=d628Oggm-nU)
+- October 3rd, [1pm-3pm UTC](https://time.is/compare/1300_3_Oct_2020_in_UTC) - Will Cohen - Clojure in Geography #1 - [video](https://www.youtube.com/watch?v=d628Oggm-nU)
 
