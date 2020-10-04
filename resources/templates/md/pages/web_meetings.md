@@ -14,7 +14,11 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
- - October 3rd, [1pm-3pm UTC](https://time.is/compare/1300_3_Oct_2020_in_UTC) - Will Cohen - Clojure in Geography #1 - [please register](https://twitter.com/scicloj/status/1305227676731543555)
+- TBD - October talks and chat
+
+- TBD - Drawing maps
+
+- TBD - Clojure and data science in healthcare 
 
 ## Past
 
@@ -48,4 +52,6 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 - September 26th, [1pm-2:30pm UTC](https://time.is/compare/1300_26_Sep_2020_in_UTC) - talks and discussion of machine learning libraries - [video](https://youtu.be/qsC7aNDRRrs)
 
 - September 27th - Anthony Khong interviewed by Vijay Kiran, Teodor Heggelund and Daniel Slutsky about Geni - [video](https://youtu.be/3R2FJQdtLf8)
+
+ - October 3rd, [1pm-3pm UTC](https://time.is/compare/1300_3_Oct_2020_in_UTC) - Will Cohen - Clojure in Geography #1 - [video](https://www.youtube.com/watch?v=d628Oggm-nU)
 
