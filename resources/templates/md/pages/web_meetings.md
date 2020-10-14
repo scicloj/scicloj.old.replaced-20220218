@@ -14,11 +14,9 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
-- TBD - October talks and chat
+- [November 1st., 18:00 UTC](https://time.is/1800_1_Nov_2020_in_UTC/) - Clojure and data science in healthcare: Sivaram Arabandi about ontologis, TBA about [CANDEL](https://www.parkerici.org/research-project/candel-data-analysis-platform/).
 
-- TBD - Drawing maps
-
-- TBD - Clojure and data science in healthcare 
+- [November 7th, ](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlaaad about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop
 
 ## Past
 
