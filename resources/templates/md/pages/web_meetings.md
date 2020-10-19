@@ -16,7 +16,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - [November 1st., 18:00 UTC](https://time.is/1800_1_Nov_2020_in_UTC/) - Clojure and data science in healthcare: Sivaram Arabandi & Pier Federico Gherardini - [details & registration](https://tinyurl.com/y4rjyqwr)
 
-- [November 7th, 20:00 UTC](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlad Proczenko about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop
+- [November 7th, 20:00 UTC](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlad Proczenko about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop - [details & registration](https://tinyurl.com/y2qj7m8k)
 
 ## Past
 
