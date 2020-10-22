@@ -18,7 +18,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - [November 7th, 20:00 UTC](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlad Proczenko about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop - [details & registration](https://tinyurl.com/y2qj7m8k)
 
-- [November TBD] - Joanne Cheng - Clojure in Geography - [please mark your preferences](https://twitter.com/scicloj/status/1318867179169873920)
+- November TBD - Joanne Cheng - Clojure in Geography - [please mark your preferences](https://twitter.com/scicloj/status/1318867179169873920)
 
 ## Past
 
