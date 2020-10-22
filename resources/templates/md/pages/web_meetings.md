@@ -18,6 +18,8 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - [November 7th, 20:00 UTC](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlad Proczenko about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop - [details & registration](https://tinyurl.com/y2qj7m8k)
 
+- [November TBD] - Joanne Cheng - Clojure in Geography - [please mark your preferences](https://twitter.com/scicloj/status/1318867179169873920)
+
 ## Past
 
 - April 15th 2019, 3pm UTC - Chris Nuernberger - Tech.ml - [video](https://www.youtube.com/watch?v=NyMABoUEj20&t=6m50s) - [transcript](https://github.com/joinr/sciclojminutes/blob/master/meeting.org)
