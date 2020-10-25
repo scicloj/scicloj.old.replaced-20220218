@@ -14,11 +14,13 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
-- [November 1st., 18:00 UTC](https://time.is/1800_1_Nov_2020_in_UTC/) - Clojure and data science in healthcare: Sivaram Arabandi & Pier Federico Gherardini - [details & registration](https://tinyurl.com/y4rjyqwr)
+- November, TBA - November machine learning study meetings - [please mark your preferences](https://tinyurl.com/y4h8jzfn)
 
-- [November 7th, 20:00 UTC](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlad Proczenko about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop - [details & registration](https://tinyurl.com/y2qj7m8k)
+- [November 1st., 18:00 UTC](https://time.is/1800_1_Nov_2020_in_UTC/) - Clojure and data science in healthcare: Sivaram Arabandi & Pier Federico Gherardini - [registration](https://tinyurl.com/y4rjyqwr)
 
-- November TBD - Joanne Cheng - Clojure in Geography - [please mark your preferences](https://twitter.com/scicloj/status/1318867179169873920)
+- [November 7th, 20:00 UTC](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlad Proczenko about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop - [registration](https://tinyurl.com/y2qj7m8k)
+
+- [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography - [registration](https://tinyurl.com/yxoqj2mb)
 
 ## Past
 
