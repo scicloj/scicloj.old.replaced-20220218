@@ -20,7 +20,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - [November 7th, 20:00 UTC](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlad Proczenko about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop - [registration](https://tinyurl.com/y2qj7m8k)
 
-- [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography - [registration](https://tinyurl.com/yxoqj2mb)
+- [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography #2 - [registration](https://tinyurl.com/yxoqj2mb)
 
 ## Past
 
