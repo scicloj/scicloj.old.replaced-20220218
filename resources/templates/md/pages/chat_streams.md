@@ -59,7 +59,7 @@ Here are some geneal streams worth knowing about:
 
 You may wish to learn a little bit about the concepts of [Zulip streams and topics](https://zulipchat.com/help/about-streams-and-topics). Note that all streams and topics (and even single messages) have URLs, that you can open at separate tabs in your browser.
 
-When joining Zulip, it is a good idea to present yourself at the [#new-members / hello](https://clojurians.zulipchat.com/#narrow/stream/150795-new-members/topic/hello.20.F0.9F.91.8B) topic, and in general, at topics called 'hello' or 'personal introductions' at specific streams you are subscribing to.
+When joining Zulip, it is a good idea to present yourself at the [#new-members / hello](https://clojurians.zulipchat.com/#narrow/stream/150795-new-members/topic/hello.20.F0.9F.91.8B) topic, and in general, at topics called 'hello' or 'personal introductions' at specific streams you are subscribing to, mainly [this 'hello' topic at the #data-science stream](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/hello).
 
 When reading the feed to cactch up, it is sometimes comfortable to browse through the [aggregate feed](http://clojurians.zulipchat.com) of all streams, or at the feed of a specific stream, such as [#data-science](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science).
 
