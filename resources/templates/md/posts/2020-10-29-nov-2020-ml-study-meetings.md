@@ -31,11 +31,11 @@ See you there!
   - Then, in the main part of the meeting, we will look into a data problem together and start tackling it. At any stage, someone will be sharing their screen with their REPL session, and the group will think together about the session.
 
 * When will the meetings take place?
- - https://time.is/1100_13_Nov_2020_in_UTC/
- - https://time.is/1600_13_Nov_2020_in_UTC/
- - https://time.is/1200_14_Nov_2020_in_UTC/
- - https://time.is/1700_14_Nov_2020_in_UTC/
- - https://time.is/1400_15_Nov_2020_in_UTC/
+ - [https://time.is/1100_13_Nov_2020_in_UTC/](https://time.is/1100_13_Nov_2020_in_UTC/)
+ - [https://time.is/1600_13_Nov_2020_in_UTC/](https://time.is/1600_13_Nov_2020_in_UTC/)
+ - [https://time.is/1200_14_Nov_2020_in_UTC/](https://time.is/1200_14_Nov_2020_in_UTC/)
+ - [https://time.is/1700_14_Nov_2020_in_UTC/](https://time.is/1700_14_Nov_2020_in_UTC/)
+ - [https://time.is/1400_15_Nov_2020_in_UTC/](https://time.is/1400_15_Nov_2020_in_UTC/)
 
 * How long are the meetings?
   - Each of the the mid-November study meetings will be 2 hours long.
