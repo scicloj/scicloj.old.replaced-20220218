@@ -15,11 +15,16 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 ## Future
 
 - November machine learning study meetings - mode details coming soon - [discussion](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/ml.20study.20meeting(s).20--.20Nov.2E.202020).
-https://time.is/1100_13_Nov_2020_in_UTC/
-https://time.is/1600_13_Nov_2020_in_UTC/
-https://time.is/1200_14_Nov_2020_in_UTC/
-https://time.is/1700_14_Nov_2020_in_UTC/
-https://time.is/1400_15_Nov_2020_in_UTC/
+
+  - https://time.is/1100_13_Nov_2020_in_UTC/
+
+  - https://time.is/1600_13_Nov_2020_in_UTC/
+
+  - https://time.is/1200_14_Nov_2020_in_UTC/
+
+  - https://time.is/1700_14_Nov_2020_in_UTC/
+
+  - https://time.is/1400_15_Nov_2020_in_UTC/
 
 - [November 1st., 18:00 UTC](https://time.is/1800_1_Nov_2020_in_UTC/) - Clojure and data science in healthcare: Sivaram Arabandi & Pier Federico Gherardini - [registration](https://tinyurl.com/y4rjyqwr)
 
