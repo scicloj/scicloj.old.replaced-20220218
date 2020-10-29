@@ -19,7 +19,7 @@ See you there!
 ----------
 
 * Can I go to any of the meetings?
-Yes. Each of the mid-November meetings is self contained. They will all be similar in nature, and may overlap in content. You may join one or more of them, whichever you prefer.
+  - Yes. Each of the mid-November meetings is self contained. They will all be similar in nature, and may overlap in content. You may join one or more of them, whichever you prefer.
 
 * What should I do in order to participate?
   - Please fill in the registration form (coming soon) a few days in advance. Please [let us know](https://scicloj.github.io/pages/about/#where) about any changes in your plans.
@@ -31,19 +31,19 @@ Yes. Each of the mid-November meetings is self contained. They will all be simil
   - Then, in the main part of the meeting, we will look into a data problem together and start tackling it. At any stage, someone will be sharing their screen with their REPL session, and the group will think together about the session.
 
 * When will the meetings take place?
-https://time.is/1100_13_Nov_2020_in_UTC/
-https://time.is/1600_13_Nov_2020_in_UTC/
-https://time.is/1200_14_Nov_2020_in_UTC/
-https://time.is/1700_14_Nov_2020_in_UTC/
-https://time.is/1400_15_Nov_2020_in_UTC/
+ - https://time.is/1100_13_Nov_2020_in_UTC/
+ - https://time.is/1600_13_Nov_2020_in_UTC/
+ - https://time.is/1200_14_Nov_2020_in_UTC/
+ - https://time.is/1700_14_Nov_2020_in_UTC/
+ - https://time.is/1400_15_Nov_2020_in_UTC/
 
 * How long are the meetings?
-Each of the the mid-November study meetings will be 2 hours long.
+  - Each of the the mid-November study meetings will be 2 hours long.
 
 * Are the meetings beginner-friendly?
-Not exactly. At the moment, we are studying tools and libraries which are still changing and breaking. Sometimes, they are not completely documented. Looking into them may require an open mind and might not be easy.
-However, we do assume that nobody in the meetings is an expert. We will seek clarity and will make an effort to help each other.
-After the ecosystem becomes more complete, we will be able to organize workshops which are much more beginner-friendly.
+ - Not exactly. At the moment, we are studying tools and libraries which are still changing and breaking. Sometimes, they are not completely documented. Looking into them may require an open mind and might not be easy.
+ - However, we do assume that nobody in the meetings is an expert. We will seek clarity and will make an effort to help each other.
+ - After the ecosystem becomes more complete, we will be able to organize workshops which are much more beginner-friendly.
 
 * What knowledge will be assumed?
   - We will assume basic knowledge of Clojure (say, at least chapters 1,3,4,5 of Daniel Higginbotham's ["Clojure for the Brave and True"](https://www.braveclojure.com/)).
@@ -54,7 +54,7 @@ After the ecosystem becomes more complete, we will be able to organize workshops
   - We will use the Clojurians Zulip chat for our notes and textual discussions. Here is some recommended background about our use of Zulip: https://scicloj.github.io/pages/chat_streams/
 
 * What libraries will we study?
-According to our tentative plan, we will use `tech.ml`, `fastmath` and `Smile` for machine learning, `tablecloth` for data processing, `tech.viz` for data visualization, and `Notespace` or `Oz` for literate programming.
+ - According to our tentative plan, we will use `tech.ml`, `fastmath` and `Smile` for machine learning, `tablecloth` for data processing, `tech.viz` for data visualization, and `Notespace` or `Oz` for literate programming.
 
 * How can I prepare for the meeting?
   - We recommend trying out the relevant libraries, playing with them in the context of a data problem, and discussing what you find at Zulip.
