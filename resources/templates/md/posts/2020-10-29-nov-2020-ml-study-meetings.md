@@ -4,7 +4,7 @@
  :author "Daniel Slutsky"
  :tags  ["meeting"]}
 
-The Clojure data science ecosystem is going through changes, and it looks really promising at the moment. To support the coming developments, it is important to learn the current state of the ecosystem, to try it out in different contexts, to think about it, and to discuss its future directions.
+The Clojure data science ecosystem changing rapidly, and it looks really promising at the moment. To support the coming developments, it is important to learn the current state of the ecosystem, to try it out in different contexts, to think about it, and to discuss its future directions.
 
 Study meetings are one of the places where we will be doing all that.
 
