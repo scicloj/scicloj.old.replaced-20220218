@@ -8,7 +8,7 @@ The Clojure data science ecosystem changing rapidly, and it looks really promisi
 
 Study meetings are one of the places where we will be doing all that.
 
-Around the middle of November, we will meet to study some parts of the emerging stack for "classical" machine learning (as opposed to deep learning**.
+Around the middle of November, we will meet to study some parts of the emerging stack for "classical" machine learning (as opposed to deep learning).
 
 Below are a few details about the planned sessions. 
 
