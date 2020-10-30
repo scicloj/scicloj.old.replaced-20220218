@@ -14,7 +14,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
-- November machine learning study meetings - [please register](../posts/2020-10-29-nov-2020-ml-study-meetings/)
+- November machine learning study meetings - [please register](../../posts/2020-10-29-nov-2020-ml-study-meetings/)
  - [11:00 13 Nov 2020 in UTC](https://time.is/1100_13_Nov_2020_in_UTC/)
  - [16:00 13 Nov 2020 in UTC](https://time.is/1600_13_Nov_2020_in_UTC/)
  - [12:00 14 Nov 2020 in UTC](https://time.is/1200_14_Nov_2020_in_UTC/)
@@ -22,7 +22,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
  - [14:00 15 Nov 2020 in UTC](https://time.is/1400_15_Nov_2020_in_UTC/)
 - [November 1st., 18:00 UTC](https://time.is/1800_1_Nov_2020_in_UTC/) - Clojure and data science in healthcare: Sivaram Arabandi & Pier Federico Gherardini - [registration](https://tinyurl.com/y4rjyqwr)
 
-- [November 7th, 20:00 UTC](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlad Proczenko about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop - [registration](https://tinyurl.com/y2qj7m8k)
+- [November 7th, 20:00 UTC](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlad Protsenko about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop - [registration](https://tinyurl.com/y2qj7m8k)
 
 - [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography #2 - [registration](https://tinyurl.com/yxoqj2mb)
 
