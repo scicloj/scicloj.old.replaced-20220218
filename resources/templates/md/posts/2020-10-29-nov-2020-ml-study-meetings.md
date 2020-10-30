@@ -22,7 +22,7 @@ See you there!
   - Yes. Each of the mid-November meetings is self contained. They will all be similar in nature, and may overlap in content. You may join one or more of them, whichever you prefer.
 
 * What should I do in order to participate?
-  - Please fill in the registration form (coming soon) a few days in advance. Please [let us know](https://scicloj.github.io/pages/about/#where) about any changes in your plans.
+  - Please fill in the [registration form](https://tinyurl.com/yxe79c9l) a few days in advance. Please [let us know](https://scicloj.github.io/pages/about/#where) about any changes in your plans.
   - Please join the [#data-science stream of the Clojurians Zulip](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science) and follow the updates there towards the meetings. It would be great if you could present yourself at the ['hello' topic thread](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/hello).
 
 * What will happen in the meetings?

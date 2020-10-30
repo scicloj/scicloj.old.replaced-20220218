@@ -14,7 +14,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
-- November machine learning study meetings - mode details coming soon
+- November machine learning study meetings - [please register](../posts/2020-10-29-nov-2020-ml-study-meetings/)
  - [11:00 13 Nov 2020 in UTC](https://time.is/1100_13_Nov_2020_in_UTC/)
  - [16:00 13 Nov 2020 in UTC](https://time.is/1600_13_Nov_2020_in_UTC/)
  - [12:00 14 Nov 2020 in UTC](https://time.is/1200_14_Nov_2020_in_UTC/)
