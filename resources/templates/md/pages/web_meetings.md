@@ -60,4 +60,4 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - October 3rd, [1pm-3pm UTC](https://time.is/compare/1300_3_Oct_2020_in_UTC) - Will Cohen - Clojure in Geography #1 - [video](https://www.youtube.com/watch?v=d628Oggm-nU)
 
-- November 1st., [18:00 UTC](https://time.is/1800_1_Nov_2020_in_UTC/) - Clojure and data science in healthcare: Sivaram Arabandi & Pier Federico Gherardini - [video](https://youtu.be/dayMZjQcVaY)
+- November 1st., [6pm UTC](https://time.is/1800_1_Nov_2020_in_UTC/) - Clojure and data science in healthcare: Sivaram Arabandi & Pier Federico Gherardini - [video](https://youtu.be/dayMZjQcVaY)
