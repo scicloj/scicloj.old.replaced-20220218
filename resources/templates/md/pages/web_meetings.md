@@ -25,7 +25,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography #2 - [registration](https://tinyurl.com/yxoqj2mb)
 
-- November ["fundamentals"](https://clojureverse.org/t/fundamentals-study-group) study meetings about [dtype-next](https://github.com/cnuernber/dtype-next) - a few meetings on the weekend of Nov. 20th, 21st, 22nd - more details coming soon
+- November ["fundamentals"](https://clojureverse.org/t/fundamentals-study-group) study meetings about [dtype-next](https://github.com/cnuernber/dtype-next) - a few meetings on the weekend of Nov. 20th, 21st, 22nd - [please mark your availability](https://twitter.com/scicloj/status/1325053716681125891)
 
 ## Past
 
