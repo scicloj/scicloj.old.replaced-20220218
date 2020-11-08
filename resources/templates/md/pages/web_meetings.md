@@ -14,8 +14,6 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
-- [November 7th, 20:00 UTC](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlad Protsenko about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop - [registration](https://tinyurl.com/y2qj7m8k)
-
 - November machine learning study meetings - [please register](../../posts/2020-10-29-nov-2020-ml-study-meetings/)
  - [11:00 13 Nov 2020 in UTC](https://time.is/1100_13_Nov_2020_in_UTC/)
  - [16:00 13 Nov 2020 in UTC](https://time.is/1600_13_Nov_2020_in_UTC/)
@@ -63,3 +61,6 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 - October 3rd, [1pm-3pm UTC](https://time.is/compare/1300_3_Oct_2020_in_UTC) - Will Cohen - Clojure in Geography #1 - [video](https://www.youtube.com/watch?v=d628Oggm-nU)
 
 - November 1st., [6pm UTC](https://time.is/1800_1_Nov_2020_in_UTC/) - Clojure and data science in healthcare: Sivaram Arabandi & Pier Federico Gherardini - [video](https://youtu.be/dayMZjQcVaY)
+
+- November 7th, [8pm UTC](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlad Protsenko about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop and [cljfx](https://github.com/cljfx/cljfx) - [video](https://youtu.be/hm7LoqvaYXk)
+
