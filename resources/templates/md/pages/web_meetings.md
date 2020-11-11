@@ -25,7 +25,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
   - Two 2-hour study sessions (self-contained and similar):
     - [18:00 20 Nov 2020 in UTC](https://time.is/1800_20_Nov_2020_in_UTC/)
     - [15:00 22 Nov 2020 in UTC](https://time.is/1500_22_Nov_2020_in_UTC/)
-  - 45-minutes chat about the expectations and the plan of the fundamentals study group:
+  - A 45-minutes chat about the expectations and the plan of the fundamentals study group:
     - [15:00 21 Nov 2020 in UTC](https://time.is/1500_21_Nov_2020_in_UTC/) -- just before Joanne's talk
 
 - [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography #2 - [registration](https://tinyurl.com/yxoqj2mb)
