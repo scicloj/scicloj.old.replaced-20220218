@@ -4,6 +4,14 @@
  :author "Jake Nylund and Daniel Slutsky"
  :tags  ["meeting"]}
 
+<hr></hr>
+
+TL;DR -- please register:
+* [Study meetings](https://tinyurl.com/y5osps55)
+* [Joanne Cheng's Geography talk](https://tinyurl.com/yxoqj2mb)
+
+<hr></hr>
+
 We've recently [discussed](https://clojureverse.org/t/fundamentals-study-group/) our plans to organize a study group of the new fundamental layers of Clojure infrastructure as a way of preparing for the new phase the ecosystem is entering.
 
 There is still a lot to think about, but as a first step, we are having a couple of study meetings on the weekend of November 20-22 -- not to be confused with the [mid-November ML study meetings](../2020-10-29-nov-2020-ml-study-meetings), which take place one week earlier.
