@@ -21,7 +21,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
  - [17:00 14 Nov 2020 in UTC](https://time.is/1700_14_Nov_2020_in_UTC/)
  - [14:00 15 Nov 2020 in UTC](https://time.is/1400_15_Nov_2020_in_UTC/)
 
-- November ["fundamentals"](https://clojureverse.org/t/fundamentals-study-group) study meetings about [dtype-next](https://github.com/cnuernber/dtype-next) - a few meetings on the weekend of Nov. 20th, 21st, 22nd. More details are coming soon. Here is the timeline:
+- November ["fundamentals"](https://clojureverse.org/t/fundamentals-study-group) study meetings about [dtype-next](https://github.com/cnuernber/dtype-next) - a few meetings on the weekend of Nov. 20th, 21st, 22nd. More details are coming soon - [please register](../../posts/2020-11-11-nov-2020-fundamentals-study-meetings/.). Here is the timeline:
   - Two 2-hour study sessions (self-contained and similar):
     - [18:00 20 Nov 2020 in UTC](https://time.is/1800_20_Nov_2020_in_UTC/)
     - [15:00 22 Nov 2020 in UTC](https://time.is/1500_22_Nov_2020_in_UTC/)
