@@ -10,6 +10,8 @@ TL;DR -- please register:
 * [Study meetings](https://tinyurl.com/y5osps55)
 * [Joanne Cheng's Geography talk](https://tinyurl.com/yxoqj2mb)
 
+But the details below are important :).
+
 <hr></hr>
 
 We've recently [discussed](https://clojureverse.org/t/fundamentals-study-group/) our plans to organize a study group of the new fundamental layers of Clojure infrastructure as a way of preparing for the new phase the ecosystem is entering.
