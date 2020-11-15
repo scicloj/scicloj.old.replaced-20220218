@@ -14,13 +14,6 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
-- November machine learning study meetings - [please register](../../posts/2020-10-29-nov-2020-ml-study-meetings/)
- - [11:00 13 Nov 2020 in UTC](https://time.is/1100_13_Nov_2020_in_UTC/)
- - [16:00 13 Nov 2020 in UTC](https://time.is/1600_13_Nov_2020_in_UTC/)
- - [12:00 14 Nov 2020 in UTC](https://time.is/1200_14_Nov_2020_in_UTC/)
- - [17:00 14 Nov 2020 in UTC](https://time.is/1700_14_Nov_2020_in_UTC/)
- - [14:00 15 Nov 2020 in UTC](https://time.is/1400_15_Nov_2020_in_UTC/)
-
 - November ["fundamentals"](https://clojureverse.org/t/fundamentals-study-group) study meetings about [dtype-next](https://github.com/cnuernber/dtype-next) - a few meetings on the weekend of Nov. 20th, 21st, 22nd. More details are coming soon - [please register](../../posts/2020-11-11-nov-2020-fundamentals-study-meetings/.). Here is the timeline:
   - Two 2-hour study sessions (self-contained and similar):
     - [18:00 20 Nov 2020 in UTC](https://time.is/1800_20_Nov_2020_in_UTC/)
@@ -69,4 +62,11 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 - November 1st., [6pm UTC](https://time.is/1800_1_Nov_2020_in_UTC/) - Clojure and data science in healthcare: Sivaram Arabandi & Pier Federico Gherardini - [video](https://youtu.be/dayMZjQcVaY)
 
 - November 7th, [8pm UTC](https://time.is/2000_07_Nov_2020_in_UTC/) - Vlad Protsenko about [Reveal](https://vlaaad.github.io/reveal/): Read Eval Visualize Loop and [cljfx](https://github.com/cljfx/cljfx) - [video](https://youtu.be/hm7LoqvaYXk)
+
+- November machine learning study meetings - [background](../../posts/2020-10-29-nov-2020-ml-study-meetings/)
+ - [11:00 13 Nov 2020 in UTC](https://time.is/1100_13_Nov_2020_in_UTC/)
+ - [16:00 13 Nov 2020 in UTC](https://time.is/1600_13_Nov_2020_in_UTC/)
+ - [12:00 14 Nov 2020 in UTC](https://time.is/1200_14_Nov_2020_in_UTC/)
+ - [17:00 14 Nov 2020 in UTC](https://time.is/1700_14_Nov_2020_in_UTC/)
+ - [14:00 15 Nov 2020 in UTC](https://time.is/1400_15_Nov_2020_in_UTC/)
 
