@@ -5,7 +5,6 @@
  :toc true}
 
 Online gatherings are where we meet to have some thinking together. Usually, one main topic is presented, and then we have an open discussion afterwards.
-
 Some meetings are open. Others take the interview format -- 2-3 people interviewing usually 1 person, about that person's projects/workflow/research.
 
 You can find the meeting videos [here](http://yt.vu/+scicloj).
@@ -14,15 +13,16 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 ## Future
 
-- November ["fundamentals"](https://clojureverse.org/t/fundamentals-study-group) study meetings about [dtype-next](https://github.com/cnuernber/dtype-next) - a few meetings on the weekend of Nov. 20th, 21st, 22nd. More details are coming soon - [please register](../../posts/2020-11-11-nov-2020-fundamentals-study-meetings/.). Here is the timeline:
+- November ["fundamentals"](https://clojureverse.org/t/fundamentals-study-group) study meetings about [dtype-next](https://github.com/cnuernber/dtype-next) - a few meetings on the weekend of Nov. 20th, 21st, 22nd. More details are coming soon - [RSVP](../../posts/2020-11-11-nov-2020-fundamentals-study-meetings/.). Here is the timeline:
   - Two 2-hour study sessions (self-contained and similar):
     - [18:00 20 Nov 2020 in UTC](https://time.is/1800_20_Nov_2020_in_UTC/)
     - [15:00 22 Nov 2020 in UTC](https://time.is/1500_22_Nov_2020_in_UTC/)
   - A 45-minutes chat about the expectations and the plan of the fundamentals study group:
     - [15:00 21 Nov 2020 in UTC](https://time.is/1500_21_Nov_2020_in_UTC/) -- just before Joanne's talk
 
-- [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography #2 - [registration](https://tinyurl.com/yxoqj2mb)
+- [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography #2 - [RSVP](https://tinyurl.com/yxoqj2mb)
 
+- [Dec 8th, 14:00 UTC](https://time.is/1400_08_Dec_2020_in_UTC/) - Nikita Prokopov about Skija -- graphics in the JVM - [RSVP](https://tinyurl.com/yyb6zhmd)
 
 ## Past
 
