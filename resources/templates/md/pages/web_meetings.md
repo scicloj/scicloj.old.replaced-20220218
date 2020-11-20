@@ -22,6 +22,8 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 - [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography #2 - [RSVP](https://tinyurl.com/yxoqj2mb)
 
+- [Dec 2nd, 14:00 UTC](https://time.is/1400_02_Dec_2020_in_UTC/) - Sicmutils #1 - geometry, symbolic math, and physics in Clojure(script) - [background & RSVP](https://clojureverse.org/t/scicloj-meeting-sicmutils-1-geometry-symbolic-math-and-physics-in-clojure-script/6840)
+
 - [Dec 8th, 14:00 UTC](https://time.is/1400_08_Dec_2020_in_UTC/) - Nikita Prokopov about Skija -- graphics in the JVM - [RSVP](https://tinyurl.com/yyb6zhmd)
 
 ## Past

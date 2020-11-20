@@ -44,7 +44,7 @@ We tag libraries with the field they are relevant to.
 - [huri](https://github.com/sbelak/huri): `df`,`stat`,`vis` - a toolbox for data-science using plain sequences of maps
 
 ## Array programming, linear algebra
-- [tech.datatype](https://github.com/techascent/tech.datatype) (`act`): `array`,`native`,`stat` - abstractions and foundations for working with array-like structures and sequential structures
+- [dtype-next](https://github.com/cnuernber/dtype-next) (`act`): `array`,`native`,`stat` - abstractions and foundations for working with array-like structures and sequential structures
 - [tvm-clj](https://github.com/techascent/tvm-clj) (`act`,`exp`): `array`,`linalg`,`native`,`gpu` - bindings to [tvm](https://github.com/apache/incubator-tvm)
 - [Neanderthal](https://neanderthal.uncomplicate.org/) (`act`): `array`,`linalg`,`native`,`gpu` - matrix and linear algebra in Clojure
 - [jutsu.matrix](https://github.com/hswick/jutsu.matrix): `array`,`linalg`,`native`,`gpu` - bindigs to [ND4J](https://deeplearning4j.org/docs/latest/nd4j-overview)
