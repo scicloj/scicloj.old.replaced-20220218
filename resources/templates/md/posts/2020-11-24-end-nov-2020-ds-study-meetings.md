@@ -14,7 +14,7 @@ In the last two weekends, we have started a habit of weekend study meetings, wit
 
 Every two weekends, we will have study sessions on machine learning and data science practices. This habit started for the first time with [the mid-November ML study meetings](../2020-10-29-nov-2020-ml-study-meetings). On the other weekends, we will have study sessions of the "Scicloj foundations", where we will be learning to become contributors to the emerging ecosystem of Clojure data science and the libraries and tools around it. This habit started for the first time with [the meetings last weekend](../2020-11-11-nov-2020-fundamentals-study-meetings).
 
-We encourage you to follow these two groups on the corresponding Zulip streams: [#ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) and [#sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu**.
+We encourage you to follow these two groups on the corresponding Zulip streams: [#ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) and [#sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu**).
 
 In the coming last weekend of November, we will have a few more meetings of the first kind. They will vary in their content. In some of them, we will experiment with various tools and ways of learning together.
 
