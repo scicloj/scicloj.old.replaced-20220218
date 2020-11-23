@@ -38,7 +38,7 @@ In the coming last weekend of November, we will have a few more meetings of the 
 - **Time**: [18:00 28 Nov 2020 in UTC](https://time.is/1800_28_Nov_2020_in_UTC/)
 
 ### Tweaking Notespace
-- **Plan**: We will learn about Notepace from the point of view of extending and tweaking it. We will also discuss some possible directions for our next steps in building literate programming solutions.
+- **Plan**: We will learn about [Notespace](https://github.com/scicloj/notespace) from the point of view of extending and tweaking it. We will also discuss some possible directions for our next steps in building literate programming solutions.
 - **Workflow**: A talk, a discussion, and some hacking together.
 - **Facilitated by**: Daniel Slutsky
 - **Time**: [12:00 29 Nov 2020 in UTC](https://time.is/1200_29_Nov_2020_in_UTC/)
