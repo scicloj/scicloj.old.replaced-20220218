@@ -22,6 +22,8 @@ Here are the main scicloj-related active streams, dedicated to certain subgroups
 
 - [#ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) - machine learning and data analysis study sessions
 
+- [#sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) - Scicloj foundations study group - learning together to build the Clojure data science ecosystem
+
 - [#tech.ml.dataset.dev](https://clojurians.zulipchat.com/#narrow/stream/236259-tech.2Eml.2Edataset.2Edev) - discussing [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset)
 
 - [#cljplot-dev](https://clojurians.zulipchat.com/#narrow/stream/197967-cljplot-dev) - [cljplot](https://github.com/generateme/cljplot) develompemt
