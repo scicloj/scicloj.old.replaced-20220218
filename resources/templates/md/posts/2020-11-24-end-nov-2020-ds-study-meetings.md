@@ -85,3 +85,9 @@ See you there!
 - We will use Zoom for the video meetings. We will email you the Zoom link.
 - We will use the Clojurians Zulip chat for our notes and textual discussions. Here is some recommended background about our use of Zulip: https://scicloj.github.io/pages/chat_streams/
 
+**Q:** Will the meetings be recorded and published?
+
+**A:**
+- Usually, our study meetings are recorded, but the recordings are not shared publicly, but rather shared in our internal chat streams for our internal use.
+- This time, some of the meetings may be published for wider audiences. This will be mentioned in the beginning of the meetings.
+
