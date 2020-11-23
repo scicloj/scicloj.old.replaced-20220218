@@ -14,6 +14,10 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 ## Future
 
 - November 27-29 study weekend: Datavis, ETL, NLP, Notespace - [details & RSVP](../../posts/2020-11-24-end-nov-2020-ds-study-meetings)
+  - [13:00 27 Nov 2020 in UTC](https://time.is/1300_27_Nov_2020_in_UTC/) - Data visualizations practice
+  - [18:00 27 Nov 2020 in UTC](https://time.is/1800_27_Nov_2020_in_UTC) - NLP session
+  - [18:00 28 Nov 2020 in UTC](https://time.is/1800_28_Nov_2020_in_UTC/) - ETL practice
+  - [12:00 29 Nov 2020 in UTC](https://time.is/1200_29_Nov_2020_in_UTC/) - Tweaking Notespace
 
 - [Dec 2nd, 14:00 UTC](https://time.is/1400_02_Dec_2020_in_UTC/) - Sicmutils #1 - geometry, symbolic math, and physics in Clojure(script) - [background & RSVP](https://clojureverse.org/t/scicloj-meeting-sicmutils-1-geometry-symbolic-math-and-physics-in-clojure-script/6840)
 
