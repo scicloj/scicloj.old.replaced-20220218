@@ -21,27 +21,27 @@ In the coming last weekend of November, we will have a few more meetings of the 
 ## Plan
 
 ### Data visualizations practice
-- Plan: We will explore a data problem with an emphasis on data visualizations.
-- Workflow: We will share sharing a joint REPL session on a remote machine with our local editors. We will switch hands from time to time.
-- Facilitated by: TBA and Daniel Slutsky
-- Time: [13:00 27 Nov 2020 in UTC](https://time.is/1300_27_Nov_2020_in_UTC/)
+- **Plan**: We will explore a data problem with an emphasis on data visualizations.
+- **Workflow**: We will share sharing a joint REPL session on a remote machine with our local editors. We will switch hands from time to time.
+- **Facilitated by**: TBA and Daniel Slutsky
+- **Time**: [13:00 27 Nov 2020 in UTC](https://time.is/1300_27_Nov_2020_in_UTC/)
 
 ### NLP session
-- Plan: We will explore an NLP data problem
-- Facilitated by: Jake Nylund
-- Time: [18:00 27 Nov 2020 in UTC](https://time.is/1800_27_Nov_2020_in_UTC)
+- **Plan**: We will explore an NLP data problem
+- **Facilitated by**: Jake Nylund
+- **Time**: [18:00 27 Nov 2020 in UTC](https://time.is/1800_27_Nov_2020_in_UTC)
 
 ### ETL practice
-- Plan: We will explore a data problem with an emphasis on ETL data processing.
-- Workflow: Everybody will edit the same code using VSCode's remote abilities in a mob coding fashion.
-- Facilitated by: J
-- Time: [18:00 28 Nov 2020 in UTC](https://time.is/1800_28_Nov_2020_in_UTC/)
+- **Plan**: We will explore a data problem with an emphasis on ETL data processing.
+- **Workflow**: Everybody will edit the same code using VSCode's remote abilities in a mob coding fashion.
+- **Facilitated by**: J
+- **Time**: [18:00 28 Nov 2020 in UTC](https://time.is/1800_28_Nov_2020_in_UTC/)
 
 ### Tweaking Notespace
-- Plan: We will learn about Notepace from the point of view of extending and tweaking it. We will also discuss some possible directions for our next steps in building literate programming solutions.
-- Workflow: A talk, a discussion, and some hacking together.
-- Facilitated by: Daniel Slutsky
-- Time: [12:00 29 Nov 2020 in UTC](https://time.is/1200_29_Nov_2020_in_UTC/)
+- **Plan**: We will learn about Notepace from the point of view of extending and tweaking it. We will also discuss some possible directions for our next steps in building literate programming solutions.
+- **Workflow**: A talk, a discussion, and some hacking together.
+- **Facilitated by**: Daniel Slutsky
+- **Time**: [12:00 29 Nov 2020 in UTC](https://time.is/1200_29_Nov_2020_in_UTC/)
 
 Please register in advance as much as possible, and let us know if anything changes your plans. This will help a lot in the preparations.
 
