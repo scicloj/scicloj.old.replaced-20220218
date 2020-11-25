@@ -104,7 +104,7 @@ In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of de
 
 ## Dataframe-like structures
 - [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) (`act`): `df`,`stat`,`vis`,`csv` - abstractions for dataframe-like structures in clojure, based on tech.datatype abstractions, with an implementation using the Tablesaw Java library
-- [tablecloth](https://github.com/techascent/tech.ml.dataset) (`act`): `df`,`csv` - a dataframe grammar wrapping tech.ml.dataset, inspired by serveral R libraries
+- [tablecloth](https://github.com/scicloj/tablecloth) (`act`): `df`,`csv` - a dataframe grammar wrapping tech.ml.dataset, inspired by serveral R libraries
 - [Panthera](https://github.com/alanmarazzi/panthera): `df`,`py` - a Clojure API wrapping Python's Pandas library
 - [koala](https://github.com/aria42/koala) (`exp`): `df`,`csv` - Pandas-like data-processing for clojure with some I/O functionality
 - [dataframe](https://github.com/ghl3/dataframe): `df` - Pandas-like data processing for clojure
