@@ -22,7 +22,7 @@ In the coming last weekend of November, we will have a few more meetings of the 
 
 ### Data visualizations practice
 - **Plan**: We will explore a data problem with an emphasis on data visualizations.
-- **Workflow**: We will share sharing a joint REPL session on a remote machine with our local editors. We will switch hands from time to time.
+- **Workflow**: We will share a joint REPL session on a remote machine with our local editors. We will switch hands from time to time.
 - **Facilitated by**: TBA and Daniel Slutsky
 - **Time**: [13:00 27 Nov 2020 in UTC](https://time.is/1300_27_Nov_2020_in_UTC/)
 
