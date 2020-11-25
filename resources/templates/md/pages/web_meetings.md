@@ -7,7 +7,7 @@
 Online gatherings are where we meet to have some thinking together.
 
 Usually, one main topic is presented, and then we have an open discussion afterwards. Other meetings take the form of a joint study session.
-Some meetings are open. Others take the interview format -- 2-3 people interviewing usually 1 person, about that person's projects/workflow/research.
+Some meetings are open. Others take the interview format -- 2-3 people interviewing usually 1 person.
 
 Sometimes, the recordings are published (mostly in talks and interviews). You can find the recordings [here](http://yt.vu/+scicloj).
 
