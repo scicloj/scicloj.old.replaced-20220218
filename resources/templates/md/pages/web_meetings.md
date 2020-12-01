@@ -15,6 +15,7 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 Below are our past and future meetings. It is also recommended to follow the [general Clojure calendar feed](https://clojureverse.org/t/clojure-events-calendar-feed/).
 
+
 ## Future
 
 - [Dec 2nd, 14:00 UTC](https://time.is/1400_02_Dec_2020_in_UTC/) - Sicmutils #1 - geometry, symbolic math, and physics in Clojure(script) - [background & RSVP](https://clojureverse.org/t/scicloj-meeting-sicmutils-1-geometry-symbolic-math-and-physics-in-clojure-script/6840)
