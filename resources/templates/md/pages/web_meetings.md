@@ -17,12 +17,6 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ## Future
 
-- November 27-29 study weekend: Datavis, ETL, NLP, Notespace - [details & RSVP](../../posts/2020-11-24-end-nov-2020-ds-study-meetings)
-  - [13:00 27 Nov 2020 in UTC](https://time.is/1300_27_Nov_2020_in_UTC/) - Data visualizations practice
-  - [18:00 27 Nov 2020 in UTC](https://time.is/1800_27_Nov_2020_in_UTC) - NLP session
-  - [18:00 28 Nov 2020 in UTC](https://time.is/1800_28_Nov_2020_in_UTC/) - ETL practice
-  - [12:00 29 Nov 2020 in UTC](https://time.is/1200_29_Nov_2020_in_UTC/) - Tweaking Notespace
-
 - [Dec 2nd, 14:00 UTC](https://time.is/1400_02_Dec_2020_in_UTC/) - Sicmutils #1 - geometry, symbolic math, and physics in Clojure(script) - [background & RSVP](https://clojureverse.org/t/scicloj-meeting-sicmutils-1-geometry-symbolic-math-and-physics-in-clojure-script/6840)
 
 - [Dec 8th, 14:00 UTC](https://time.is/1400_08_Dec_2020_in_UTC/) - Nikita Prokopov about Skija -- graphics in the JVM - [RSVP](https://tinyurl.com/yyb6zhmd)
@@ -73,12 +67,19 @@ Below are our past and future meetings. It is also recommended to follow the [ge
  - [17:00 14 Nov 2020 in UTC](https://time.is/1700_14_Nov_2020_in_UTC/)
  - [14:00 15 Nov 2020 in UTC](https://time.is/1400_15_Nov_2020_in_UTC/)
 
-- November ["fundamentals"](https://clojureverse.org/t/fundamentals-study-group) study meetings about [dtype-next](https://github.com/cnuernber/dtype-next) - a few meetings on the weekend of Nov. 20th, 21st, 22nd. More details are coming soon - [RSVP](../../posts/2020-11-11-nov-2020-fundamentals-study-meetings/.). Here is the timeline:
+- November ["fundamentals"](https://clojureverse.org/t/fundamentals-study-group) study meetings about [dtype-next](https://github.com/cnuernber/dtype-next) - a few meetings on the weekend of Nov. 20th, 21st, 22nd. More details are coming soon - [details](../../posts/2020-11-11-nov-2020-fundamentals-study-meetings/.). Here is the timeline:
   - Two 2-hour study sessions (self-contained and similar):
     - [18:00 20 Nov 2020 in UTC](https://time.is/1800_20_Nov_2020_in_UTC/)
     - [15:00 22 Nov 2020 in UTC](https://time.is/1500_22_Nov_2020_in_UTC/)
   - A 45-minutes chat about the expectations and the plan of the fundamentals study group:
     - [15:00 21 Nov 2020 in UTC](https://time.is/1500_21_Nov_2020_in_UTC/) -- just before Joanne's talk
 
-- [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography #2 - [RSVP](https://tinyurl.com/yxoqj2mb)
+- [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography #2
+
+- November 27-29 study weekend: Datavis, ETL, NLP, Notespace - [details](../../posts/2020-11-24-end-nov-2020-ds-study-meetings)
+  - [13:00 27 Nov 2020 in UTC](https://time.is/1300_27_Nov_2020_in_UTC/) - Data visualizations practice
+  - [18:00 27 Nov 2020 in UTC](https://time.is/1800_27_Nov_2020_in_UTC) - NLP session
+  - [18:00 28 Nov 2020 in UTC](https://time.is/1800_28_Nov_2020_in_UTC/) - ETL practice
+  - [12:00 29 Nov 2020 in UTC](https://time.is/1200_29_Nov_2020_in_UTC/) - Tweaking Notespace
+
 
