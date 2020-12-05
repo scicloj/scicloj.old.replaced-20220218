@@ -20,6 +20,10 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 - [Dec 2nd, 14:00 UTC](https://time.is/1400_02_Dec_2020_in_UTC/) - Sicmutils #1 - geometry, symbolic math, and physics in Clojure(script) - [background & RSVP](https://clojureverse.org/t/scicloj-meeting-sicmutils-1-geometry-symbolic-math-and-physics-in-clojure-script/6840)
 
+- Dec 6th sci-fu sessions - details at the [#sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) - Interested? - [Let us talk](../about/#where).
+  - [Dec 6nd, 13:00 UTC](https://time.is/1300_06_Dec_2020_in_UTC/) - various presentations
+  - [Dec 6nd, 18:00 UTC](https://time.is/1800_06_Dec_2020_in_UTC/) - building something together
+
 - [Dec 16th, 14:00 UTC](https://time.is/1400_16_Dec_2020_in_UTC/) (**note the date change**) - Nikita Prokopov about Skija -- graphics in the JVM - [RSVP](https://tinyurl.com/yyb6zhmd)
 
 ## Past
