@@ -18,12 +18,18 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ## Future
 
-- [Dec 2nd, 14:00 UTC](https://time.is/1400_02_Dec_2020_in_UTC/) - Sicmutils #1 - geometry, symbolic math, and physics in Clojure(script) - [background & RSVP](https://clojureverse.org/t/scicloj-meeting-sicmutils-1-geometry-symbolic-math-and-physics-in-clojure-script/6840)
-
-- Dec 6th sci-fu sessions - details at the [#sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) - Interested? - [Let us talk](../about/#where).
-  - [Dec 6nd, 13:00 UTC](https://time.is/1300_06_Dec_2020_in_UTC/) - various presentations
-  - [Dec 6nd, 18:00 UTC](https://time.is/1800_06_Dec_2020_in_UTC/) - building something together
-  - [Dec 7nd, 12:00 UTC](https://time.is/1200_07_Dec_2020_in_UTC/) - implementing a basic time-series workflow in Clojure
+- Dec 11th-13th weekend - working together on Clojure implementations of examples from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by VanderPlas - [details at the #ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/planning.20ml-study.203/near/219282422) - times of show-and-tell meetings:
+  - [11:00 UTC, 11 Dec](https://time.is/1100_11_Dec_2020_in_UTC/)
+  - [16:00 UTC, 11 Dec](https://time.is/1600_11_Dec_2020_in_UTC/)
+  - [21:00 UTC, 11 Dec](https://time.is/2100_11_Dec_2020_in_UTC/)
+  - [06:00 UTC, 12 Dec](https://time.is/0600_12_Dec_2020_in_UTC/)
+  - [11:00 UTC, 12 Dec](https://time.is/1100_12_Dec_2020_in_UTC/)
+  - [16:00 UTC, 12 Dec](https://time.is/1600_12_Dec_2020_in_UTC/)
+  - [21:00 UTC, 12 Dec](https://time.is/2100_12_Dec_2020_in_UTC/)
+  - [06:00 UTC, 13 Dec](https://time.is/0600_13_Dec_2020_in_UTC/)
+  - [11:00 UTC, 13 Dec](https://time.is/1100_13_Dec_2020_in_UTC/)
+  - [16:00 UTC, 13 Dec](https://time.is/1600_13_Dec_2020_in_UTC/)
+  - [21:00 UTC, 13 Dec](https://time.is/2100_13_Dec_2020_in_UTC/)
 
 - [Dec 16th, 14:00 UTC](https://time.is/1400_16_Dec_2020_in_UTC/) (**note the date change**) - Nikita Prokopov about Skija -- graphics in the JVM - [RSVP](https://tinyurl.com/yyb6zhmd)
 
@@ -88,4 +94,10 @@ Below are our past and future meetings. It is also recommended to follow the [ge
   - [18:00 28 Nov 2020 in UTC](https://time.is/1800_28_Nov_2020_in_UTC/) - ETL practice
   - [12:00 29 Nov 2020 in UTC](https://time.is/1200_29_Nov_2020_in_UTC/) - Tweaking Notespace
 
+- [Dec 2nd, 14:00 UTC](https://time.is/1400_02_Dec_2020_in_UTC/) - Sicmutils #1 - geometry, symbolic math, and physics in Clojure(script) - [background](https://clojureverse.org/t/scicloj-meeting-sicmutils-1-geometry-symbolic-math-and-physics-in-clojure-script/6840) - [video](https://www.youtube.com/watch?v=GyUSh0AAloA)
+
+- Dec 6th sci-fu sessions - details at the [#sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu)
+  - [Dec 6nd, 13:00 UTC](https://time.is/1300_06_Dec_2020_in_UTC/) - various presentations
+  - [Dec 6nd, 18:00 UTC](https://time.is/1800_06_Dec_2020_in_UTC/) - building something together
+  - [Dec 7nd, 12:00 UTC](https://time.is/1200_07_Dec_2020_in_UTC/) - implementing a basic time-series workflow in Clojure
 
