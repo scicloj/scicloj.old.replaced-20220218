@@ -19,17 +19,17 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 ## Future
 
 - Dec 11th-13th weekend - working together on Clojure implementations of examples from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by VanderPlas - [details at the #ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/planning.20ml-study.203/near/219282422) - times of show-and-tell meetings:
-  - [11:00 UTC, 11 Dec](https://time.is/1100_11_Dec_2020_in_UTC/)
-  - [16:00 UTC, 11 Dec](https://time.is/1600_11_Dec_2020_in_UTC/)
-  - [21:00 UTC, 11 Dec](https://time.is/2100_11_Dec_2020_in_UTC/)
-  - [06:00 UTC, 12 Dec](https://time.is/0600_12_Dec_2020_in_UTC/)
-  - [11:00 UTC, 12 Dec](https://time.is/1100_12_Dec_2020_in_UTC/)
-  - [16:00 UTC, 12 Dec](https://time.is/1600_12_Dec_2020_in_UTC/)
-  - [21:00 UTC, 12 Dec](https://time.is/2100_12_Dec_2020_in_UTC/)
-  - [06:00 UTC, 13 Dec](https://time.is/0600_13_Dec_2020_in_UTC/)
-  - [11:00 UTC, 13 Dec](https://time.is/1100_13_Dec_2020_in_UTC/)
-  - [16:00 UTC, 13 Dec](https://time.is/1600_13_Dec_2020_in_UTC/)
-  - [21:00 UTC, 13 Dec](https://time.is/2100_13_Dec_2020_in_UTC/)
+  - [11:00 UTC, Dec 11th](https://time.is/1100_11_Dec_2020_in_UTC/)
+  - [16:00 UTC, Dec 11th](https://time.is/1600_11_Dec_2020_in_UTC/)
+  - [21:00 UTC, Dec 11th](https://time.is/2100_11_Dec_2020_in_UTC/)
+  - [06:00 UTC, Dec 12th](https://time.is/0600_12_Dec_2020_in_UTC/)
+  - [11:00 UTC, Dec 12th](https://time.is/1100_12_Dec_2020_in_UTC/)
+  - [16:00 UTC, Dec 12th](https://time.is/1600_12_Dec_2020_in_UTC/)
+  - [21:00 UTC, Dec 12th](https://time.is/2100_12_Dec_2020_in_UTC/)
+  - [06:00 UTC, Dec 13th](https://time.is/0600_13_Dec_2020_in_UTC/)
+  - [11:00 UTC, Dec 13th](https://time.is/1100_13_Dec_2020_in_UTC/)
+  - [16:00 UTC, Dec 13th](https://time.is/1600_13_Dec_2020_in_UTC/)
+  - [21:00 UTC, Dec 13th](https://time.is/2100_13_Dec_2020_in_UTC/)
 
 - [Dec 16th, 14:00 UTC](https://time.is/1400_16_Dec_2020_in_UTC/) (**note the date change**) - Nikita Prokopov about Skija -- graphics in the JVM - [RSVP](https://tinyurl.com/yyb6zhmd)
 
