@@ -34,6 +34,8 @@ Here are the main scicloj-related active streams, dedicated to certain subgroups
 
 - [#notespace-dev](https://clojurians.zulipchat.com/#narrow/stream/224153-notespace-dev) - [notespace](https://github.com/scicloj/notespace) development
 
+- [#sicmutils](https://clojurians.zulipchat.com/#narrow/stream/267174-sicmutils) - updates and discussions about [sicmutils](https://github.com/littleredcomputer/sicmutils)
+
 - [#libpython-clj-dev](https://clojurians.zulipchat.com/#narrow/stream/215609-libpython-clj-dev) - [libpython-clj](https://github.com/clj-python/libpython-clj) development and usage
 
 - [#r-interop](https://clojurians.zulipchat.com/#narrow/stream/204621-r-interop) - R-interop development and usage: various libraries such as [graalvm-interop](https://github.com/davidpham87/graalvm-rinterop) and [clojisr](https://github.com/scicloj/clojisr)
