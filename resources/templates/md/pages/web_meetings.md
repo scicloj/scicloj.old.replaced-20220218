@@ -18,18 +18,7 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ## Future
 
-- Dec 11th-13th weekend - working together on Clojure implementations of examples from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by VanderPlas - [details at the #ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/planning.20ml-study.203/near/219282422) - times of show-and-tell meetings:
-  - [11:00 UTC, Dec 11th](https://time.is/1100_11_Dec_2020_in_UTC/)
-  - [16:00 UTC, Dec 11th](https://time.is/1600_11_Dec_2020_in_UTC/)
-  - [21:00 UTC, Dec 11th](https://time.is/2100_11_Dec_2020_in_UTC/)
-  - [06:00 UTC, Dec 12th](https://time.is/0600_12_Dec_2020_in_UTC/)
-  - [11:00 UTC, Dec 12th](https://time.is/1100_12_Dec_2020_in_UTC/)
-  - [16:00 UTC, Dec 12th](https://time.is/1600_12_Dec_2020_in_UTC/)
-  - [21:00 UTC, Dec 12th](https://time.is/2100_12_Dec_2020_in_UTC/)
-  - [06:00 UTC, Dec 13th](https://time.is/0600_13_Dec_2020_in_UTC/)
-  - [11:00 UTC, Dec 13th](https://time.is/1100_13_Dec_2020_in_UTC/)
-  - [16:00 UTC, Dec 13th](https://time.is/1600_13_Dec_2020_in_UTC/)
-  - [21:00 UTC, Dec 13th](https://time.is/2100_13_Dec_2020_in_UTC/)
+- [Dec 15th, 12:30 UTC](https://time.is/1230_15_Dec_2020_in_UTC/) - coding and studying together - [details at the #ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/session.203.2E12)
 
 - [Dec 16th, 14:00 UTC](https://time.is/1400_16_Dec_2020_in_UTC/) (**note the date change**) - Nikita Prokopov about Skija -- graphics in the JVM - [RSVP](https://tinyurl.com/yyb6zhmd)
 
@@ -100,4 +89,17 @@ Below are our past and future meetings. It is also recommended to follow the [ge
   - [Dec 6nd, 13:00 UTC](https://time.is/1300_06_Dec_2020_in_UTC/) - various presentations
   - [Dec 6nd, 18:00 UTC](https://time.is/1800_06_Dec_2020_in_UTC/) - building something together
   - [Dec 7nd, 12:00 UTC](https://time.is/1200_07_Dec_2020_in_UTC/) - implementing a basic time-series workflow in Clojure
+
+- Dec 11th-13th weekend - working together on Clojure implementations of examples from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by VanderPlas - [details at the #ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/planning.20ml-study.203/near/219282422) - times of show-and-tell meetings:
+  - [11:00 UTC, Dec 11th](https://time.is/1100_11_Dec_2020_in_UTC/)
+  - [16:00 UTC, Dec 11th](https://time.is/1600_11_Dec_2020_in_UTC/)
+  - [21:00 UTC, Dec 11th](https://time.is/2100_11_Dec_2020_in_UTC/)
+  - [06:00 UTC, Dec 12th](https://time.is/0600_12_Dec_2020_in_UTC/)
+  - [11:00 UTC, Dec 12th](https://time.is/1100_12_Dec_2020_in_UTC/)
+  - [16:00 UTC, Dec 12th](https://time.is/1600_12_Dec_2020_in_UTC/)
+  - [21:00 UTC, Dec 12th](https://time.is/2100_12_Dec_2020_in_UTC/)
+  - [06:00 UTC, Dec 13th](https://time.is/0600_13_Dec_2020_in_UTC/)
+  - [11:00 UTC, Dec 13th](https://time.is/1100_13_Dec_2020_in_UTC/)
+  - [16:00 UTC, Dec 13th](https://time.is/1600_13_Dec_2020_in_UTC/)
+  - [21:00 UTC, Dec 13th](https://time.is/2100_13_Dec_2020_in_UTC/)
 
