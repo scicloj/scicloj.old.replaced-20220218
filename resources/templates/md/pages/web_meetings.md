@@ -18,9 +18,7 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ## Future
 
-- [Dec 15th, 12:30 UTC](https://time.is/1230_15_Dec_2020_in_UTC/) - coding and studying together - [details at the #ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/session.203.2E12)
-
-- [Dec 16th, 14:00 UTC](https://time.is/1400_16_Dec_2020_in_UTC/) (**note the date change**) - Nikita Prokopov about Skija -- graphics in the JVM - [RSVP](https://tinyurl.com/yyb6zhmd)
+- Dec 18th-20th weekend sci-fu sessions - details at the [#sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu)
 
 ## Past
 
@@ -102,4 +100,8 @@ Below are our past and future meetings. It is also recommended to follow the [ge
   - [11:00 UTC, Dec 13th](https://time.is/1100_13_Dec_2020_in_UTC/)
   - [16:00 UTC, Dec 13th](https://time.is/1600_13_Dec_2020_in_UTC/)
   - [21:00 UTC, Dec 13th](https://time.is/2100_13_Dec_2020_in_UTC/)
+
+- [Dec 15th, 12:30 UTC](https://time.is/1230_15_Dec_2020_in_UTC/) - coding and studying together - [details at the #ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/session.203.2E12)
+
+- [Dec 16th, 14:00 UTC](https://time.is/1400_16_Dec_2020_in_UTC/) (**note the date change**) - Nikita Prokopov about Skija -- graphics in the JVM - [RSVP](https://tinyurl.com/yyb6zhmd)
 
