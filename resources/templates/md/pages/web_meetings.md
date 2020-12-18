@@ -19,6 +19,9 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 ## Future
 
 - Dec 18th-20th weekend sci-fu sessions - details at the [#sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu)
+  - [19:00 UTC, Dec 18th](https://time.is/1800_18_Dec_2020_in_UTC/)
+  - [19:00 UTC, Dec 19th](https://time.is/1800_19_Dec_2020_in_UTC/)
+  - [19:00 UTC, Dec 20th](https://time.is/1800_20_Dec_2020_in_UTC/)
 
 ## Past
 
