@@ -18,10 +18,10 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ## Future
 
-- Dec 18th-20th weekend sci-fu sessions - details at the [#sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu)
-  - [19:00 UTC, Dec 18th](https://time.is/1800_18_Dec_2020_in_UTC/)
-  - [19:00 UTC, Dec 19th](https://time.is/1800_19_Dec_2020_in_UTC/)
-  - [19:00 UTC, Dec 20th](https://time.is/1800_20_Dec_2020_in_UTC/)
+- Dec 27th weekend ml-study sessions - continuing our work on translating Python handbook examples to Clojure- details at the [#ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/planning.20ml-study.204)
+  - [14:00 UTC, Dec 27th](https://time.is/1400_27_Dec_2020_in_UTC/)
+  - [19:00 UTC, Dec 27th](https://time.is/1900_27_Dec_2020_in_UTC/)
+
 
 ## Past
 
@@ -107,4 +107,9 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 - [Dec 15th, 12:30 UTC](https://time.is/1230_15_Dec_2020_in_UTC/) - coding and studying together - [details at the #ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/session.203.2E12)
 
 - [Dec 16th, 14:00 UTC](https://time.is/1400_16_Dec_2020_in_UTC/) (**note the date change**) - Nikita Prokopov about Skija -- graphics in the JVM - [RSVP](https://tinyurl.com/yyb6zhmd)
+
+- Dec 18th-20th weekend sci-fu sessions - continuing our work on a library for time-series processing and analysis - details at the [#sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu)
+  - [19:00 UTC, Dec 18th](https://time.is/1900_18_Dec_2020_in_UTC/)
+  - [19:00 UTC, Dec 19th](https://time.is/1900_19_Dec_2020_in_UTC/)
+  - [19:00 UTC, Dec 20th](https://time.is/1900_20_Dec_2020_in_UTC/)
 
