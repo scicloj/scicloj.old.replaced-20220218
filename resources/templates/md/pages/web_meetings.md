@@ -18,11 +18,10 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ## Future
 
-- Dec 27th weekend ml-study sessions - continuing our work on translating Python handbook examples to Clojure- details at the [#ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/planning.20ml-study.204)
-  - [14:00 UTC, Dec 27th](https://time.is/1400_27_Dec_2020_in_UTC/)
-  - [19:00 UTC, Dec 27th](https://time.is/1900_27_Dec_2020_in_UTC/)
-
-
+- sci-fu weekend Dec 29th, Jan 1st-3rd - details at the [#sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu/topic/planning.20sci-fu.204)
+  - early session: [19:00 UTC, Dec 29th](https://time.is/1900_29_Dec_2020_in_UTC/): Emacs+Notespace setup, continued work on the time-series library.
+  - more sessions TBA
+  
 ## Past
 
 - April 15th 2019, 3pm UTC - Chris Nuernberger - Tech.ml - [video](https://www.youtube.com/watch?v=NyMABoUEj20&t=6m50s) - [transcript](https://github.com/joinr/sciclojminutes/blob/master/meeting.org)
@@ -76,7 +75,7 @@ Below are our past and future meetings. It is also recommended to follow the [ge
   - A 45-minutes chat about the expectations and the plan of the fundamentals study group:
     - [15:00 21 Nov 2020 in UTC](https://time.is/1500_21_Nov_2020_in_UTC/) -- just before Joanne's talk
 
-- [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography #2
+- [November 21st, 16:00 UTC](https://time.is/1600_21_Nov_2020_in_UTC/) - Joanne Cheng - Clojure in Geography #2 - [video](https://www.youtube.com/watch?v=PmTwN_sEsJo)
 
 - November 27-29 study weekend: Datavis, ETL, NLP, Notespace - [details](../../posts/2020-11-24-end-nov-2020-ds-study-meetings)
   - [13:00 27 Nov 2020 in UTC](https://time.is/1300_27_Nov_2020_in_UTC/) - Data visualizations practice
@@ -106,10 +105,14 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 - [Dec 15th, 12:30 UTC](https://time.is/1230_15_Dec_2020_in_UTC/) - coding and studying together - [details at the #ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/session.203.2E12)
 
-- [Dec 16th, 14:00 UTC](https://time.is/1400_16_Dec_2020_in_UTC/) (**note the date change**) - Nikita Prokopov about Skija -- graphics in the JVM - [RSVP](https://tinyurl.com/yyb6zhmd)
+- [Dec 16th, 14:00 UTC](https://time.is/1400_16_Dec_2020_in_UTC/) (**note the date change**) - Nikita Prokopov about Skija -- graphics in the JVM - [Video](https://www.youtube.com/watch?v=t1X-Oln1u24)
 
 - Dec 18th-20th weekend sci-fu sessions - continuing our work on a library for time-series processing and analysis - details at the [#sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu)
   - [19:00 UTC, Dec 18th](https://time.is/1900_18_Dec_2020_in_UTC/)
   - [19:00 UTC, Dec 19th](https://time.is/1900_19_Dec_2020_in_UTC/)
   - [19:00 UTC, Dec 20th](https://time.is/1900_20_Dec_2020_in_UTC/)
+
+- Dec 27th weekend ml-study sessions - continuing our work on translating Python handbook examples to Clojure- details at the [#ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/planning.20ml-study.204)
+  - [14:00 UTC, Dec 27th](https://time.is/1400_27_Dec_2020_in_UTC/)
+  - [19:00 UTC, Dec 27th](https://time.is/1900_27_Dec_2020_in_UTC/)
 
