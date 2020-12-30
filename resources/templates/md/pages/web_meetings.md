@@ -19,7 +19,7 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 ## Future
 
 - sci-fu weekend Dec 29th, Jan 1st-3rd - details at the [#sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu/topic/planning.20sci-fu.204)
-  - early session: [19:00 UTC, Dec 29th](https://time.is/1900_29_Dec_2020_in_UTC/**: Emacs+Notespace setup, continued work on the time-series library
+  - early session: [19:00 UTC, Dec 29th](https://time.is/1900_29_Dec_2020_in_UTC/): Emacs+Notespace setup, continued work on the time-series library
   - more sessions TBA
   
 ## Past
