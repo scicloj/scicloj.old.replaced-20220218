@@ -19,8 +19,9 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 ## Future
 
 - sci-fu weekend Dec 29th, Jan 1st-3rd - details at the [#sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu/topic/planning.20sci-fu.204)
-  - early session: [19:00 UTC, Dec 29th](https://time.is/1900_29_Dec_2020_in_UTC/): Emacs+Notespace setup, continued work on the time-series library
-  - more sessions TBA
+  - [19:00 UTC, Dec 29th 2020](https://time.is/1900_29_Dec_2020_in_UTC/): Emacs+Notespace setup, continued work on the time-series library
+  - [19:00 UTC, Jan 2nd 2021](https://time.is/1900_02_Jan_2021_in_UTC/)
+  - [19:00 UTC, Jan 3rd 2021](https://time.is/1900_03_Jan_2021_in_UTC/)
   
 ## Past
 
@@ -30,8 +31,6 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 - September 27th - Anthony Khong interviewed by Vijay Kiran, Teodor Heggelund and Daniel Slutsky about Geni - [video](https://youtu.be/3R2FJQdtLf8)
 
 ### Talks
-
-
 
 - April 15th 2019, 3pm UTC - Chris Nuernberger - Tech.ml - [video](https://www.youtube.com/watch?v=NyMABoUEj20&t=6m50s) - [transcript](https://github.com/joinr/sciclojminutes/blob/master/meeting.org)
 - May 15th 2019, 10pm UTC - Carin Meier - Clojure MXNet - [video](https://www.youtube.com/watch?v=niCq-pvDyZc)
