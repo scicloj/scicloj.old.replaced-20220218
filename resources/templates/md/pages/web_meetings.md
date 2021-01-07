@@ -18,7 +18,8 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ## Future
 
-Jan 8th-10th study weekend: the [ml-study](https://github.com/scicloj/scicloj-data-science-handbook) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on the [tablecloth.time](https://github.com/scicloj/tablecloth.time) time-series processing library. If you want to join any of the sessions, [let us talk](../about/#where).
+### Jan 8th-10th study weekend
+The [ml-study](https://github.com/scicloj/scicloj-data-science-handbook) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on the [tablecloth.time](https://github.com/scicloj/tablecloth.time) time-series processing library. If you want to join any of the sessions, [let us talk](../about/#where).
 
 * [9:00 08 Jan 2021 in UTC/](https://time.is/900_08_Jan_2021_in_UTC/) - ml-study
 * [13:00 08 Jan 2021 in UTC/](https://time.is/1300_08_Jan_2021_in_UTC/) - ml-study
