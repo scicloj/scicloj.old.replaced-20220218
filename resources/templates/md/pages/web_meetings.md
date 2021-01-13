@@ -18,19 +18,19 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ## Future
 
-### Jan 8th-10th study weekend
-The [ml-study](https://github.com/scicloj/scicloj-data-science-handbook) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on the [tablecloth.time](https://github.com/scicloj/tablecloth.time) time-series processing library. If you want to join any of the sessions, [let us talk](../about/#where).
+### Jan 15th-17th study weekend
+The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time). If you want to join any of the sessions, [let us talk](../about/#where).
 
-* [9:00 08 Jan 2021 in UTC/](https://time.is/900_08_Jan_2021_in_UTC/) - ml-study
-* [13:00 08 Jan 2021 in UTC/](https://time.is/1300_08_Jan_2021_in_UTC/) - ml-study
-* [19:00 08 Jan 2021 in UTC/](https://time.is/1900_08_Jan_2021_in_UTC/) - ml-study
-* [13:00 09 Jan 2021 in UTC/](https://time.is/1300_09_Jan_2021_in_UTC/) - ml-study
-* [16:00 09 Jan 2021 in UTC/](https://time.is/1600_09_Jan_2021_in_UTC/) - ml-study
-* [19:00 09 Jan 2021 in UTC/](https://time.is/1900_09_Jan_2021_in_UTC/) - sci-fu
-* [13:00 10 Jan 2021 in UTC/](https://time.is/1300_10_Jan_2021_in_UTC/) - ml-study
-* [16:00 10 Jan 2021 in UTC/](https://time.is/1600_10_Jan_2021_in_UTC/) - ml-study
-* [19:00 10 Jan 2021 in UTC/](https://time.is/1900_10_Jan_2021_in_UTC/) - sci-fu
- 
+- [1100 15 Jan 2021 in UTC](https://time.is/1100_15_Jan_2021_in_UTC/) - ml-study
+- [1500 15 Jan 2021 in UTC](https://time.is/1500_15_Jan_2021_in_UTC/) - ml-study
+- [1900 15 Jan 2021 in UTC](https://time.is/1900_15_Jan_2021_in_UTC/) - ml-study
+- [1100 16 Jan 2021 in UTC](https://time.is/1100_16_Jan_2021_in_UTC/) - ml-study
+- [1500 16 Jan 2021 in UTC](https://time.is/1500_16_Jan_2021_in_UTC/) - ml-study
+- [1900 16 Jan 2021 in UTC](https://time.is/1900_16_Jan_2021_in_UTC/) - sci-fu
+- [1100 17 Jan 2021 in UTC](https://time.is/1100_17_Jan_2021_in_UTC/) - ml-study
+- [1500 17 Jan 2021 in UTC](https://time.is/1500_17_Jan_2021_in_UTC/) - ml-study
+- [1900 17 Jan 2021 in UTC](https://time.is/1900_17_Jan_2021_in_UTC/) - sci-fu
+
 ## Past
 
 ### Interviews
@@ -136,4 +136,17 @@ The [ml-study](https://github.com/scicloj/scicloj-data-science-handbook) group i
   - [19:00 UTC, Dec 29th 2020](https://time.is/1900_29_Dec_2020_in_UTC/): Emacs+Notespace setup, continued work on the time-series library
   - [19:00 UTC, Jan 2nd 2021](https://time.is/1900_02_Jan_2021_in_UTC/)
   - [19:00 UTC, Jan 3rd 2021](https://time.is/1900_03_Jan_2021_in_UTC/)
- 
+
+### Jan 8th-10th study weekend
+The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on the [tablecloth.time](https://github.com/scicloj/tablecloth.time) time-series processing library. If you want to join any of the sessions, [let us talk](../about/#where).
+
+* [9:00 08 Jan 2021 in UTC/](https://time.is/900_08_Jan_2021_in_UTC/) - ml-study
+* [13:00 08 Jan 2021 in UTC/](https://time.is/1300_08_Jan_2021_in_UTC/) - ml-study
+* [19:00 08 Jan 2021 in UTC/](https://time.is/1900_08_Jan_2021_in_UTC/) - ml-study
+* [13:00 09 Jan 2021 in UTC/](https://time.is/1300_09_Jan_2021_in_UTC/) - ml-study
+* [16:00 09 Jan 2021 in UTC/](https://time.is/1600_09_Jan_2021_in_UTC/) - ml-study
+* [19:00 09 Jan 2021 in UTC/](https://time.is/1900_09_Jan_2021_in_UTC/) - sci-fu
+* [13:00 10 Jan 2021 in UTC/](https://time.is/1300_10_Jan_2021_in_UTC/) - ml-study
+* [16:00 10 Jan 2021 in UTC/](https://time.is/1600_10_Jan_2021_in_UTC/) - ml-study
+* [19:00 10 Jan 2021 in UTC/](https://time.is/1900_10_Jan_2021_in_UTC/) - sci-fu
+  
