@@ -18,6 +18,16 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ## Future
 
+### Jan 22th-24th study weekend
+The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time). If you want to join any of the sessions, [let us talk](../about/#where).
+- [1500 22 Jan 2021 in UTC](https://time.is/1500_22_Jan_2021_in_UTC/) - ml-study
+- [1500 23 Jan 2021 in UTC](https://time.is/1500_23_Jan_2021_in_UTC/) - ml-study
+- [1900 23 Jan 2021 in UTC](https://time.is/1900_23_Jan_2021_in_UTC/) - sci-fu
+- [1500 24 Jan 2021 in UTC](https://time.is/1500_24_Jan_2021_in_UTC/) - ml-study
+- [1900 24 Jan 2021 in UTC](https://time.is/1900_24_Jan_2021_in_UTC/) - sci-fu
+
+----
+
 - Jan 28th, 4pm UTC - Alan Dipert: Common Lisp for the Curious Clojurian - [details & RSVP](https://clojureverse.org/t/scicloj-public-meeting-common-lisp-for-the-curious-clojurian/7060)
 
 ## Past
@@ -144,7 +154,7 @@ The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) 
 
 - [1100 15 Jan 2021 in UTC](https://time.is/1100_15_Jan_2021_in_UTC/) - ml-study
 - [1500 15 Jan 2021 in UTC](https://time.is/1500_15_Jan_2021_in_UTC/) - ml-study
-- [1900 15 Jan 2021 in UTC](https://time.is/100_15_Jan_2021_in_UTC/) - ml-study
+- [1900 15 Jan 2021 in UTC](https://time.is/1900_15_Jan_2021_in_UTC/) - ml-study
 - [1100 16 Jan 2021 in UTC](https://time.is/1100_16_Jan_2021_in_UTC/) - ml-study
 - [1500 16 Jan 2021 in UTC](https://time.is/1500_16_Jan_2021_in_UTC/) - ml-study
 - [1900 16 Jan 2021 in UTC](https://time.is/1900_16_Jan_2021_in_UTC/) - sci-fu
