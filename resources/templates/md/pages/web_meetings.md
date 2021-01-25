@@ -18,16 +18,6 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ## Future
 
-### Jan 22th-24th study weekend
-The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time). If you want to join any of the sessions, [let us talk](../about/#where).
-- [1400 22 Jan 2021 in UTC](https://time.is/1400_22_Jan_2021_in_UTC/) - ml-study
-- [1400 23 Jan 2021 in UTC](https://time.is/1400_23_Jan_2021_in_UTC/) - ml-study
-- [1900 23 Jan 2021 in UTC](https://time.is/1900_23_Jan_2021_in_UTC/) - sci-fu
-- [1400 24 Jan 2021 in UTC](https://time.is/1400_24_Jan_2021_in_UTC/) - ml-study
-- [1900 24 Jan 2021 in UTC](https://time.is/1900_24_Jan_2021_in_UTC/) - sci-fu
-
-----
-
 - Jan 28th, 4pm UTC - Alan Dipert: Common Lisp for the Curious Clojurian - [details & RSVP](https://clojureverse.org/t/scicloj-public-meeting-common-lisp-for-the-curious-clojurian/7060)
 
 ## Past
@@ -161,4 +151,13 @@ The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) 
 - [1100 17 Jan 2021 in UTC](https://time.is/1100_17_Jan_2021_in_UTC/) - ml-study
 - [1500 17 Jan 2021 in UTC](https://time.is/1500_17_Jan_2021_in_UTC/) - ml-study
 - [1900 17 Jan 2021 in UTC](https://time.is/1900_17_Jan_2021_in_UTC/) - sci-fu
+
+### Jan 22th-24th study weekend
+The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time). If you want to join any of the sessions, [let us talk](../about/#where).
+- [1400 22 Jan 2021 in UTC](https://time.is/1400_22_Jan_2021_in_UTC/) - ml-study
+- [1400 23 Jan 2021 in UTC](https://time.is/1400_23_Jan_2021_in_UTC/) - ml-study
+- [1900 23 Jan 2021 in UTC](https://time.is/1900_23_Jan_2021_in_UTC/) - sci-fu
+- [1400 24 Jan 2021 in UTC](https://time.is/1400_24_Jan_2021_in_UTC/) - ml-study
+- [1900 24 Jan 2021 in UTC](https://time.is/1900_24_Jan_2021_in_UTC/) - sci-fu
+
 

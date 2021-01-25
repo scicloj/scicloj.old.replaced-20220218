@@ -38,6 +38,8 @@ Here are the main scicloj-related active streams, dedicated to certain subgroups
 
 - [#libpython-clj-dev](https://clojurians.zulipchat.com/#narrow/stream/215609-libpython-clj-dev) - [libpython-clj](https://github.com/clj-python/libpython-clj) development and usage
 
+- [#libapl-clj-dev](https://clojurians.zulipchat.com/#narrow/stream/274747-libapl-clj-dev) - [libapl-clj](https://github.com/jjtolton/libapl-clj) development and usage
+
 - [#r-interop](https://clojurians.zulipchat.com/#narrow/stream/204621-r-interop) - R-interop development and usage: various libraries such as [graalvm-interop](https://github.com/davidpham87/graalvm-rinterop) and [clojisr](https://github.com/scicloj/clojisr)
 
 - [#clojisr-dev](https://clojurians.zulipchat.com/#narrow/stream/224816-clojisr-dev) - [clojisr](https://github.com/scicloj/clojisr) development
