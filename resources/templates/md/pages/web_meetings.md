@@ -15,10 +15,16 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 Below are our past and future meetings. It is also recommended to follow the [general Clojure calendar feed](https://clojureverse.org/t/clojure-events-calendar-feed/).
 
-
 ## Future
 
-- Jan 28th, 4pm UTC - Alan Dipert: Common Lisp for the Curious Clojurian - [details & RSVP](https://clojureverse.org/t/scicloj-public-meeting-common-lisp-for-the-curious-clojurian/7060)
+### Jan 29th-31th study weekend
+The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time). If you want to join any of the sessions, [let us talk](../about/#where).
+- [1300 29 Jan 2021 in UTC](https://time.is/1300_29_Jan_2021_in_UTC/) - ml-study
+- [1900 29 Jan 2021 in UTC](https://time.is/1900_29_Jan_2021_in_UTC/) - sci-fu
+- [1300 30 Jan 2021 in UTC](https://time.is/1300_30_Jan_2021_in_UTC/) - ml-study
+- [1900 30 Jan 2021 in UTC](https://time.is/1900_30_Jan_2021_in_UTC/) - sci-fu
+- [1300 31 Jan 2021 in UTC](https://time.is/1300_31_Jan_2021_in_UTC/) - ml-study
+- [1900 31 Jan 2021 in UTC](https://time.is/1900_31_Jan_2021_in_UTC/) - sci-fu
 
 ## Past
 
@@ -68,6 +74,8 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 - [Dec 2nd, 14:00 UTC](https://time.is/1400_02_Dec_2020_in_UTC/) - Sicmutils #1 - geometry, symbolic math, and physics in Clojure(script) - [background](https://clojureverse.org/t/scicloj-meeting-sicmutils-1-geometry-symbolic-math-and-physics-in-clojure-script/6840) - [video](https://www.youtube.com/watch?v=GyUSh0AAloA)
 
 - [Dec 16th, 14:00 UTC](https://time.is/1400_16_Dec_2020_in_UTC/) (**note the date change**) - Nikita Prokopov about Skija -- graphics in the JVM - [Video](https://www.youtube.com/watch?v=t1X-Oln1u24)
+
+- Jan 28th, 4pm UTC - Alan Dipert: Common Lisp for the Curious Clojurian - [details](https://clojureverse.org/t/scicloj-public-meeting-common-lisp-for-the-curious-clojurian/7060)
 
 ### Study meetings
 
