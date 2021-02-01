@@ -17,15 +17,6 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ## Future
 
-### Jan 29th-31th study weekend
-The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time). If you want to join any of the sessions, [let us talk](../about/#where).
-- [1300 29 Jan 2021 in UTC](https://time.is/1300_29_Jan_2021_in_UTC/) - ml-study
-- [1900 29 Jan 2021 in UTC](https://time.is/1900_29_Jan_2021_in_UTC/) - sci-fu
-- [1300 30 Jan 2021 in UTC](https://time.is/1300_30_Jan_2021_in_UTC/) - ml-study
-- [1900 30 Jan 2021 in UTC](https://time.is/1900_30_Jan_2021_in_UTC/) - sci-fu
-- [1300 31 Jan 2021 in UTC](https://time.is/1300_31_Jan_2021_in_UTC/) - ml-study
-- [1900 31 Jan 2021 in UTC](https://time.is/1900_31_Jan_2021_in_UTC/) - sci-fu
-
 ## Past
 
 ### Interviews
@@ -167,5 +158,14 @@ The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) 
 - [1900 23 Jan 2021 in UTC](https://time.is/1900_23_Jan_2021_in_UTC/) - sci-fu
 - [1400 24 Jan 2021 in UTC](https://time.is/1400_24_Jan_2021_in_UTC/) - ml-study
 - [1900 24 Jan 2021 in UTC](https://time.is/1900_24_Jan_2021_in_UTC/) - sci-fu
+
+### Jan 29th-31th study weekend
+The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time). If you want to join any of the sessions, [let us talk](../about/#where).
+- [1300 29 Jan 2021 in UTC](https://time.is/1300_29_Jan_2021_in_UTC/) - ml-study
+- [1900 29 Jan 2021 in UTC](https://time.is/1900_29_Jan_2021_in_UTC/) - sci-fu
+- [1300 30 Jan 2021 in UTC](https://time.is/1300_30_Jan_2021_in_UTC/) - ml-study
+- [1900 30 Jan 2021 in UTC](https://time.is/1900_30_Jan_2021_in_UTC/) - sci-fu
+- [1300 31 Jan 2021 in UTC](https://time.is/1300_31_Jan_2021_in_UTC/) - ml-study
+- [1900 31 Jan 2021 in UTC](https://time.is/1900_31_Jan_2021_in_UTC/) - sci-fu
 
 
