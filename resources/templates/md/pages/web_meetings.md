@@ -17,6 +17,15 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ## Future
 
+### Feb 5th-7th study weekend
+The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is exploring data problems and working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time).
+If you want to join any of the sessions, [let us talk](../about/#where). The sci-fu sessions are part of an ongoing process of a dev group, so if you are planning to join, it is imporant that we talk earlier to sync a little bit.
+This weekend, at ml-study, we will explore some problems about indexing and processing data with have location and time features, and practice building data pipelines using pure functions.
+- [1300 05 Feb 2021 in UTC](https://time.is/1300_05_Feb_2021_in_UTC/) - ml-study
+- [1300 06 Feb 2021 in UTC](https://time.is/1300_06_Feb_2021_in_UTC/) - ml-study
+- [1900 06 Feb 2021 in UTC](https://time.is/1900_06_Feb_2021_in_UTC/) - sci-fu
+- [1900 07 Feb 2021 in UTC](https://time.is/1900_07_Feb_2021_in_UTC/) - sci-fu
+
 ## Past
 
 ### Interviews
