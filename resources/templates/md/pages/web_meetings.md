@@ -24,9 +24,10 @@ If you want to join any of the sessions, [let us talk](../about/#where). The sci
   - [1900 12 Feb 2021 in UTC](https://time.is/1900_12_Feb_2021_in_UTC/) - sci-fu
   - [1300 13 Feb 2021 in UTC](https://time.is/1300_13_Feb_2021_in_UTC/) - ml-study
   - [1900 14 Feb 2021 in UTC](https://time.is/1900_14_Feb_2021_in_UTC/) - sci-fu
+  - [1900 15 Feb 2021 in UTC](https://time.is/1900_15_Feb_2021_in_UTC/) - sci-fu
 
 
-- [Feb 28th, 13:00 UTC](https://time.is/1300_28_Feb_2021_in_UTC/) - Anthony Khong about [fxl](https://github.com/zero-one-group/fxl): a composable, data-oriented spreadsheet library
+- [Feb 28th, 13:00 UTC](https://time.is/1300_28_Feb_2021_in_UTC/) - Anthony Khong about [fxl](https://github.com/zero-one-group/fxl): a composable, data-oriented spreadsheet library - [RSVP](http://bit.ly/scicloj-fxl-talk)
 
 ## Past
 
