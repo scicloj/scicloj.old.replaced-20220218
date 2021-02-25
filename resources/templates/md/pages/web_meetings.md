@@ -26,6 +26,7 @@ Starting from Feb. 24th, the [Sicmutils study group](https://clojureverse.org/t/
 
 ### Feb 26th-28th weekend
 The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is exploring data problems and working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook). The [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) is not meeting this weekend. If you want to join any of the sessions, [let us talk](../about/#where).
+Also, it is not too late to join the [Sicmutils study group](#sicmutils_study_group)
 
 
 - [Feb 26th, 10:00 UTC](https://time.is/1000_26_Feb_2021_in_UTC/) - ml-study - a meeting about [Tablecloth](https://github.com/scicloj/tablecloth)
