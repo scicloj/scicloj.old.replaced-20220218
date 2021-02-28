@@ -31,7 +31,7 @@ Also, it is not too late to join the [Sicmutils study group](#sicmutils_study_gr
 
 - [Feb 26th, 10:00 UTC](https://time.is/1000_26_Feb_2021_in_UTC/) - ml-study - a meeting about [Tablecloth](https://github.com/scicloj/tablecloth)
 - [Feb 28th, 13:00 UTC](https://time.is/1300_28_Feb_2021_in_UTC/) - Anthony Khong' talk about [fxl](https://github.com/zero-one-group/fxl): a composable, data-oriented spreadsheet library - [RSVP](http://bit.ly/scicloj-fxl-talk)
-- [Feb 28th, 19:00 UTC](https://time.is/1900_28_Feb_2021_in_UTC/) - ml-study - a session about [Notespace](https://github.com/scicloj/notespace) and [Hanami](https://github.com/jsa-aerial/hanami), probably looking in detail at some of the data visualization aspects of Sam Ritchie's [ex1-44 notebook](https://scicloj.github.io/notespace-sicmutils-example/docs/notespace-sicmutils-example/ex1-44/) about The Double Pendulum
+- [Feb 28th, 19:00 UTC](https://time.is/1900_28_Feb_2021_in_UTC/) - ml-study - a session about [Notespace](https://github.com/scicloj/notespace) and [Hanami](https://github.com/jsa-aerial/hanami), probably looking in detail at some of the data visualization aspects of Sam Ritchie's [ex1-44 notebook](https://scicloj.github.io/notespace-sicmutils-example/docs/notespace-sicmutils-example/ex1-44/) about The Double Pendulum - details [at Zulip (ml-study session 12.2)](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/session.2012.2E2)
 
 ## Past
 
