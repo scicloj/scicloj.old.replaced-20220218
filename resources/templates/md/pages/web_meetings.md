@@ -24,14 +24,13 @@ Starting from Feb. 24th, the [Sicmutils study group](https://clojureverse.org/t/
 
 ## Future
 
-### Feb 26th-28th weekend
-The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is exploring data problems and working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook). The [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) is not meeting this weekend. If you want to join any of the sessions, [let us talk](../about/#where).
-Also, it is not too late to join the [Sicmutils study group](#sicmutils_study_group)
-
-
-- [Feb 26th, 10:00 UTC](https://time.is/1000_26_Feb_2021_in_UTC/) - ml-study - a meeting about [Tablecloth](https://github.com/scicloj/tablecloth)
-- [Feb 28th, 13:00 UTC](https://time.is/1300_28_Feb_2021_in_UTC/) - Anthony Khong' talk about [fxl](https://github.com/zero-one-group/fxl): a composable, data-oriented spreadsheet library - [RSVP](http://bit.ly/scicloj-fxl-talk)
-- [Feb 28th, 19:00 UTC](https://time.is/1900_28_Feb_2021_in_UTC/) - ml-study - a session about [Notespace](https://github.com/scicloj/notespace) and [Hanami](https://github.com/jsa-aerial/hanami), probably looking in detail at some of the data visualization aspects of Sam Ritchie's [ex1-44 notebook](https://scicloj.github.io/notespace-sicmutils-example/docs/notespace-sicmutils-example/ex1-44/) about The Double Pendulum - details [at Zulip (ml-study session 12.2)](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/session.2012.2E2)
+### Mar 05th-07th study weekend
+- The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is exploring data problems and working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time).
+If you want to join any of the sessions, [let us talk](../about/#where). The sci-fu sessions are part of an ongoing process of a dev group, so if you are planning to join, it is imporant that we talk earlier to sync a little bit.
+  - [1000 05 Mar 2021 in UTC](https://time.is/1000_05 Mar_2021_in_UTC/) - ml-study
+  - [1900 06 Mar 2021 in UTC](https://time.is/1900_06_Mar_2021_in_UTC/) - sci-fu
+  - [0700 07 Mar 2021 in UTC](https://time.is/0700_07_Mar_2021_in_UTC/) - ml-study
+  - [1900 07 Mar 2021 in UTC](https://time.is/1900_07_Mar_2021_in_UTC/) - sci-fu
 
 ## Past
 
@@ -83,6 +82,8 @@ Also, it is not too late to join the [Sicmutils study group](#sicmutils_study_gr
 - [Dec 16th, 14:00 UTC](https://time.is/1400_16_Dec_2020_in_UTC/) (**note the date change**) - Nikita Prokopov about Skija -- graphics in the JVM - [Video](https://www.youtube.com/watch?v=t1X-Oln1u24)
 
 - Jan 28th, 4pm UTC - Alan Dipert: Common Lisp for the Curious Clojurian - [details](https://clojureverse.org/t/scicloj-public-meeting-common-lisp-for-the-curious-clojurian/7060) - [video](https://youtu.be/44Q9ew9JH_U) - [slides](http://bit.ly/scicloj-common-lisp-slides​)
+
+- [Feb 28th, 13:00 UTC](https://time.is/1300_28_Feb_2021_in_UTC/) - Anthony Khong' talk about [fxl](https://github.com/zero-one-group/fxl): a composable, data-oriented spreadsheet library - [RSVP](http://bit.ly/scicloj-fxl-talk)
 
 ### Study meetings
 
@@ -202,7 +203,6 @@ If you want to join any of the sessions, [let us talk](../about/#where). The sci
   - [1900 14 Feb 2021 in UTC](https://time.is/1900_14_Feb_2021_in_UTC/) - sci-fu
   - [1900 15 Feb 2021 in UTC](https://time.is/1900_15_Feb_2021_in_UTC/) - sci-fu
 
-
 ### Feb 19th-21th study weekend
 - The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is exploring data problems and working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time).
 If you want to join any of the sessions, [let us talk](../about/#where). The sci-fu sessions are part of an ongoing process of a dev group, so if you are planning to join, it is imporant that we talk earlier to sync a little bit.
@@ -210,4 +210,10 @@ If you want to join any of the sessions, [let us talk](../about/#where). The sci
   - [1900 20 Feb 2021 in UTC](https://time.is/1900_20_Feb_2021_in_UTC/) - sci-fu
   - [0730 21 Feb 2021 in UTC](https://time.is/0730_21_Feb_2021_in_UTC/) - ml-study
   - [1900 21 Feb 2021 in UTC](https://time.is/1900_21_Feb_2021_in_UTC/) - sci-fu
+
+### Feb 26th-28th weekend
+The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is exploring data problems and working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook). The [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) is not meeting this weekend. If you want to join any of the sessions, [let us talk](../about/#where).
+Also, it is not too late to join the [Sicmutils study group](#sicmutils_study_group)
+- [Feb 26th, 10:00 UTC](https://time.is/1000_26_Feb_2021_in_UTC/) - ml-study - a meeting about [Tablecloth](https://github.com/scicloj/tablecloth)
+- [Feb 28th, 19:00 UTC](https://time.is/1900_28_Feb_2021_in_UTC/) - ml-study - a session about [Notespace](https://github.com/scicloj/notespace) and [Hanami](https://github.com/jsa-aerial/hanami), probably looking in detail at some of the data visualization aspects of Sam Ritchie's [ex1-44 notebook](https://scicloj.github.io/notespace-sicmutils-example/docs/notespace-sicmutils-example/ex1-44/) about The Double Pendulum - details [at Zulip (ml-study session 12.2)](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/session.2012.2E2) - [recording](https://youtu.be/2tGk1Jh7dJs)
 
