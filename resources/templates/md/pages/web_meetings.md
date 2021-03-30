@@ -19,26 +19,23 @@ Below are our past and future meetings. It is also recommended to follow the [ge
 
 ### ml-study group
 
-At the ml-study group, we learn to use the emerging Clojure stack for machine learning and data science. We look into data problems and explore them, and sometimes document that in our handbook draft. You can bring your own problems and interests. 
-
-Follow the [ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) for details.
+At the ml-study group, we learn to use the emerging Clojure stack for machine learning and data science. We look into data problems and explore them, and sometimes document that in our handbook draft. You can bring your own problems and interests. Follow the [ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) for details.
 
 ### sci-fu group
 
-At the sci-fu (scicloj foundations) group, we become contributors to the emerging Clojure data-science stack. We work as an open-source dev group, plan on the big picture, and support each other in our tasks.
-
-Follow the [sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) for details.
+At the sci-fu (scicloj foundations) group, we become contributors to the emerging Clojure data-science stack. We work as an open-source dev group, plan on the big picture, and support each other in our tasks. Follow the [sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) for details.
 
 ### Sicmutils study group
 
-Starting from Feb. 24th, the [Sicmutils study group](https://clojureverse.org/t/scicloj-study-group-sicmutils/) has 3 **fixed weekly meetings** that you can choose from:
+Starting from Feb. 24th, the [Sicmutils study group](https://clojureverse.org/t/scicloj-study-group-sicmutils/) has 3 **fixed weekly meetings** that you can choose from.  Follow the [sicmutils stream](https://clojurians.zulipchat.com/#narrow/stream/267174-sicmutils) for details.
 * A. Wed. 02:00 UTC
 * B. Wed. 19:00 UTC
 * C. Sat. 15:00 UTC
 
+
 ## Future
 
-* An [ml-study session](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) about the emerging [scicloj.ml](https://github.com/scicloj/scicloj.ml) machine-learning library with the author, Carsten Behring.
+* [April 1st, 4pm UTC](https://time.is/1600_1_Apr_2021_in_UTC) - an [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study)  session about the emerging [scicloj.ml](https://github.com/scicloj/scicloj.ml) machine-learning library with the author, Carsten Behring.
 
 ## Past
 
