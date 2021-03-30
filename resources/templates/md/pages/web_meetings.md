@@ -15,7 +15,21 @@ Do you have and idea for a topic? - [Let us talk](../about/#where)!
 
 Below are our past and future meetings. It is also recommended to follow the [general Clojure calendar feed](https://clojureverse.org/t/clojure-events-calendar-feed/).
 
-## Sicmutils study group
+## Study groups
+
+### ml-study group
+
+At the ml-study group, we learn to use the emerging Clojure stack for machine learning and data science. We look into data problems and explore them, and sometimes document that in our handbook draft. You can bring your own problems and interests. 
+
+Follow the [ml-study stream](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) for details.
+
+### sci-fu group
+
+At the sci-fu (scicloj foundations) group, we become contributors to the emerging Clojure data-science stack. We work as an open-source dev group, plan on the big picture, and support each other in our tasks.
+
+Follow the [sci-fu stream](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) for details.
+
+### Sicmutils study group
 
 Starting from Feb. 24th, the [Sicmutils study group](https://clojureverse.org/t/scicloj-study-group-sicmutils/) has 3 **fixed weekly meetings** that you can choose from:
 * A. Wed. 02:00 UTC
@@ -24,13 +38,7 @@ Starting from Feb. 24th, the [Sicmutils study group](https://clojureverse.org/t/
 
 ## Future
 
-### Mar 05th-07th study weekend
-- The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is exploring data problems and working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time).
-If you want to join any of the sessions, [let us talk](../about/#where). The sci-fu sessions are part of an ongoing process of a dev group, so if you are planning to join, it is imporant that we talk earlier to sync a little bit.
-  - [1000 05 Mar 2021 in UTC](https://time.is/1000_05 Mar_2021_in_UTC/) - ml-study
-  - [1900 06 Mar 2021 in UTC](https://time.is/1900_06_Mar_2021_in_UTC/) - sci-fu
-  - [0700 07 Mar 2021 in UTC](https://time.is/0700_07_Mar_2021_in_UTC/) - ml-study
-  - [1900 07 Mar 2021 in UTC](https://time.is/1900_07_Mar_2021_in_UTC/) - sci-fu
+* An [ml-study session](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) about the emerging [scicloj.ml](https://github.com/scicloj/scicloj.ml) machine-learning library with the author, Carsten Behring.
 
 ## Past
 
@@ -83,9 +91,11 @@ If you want to join any of the sessions, [let us talk](../about/#where). The sci
 
 - Jan 28th, 4pm UTC - Alan Dipert: Common Lisp for the Curious Clojurian - [details](https://clojureverse.org/t/scicloj-public-meeting-common-lisp-for-the-curious-clojurian/7060) - [video](https://youtu.be/44Q9ew9JH_U) - [slides](http://bit.ly/scicloj-common-lisp-slides​)
 
-- [Feb 28th, 13:00 UTC](https://time.is/1300_28_Feb_2021_in_UTC/) - Anthony Khong' talk about [fxl](https://github.com/zero-one-group/fxl): a composable, data-oriented spreadsheet library - [RSVP](http://bit.ly/scicloj-fxl-talk)
+- [Feb 28th, 13:00 UTC](https://time.is/1300_28_Feb_2021_in_UTC/) - Anthony Khong' talk about [fxl](https://github.com/zero-one-group/fxl): a composable, data-oriented spreadsheet library - [video](https://youtu.be/d6qOzPQ9NUk)
 
-### Study meetings
+- [Feb 28th, 19:00 UTC](https://time.is/1900_28_Feb_2021_in_UTC/) - a public ml-study session about [Notespace](https://github.com/scicloj/notespace) and [Hanami](https://github.com/jsa-aerial/hanami) - [video](https://youtu.be/2tGk1Jh7dJs)
+
+### Study meetings - archive
 
 - November machine learning study meetings - [background](../../posts/2020-10-29-nov-2020-ml-study-meetings/)
  - [11:00 13 Nov 2020 in UTC](https://time.is/1100_13_Nov_2020_in_UTC/)
@@ -142,7 +152,7 @@ If you want to join any of the sessions, [let us talk](../about/#where). The sci
   - [19:00 UTC, Jan 2nd 2021](https://time.is/1900_02_Jan_2021_in_UTC/)
   - [19:00 UTC, Jan 3rd 2021](https://time.is/1900_03_Jan_2021_in_UTC/)
 
-### Jan 8th-10th study weekend
+#### Jan 8th-10th study weekend
 The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on the [tablecloth.time](https://github.com/scicloj/tablecloth.time) time-series processing library. If you want to join any of the sessions, [let us talk](../about/#where).
 
 * [9:00 08 Jan 2021 in UTC/](https://time.is/900_08_Jan_2021_in_UTC/) - ml-study
@@ -155,7 +165,7 @@ The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) 
 * [16:00 10 Jan 2021 in UTC/](https://time.is/1600_10_Jan_2021_in_UTC/) - ml-study
 * [19:00 10 Jan 2021 in UTC/](https://time.is/1900_10_Jan_2021_in_UTC/) - sci-fu
   
-### Jan 15th-17th study weekend
+#### Jan 15th-17th study weekend
 The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time). If you want to join any of the sessions, [let us talk](../about/#where).
 
 - [1100 15 Jan 2021 in UTC](https://time.is/1100_15_Jan_2021_in_UTC/) - ml-study
@@ -168,7 +178,7 @@ The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) 
 - [1500 17 Jan 2021 in UTC](https://time.is/1500_17_Jan_2021_in_UTC/) - ml-study
 - [1900 17 Jan 2021 in UTC](https://time.is/1900_17_Jan_2021_in_UTC/) - sci-fu
 
-### Jan 22th-24th study weekend
+#### Jan 22th-24th study weekend
 The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time). If you want to join any of the sessions, [let us talk](../about/#where).
 - [1400 22 Jan 2021 in UTC](https://time.is/1400_22_Jan_2021_in_UTC/) - ml-study
 - [1400 23 Jan 2021 in UTC](https://time.is/1400_23_Jan_2021_in_UTC/) - ml-study
@@ -176,7 +186,7 @@ The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) 
 - [1400 24 Jan 2021 in UTC](https://time.is/1400_24_Jan_2021_in_UTC/) - ml-study
 - [1900 24 Jan 2021 in UTC](https://time.is/1900_24_Jan_2021_in_UTC/) - sci-fu
 
-### Jan 29th-31th study weekend
+#### Jan 29th-31th study weekend
 The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time). If you want to join any of the sessions, [let us talk](../about/#where).
 - [1300 29 Jan 2021 in UTC](https://time.is/1300_29_Jan_2021_in_UTC/) - ml-study
 - [1900 29 Jan 2021 in UTC](https://time.is/1900_29_Jan_2021_in_UTC/) - sci-fu
@@ -185,7 +195,7 @@ The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) 
 - [1300 31 Jan 2021 in UTC](https://time.is/1300_31_Jan_2021_in_UTC/) - ml-study
 - [1900 31 Jan 2021 in UTC](https://time.is/1900_31_Jan_2021_in_UTC/) - sci-fu
 
-### Feb 5th-7th study weekend
+#### Feb 5th-7th study weekend
 - The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is exploring data problems and working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time).
 If you want to join any of the sessions, [let us talk](../about/#where). The sci-fu sessions are part of an ongoing process of a dev group, so if you are planning to join, it is imporant that we talk earlier to sync a little bit.
 This weekend, at ml-study, we will explore some problems about indexing and processing data with have location and time features, and practice building data pipelines using pure functions.
@@ -194,7 +204,7 @@ This weekend, at ml-study, we will explore some problems about indexing and proc
   - [1900 06 Feb 2021 in UTC](https://time.is/1900_06_Feb_2021_in_UTC/) - sci-fu
   - [1900 07 Feb 2021 in UTC](https://time.is/1900_07_Feb_2021_in_UTC/) - sci-fu
 
-### Feb 12th-14th study weekend
+#### Feb 12th-14th study weekend
 - The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is exploring data problems and working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time).
 If you want to join any of the sessions, [let us talk](../about/#where). The sci-fu sessions are part of an ongoing process of a dev group, so if you are planning to join, it is imporant that we talk earlier to sync a little bit.
   - [1300 12 Feb 2021 in UTC](https://time.is/1300_12_Feb_2021_in_UTC/) - ml-study
@@ -203,7 +213,7 @@ If you want to join any of the sessions, [let us talk](../about/#where). The sci
   - [1900 14 Feb 2021 in UTC](https://time.is/1900_14_Feb_2021_in_UTC/) - sci-fu
   - [1900 15 Feb 2021 in UTC](https://time.is/1900_15_Feb_2021_in_UTC/) - sci-fu
 
-### Feb 19th-21th study weekend
+#### Feb 19th-21th study weekend
 - The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is exploring data problems and working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time).
 If you want to join any of the sessions, [let us talk](../about/#where). The sci-fu sessions are part of an ongoing process of a dev group, so if you are planning to join, it is imporant that we talk earlier to sync a little bit.
   - [1300 19 Feb 2021 in UTC](https://time.is/1300_19_Feb_2021_in_UTC/) - ml-study
@@ -211,9 +221,18 @@ If you want to join any of the sessions, [let us talk](../about/#where). The sci
   - [0730 21 Feb 2021 in UTC](https://time.is/0730_21_Feb_2021_in_UTC/) - ml-study
   - [1900 21 Feb 2021 in UTC](https://time.is/1900_21_Feb_2021_in_UTC/) - sci-fu
 
-### Feb 26th-28th weekend
+#### Feb 26th-28th weekend
 The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is exploring data problems and working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook). The [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) is not meeting this weekend. If you want to join any of the sessions, [let us talk](../about/#where).
 Also, it is not too late to join the [Sicmutils study group](#sicmutils_study_group)
+
+### Mar 05th-07th study weekend
+- The [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study) group is exploring data problems and working on [the Scicloj Data Science Handbook](https://github.com/scicloj/scicloj-data-science-handbook), and the [sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) group is working on [tablecloth](https://github.com/scicloj/tablecloth) and [tablecloth.time](https://github.com/scicloj/tablecloth.time).
+If you want to join any of the sessions, [let us talk](../about/#where). The sci-fu sessions are part of an ongoing process of a dev group, so if you are planning to join, it is imporant that we talk earlier to sync a little bit.
+  - [1000 05 Mar 2021 in UTC](https://time.is/1000_05 Mar_2021_in_UTC/) - ml-study
+  - [1900 06 Mar 2021 in UTC](https://time.is/1900_06_Mar_2021_in_UTC/) - sci-fu
+  - [0700 07 Mar 2021 in UTC](https://time.is/0700_07_Mar_2021_in_UTC/) - ml-study
+  - [1900 07 Mar 2021 in UTC](https://time.is/1900_07_Mar_2021_in_UTC/) - sci-fu
+
 - [Feb 26th, 10:00 UTC](https://time.is/1000_26_Feb_2021_in_UTC/) - ml-study - a meeting about [Tablecloth](https://github.com/scicloj/tablecloth)
 - [Feb 28th, 19:00 UTC](https://time.is/1900_28_Feb_2021_in_UTC/) - ml-study - a session about [Notespace](https://github.com/scicloj/notespace) and [Hanami](https://github.com/jsa-aerial/hanami), probably looking in detail at some of the data visualization aspects of Sam Ritchie's [ex1-44 notebook](https://scicloj.github.io/notespace-sicmutils-example/docs/notespace-sicmutils-example/ex1-44/) about The Double Pendulum - details [at Zulip (ml-study session 12.2)](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study/topic/session.2012.2E2) - [recording](https://youtu.be/2tGk1Jh7dJs)
 

@@ -24,7 +24,11 @@ Here are the main scicloj-related active streams, dedicated to certain subgroups
 
 - [#sci-fu](https://clojurians.zulipchat.com/#narrow/stream/265544-sci-fu) - Scicloj foundations study group - learning together to build the Clojure data science ecosystem
 
+- [#sicmutils](https://clojurians.zulipchat.com/#narrow/stream/267174-sicmutils) - updates and discussions about [sicmutils](https://github.com/littleredcomputer/sicmutils) and its study group
+
 - [#tech.ml.dataset.dev](https://clojurians.zulipchat.com/#narrow/stream/236259-tech.2Eml.2Edataset.2Edev) - discussing [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset)
+
+- [#scicloj.ml-dev](https://clojurians.zulipchat.com/#narrow/stream/283491-scicloj.2Eml-dev) - discussing [scicloj.ml](https://github.com/scicloj/scicloj.ml)
 
 - [#cljplot-dev](https://clojurians.zulipchat.com/#narrow/stream/197967-cljplot-dev) - [cljplot](https://github.com/generateme/cljplot) develompemt
 
@@ -33,8 +37,6 @@ Here are the main scicloj-related active streams, dedicated to certain subgroups
 - [#pink-gorilla-dev](https://clojurians.zulipchat.com/#narrow/stream/212578-pink-gorilla-dev) - development of [Pink Gorilla](https://pink-gorilla.github.io)
 
 - [#notespace-dev](https://clojurians.zulipchat.com/#narrow/stream/224153-notespace-dev) - [notespace](https://github.com/scicloj/notespace) development
-
-- [#sicmutils](https://clojurians.zulipchat.com/#narrow/stream/267174-sicmutils) - updates and discussions about [sicmutils](https://github.com/littleredcomputer/sicmutils)
 
 - [#libpython-clj-dev](https://clojurians.zulipchat.com/#narrow/stream/215609-libpython-clj-dev) - [libpython-clj](https://github.com/clj-python/libpython-clj) development and usage
 
