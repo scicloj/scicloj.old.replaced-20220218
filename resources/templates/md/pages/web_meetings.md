@@ -35,7 +35,7 @@ Starting from Feb. 24th, the [Sicmutils study group](https://clojureverse.org/t/
 
 ## Future
 
-* [April 1st, 4pm UTC](https://time.is/1600_1_Apr_2021_in_UTC) - an [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study)  session about the emerging [scicloj.ml](https://github.com/scicloj/scicloj.ml) machine-learning library with the author, Carsten Behring.
+* ~~[April 1st, 4pm UTC](https://time.is/1600_1_Apr_2021_in_UTC) - an [ml-study](https://clojurians.zulipchat.com/#narrow/stream/264992-ml-study)  session about the emerging [scicloj.ml](https://github.com/scicloj/scicloj.ml) machine-learning library with the author, Carsten Behring.~~ - cancelled
 
 ## Past
 
