@@ -132,6 +132,7 @@ In addition to Oz, Hanami and Gorilla-plot mentioned above, here is a list of de
 
 ## Machine learning
 - [tech.ml-base](https://github.com/techascent/tech.ml-base) (`act`): `ml` - a machine learning platform based on tech.ml.dataset, supporting not just ml algorithms, but also relevant ETL processing; wraps multiple machine learning libraries
+- [scicloj.ml](https://github.com/scicloj/scicloj.ml) (`act`): `ml` - Evolution of `tech.ml` library towards full support of [pipelines](https://github.com/scicloj/metamorph)
 - [clj-ml](https://github.com/joshuaeckroth/clj-ml/): `ml` - machine learning based on wrapping libraries such as the Weka Java library
 - [clj-boost](https://gitlab.com/alanmarazzi/clj-boost): `ml` - a wrapper for XGBoost
 - [propaganda](https://github.com/tgk/propaganda): `ml` - an implementation of the propagator computational model
