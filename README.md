@@ -1,4 +1,4 @@
-# Source of the Scicloj website
+# Source of the old Scicloj website -- replaced by https://github.com/scicloj.github.io on 2022-02-18
 
 ## What is this?
 The [Scicloj website](https://scicloj.github.io/) is hosted on Github Pages [here](https://github.com/scicloj/scicloj.github.com). 
